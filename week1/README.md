@@ -45,6 +45,7 @@
 ### Homework/References
 
 - [Student Guide](./conditionals-and-user-input.md)
+- Set up a CodingBat account(http://codingbat.com/java)
 
 ## Thursday, Sept. 28th
 
@@ -68,6 +69,6 @@
 
 Weekly Graded Exercise: [Fortune-Teller](../exercises/fortune-teller/)
 
-Due Monday, May 22, 9:30 AM: [Submission Link](https://goo.gl/forms/RaUf4mnPEUoi6kp23)
+Due Monday, Oct 2, 9:30 AM: [Submission Link](https://goo.gl/forms/RaUf4mnPEUoi6kp23)
 
 Your repository should look something like (this is mine): `https://github.com/btforsythe/fortune-teller`. Note my user id (`btforsythe`) and repository name (`fortune-teller`).
