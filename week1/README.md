@@ -1,10 +1,12 @@
 # Week 1
 
-## Monday, May 15th
+## Monday, Sept. 25th
 
 ### Topics
 
+- Introductions
 - Team Building: "Hello, Team!"
+- Laptops
 - Introduction to Eclipse
   - workspaces
   - projects
@@ -20,7 +22,7 @@
 - The Eclipse help system (Help->Help Contents) from within Eclipse
 - [Hello, World slides](https://wecancodeit.github.io/java-slides/fundamentals/hello-world/)
 
-## Tuesday, May 16th
+## Tuesday, Sept. 26th
 
 ### Topics
 
@@ -31,7 +33,7 @@
 
 - [Student Guide](./types-and-expressions.md)
 
-## Wednesday, May 17th
+## Wednesday, Sept. 27th
 
 ### Topics
 
@@ -42,7 +44,7 @@
 
 - [Student Guide](./conditionals-and-user-input.md)
 
-## Thursday, May 18th
+## Thursday, Sept. 28th
 
 ### Topics
 
@@ -60,7 +62,7 @@
 - [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
 - [Git Bash commands cheat sheet (work in progress)](https://github.com/WeCanCodeIT/java-resources/tree/master/bash)
 
-## Friday, May 19th
+## Friday, Sept. 29th
 
 Weekly Graded Exercise: [Fortune-Teller](../exercises/fortune-teller/)
 
