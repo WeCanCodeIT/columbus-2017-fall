@@ -6,6 +6,8 @@
 
 - Introductions
 - Team Building: "Hello, Team!"
+- Expectations
+- Policy
 - Laptops
 - Introduction to Eclipse
   - workspaces
