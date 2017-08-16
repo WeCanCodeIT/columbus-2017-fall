@@ -70,22 +70,20 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 
 # Important Dates
 
-- May 29: Memorial Day (no class)
-- July 3 and 4: Fourth of July (no class)
-- {TODO ???}: last day of class
-- {TODO ???}: career day & graduation
+- September 4: Labor Day (no class)
+- Dec 22 - Jan 1: Winter Break (no class)
+- Jan 15: MLK Day (no class)
+- Jan 16: last day of class
 
 # Attendance Policy
 
-Class is from 9:30am-3:30pm Monday-Friday, with the exception of holidays on which we will not be having class.
+Class is from 5:30PM-9:00PM Monday-Thursday, with tutoring / study periods Friday 5:30PM-7:00PM.
 
-You are required to attend a minimum of 90% of class time to be eligible for graduation. Attendance is measured *to the minute*—arriving late or leaving early will negatively impact your attendance. Please inform an instructor or TA if extenuating circumstances arise.
+You are required to attend a minimum of 90% of class time to be eligible for graduation. Attendance is measured *to the minute*—arriving late or leaving early will negatively impact your attendance. Please inform an instructor if extenuating circumstances arise.
 
 # Grading Policy
 
-In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. In addition, you must receive a grade of 70% or higher on the final project.
-
-## Attendance
+In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments.
 
 ## Projects
 
@@ -96,19 +94,19 @@ Projects are graded by WCCI staff. Projects are typically worth 100 points. 90 p
 Regarding late and incomplete projects, We Can Code IT’s policy is as follows:
 
 * For each day after the project is due, the grade will automatically be deducted by 10 percentage points of the maximum possible score.
-  * To be clear, a project due at 9:30 on a Monday morning is considered one day late starting at 9:31 that morning. 
-  * That project is then considered an additional day late starting at 9:31 on Tuesday morning, thereby being two days late.
-* After a project is five days late (using the above example, this would be Friday at 9:31 am), the project is automatically scored at a 0/100 or 0%.
+  * To be clear, a project due at 5:30PM on Monday is considered one day late starting at Monday at 5:31PM.
+  * That project is then considered an additional day late starting at 5:31PM on Tuesday, making that project two days late overall.
+* After a project is five days late (using the above example, this would be Friday at 5:31PM), the project is automatically scored at a 0/100 or 0%.
 * If a student knows in advance that she or he will not be able to submit the project by its due date, that student is required to notify the instructors via email as soon as possible.
 * Extensions on project submissions will be given with the Education Team’s discretion in the case of extenuating circumstances.
 
 ### Unsatisfactory Progress Probationary Period
 
-If a student is failing a portion of the program, the student will be placed on academic probation for two weeks. In this time period, the student will be put on a remediation plan and is expected to complete and pass any portion of the class in which the student has failed. If the student cannot resolve his or her failing status satisfactorily, he or she may be dismissed from the program. The student may be eligible for a refund based upon our stated refund policies.
+If a student is failing a portion of the program, the student will be placed on academic probation. In this time period, the student will be put on a remediation plan and is expected to complete and pass any portion of the class in which the student has failed. If the student cannot resolve his or her failing status satisfactorily, he or she may be dismissed from the program. The student may be eligible for a refund based upon our stated refund policies.
 
 ### Final Projects
 
-Final projects will be worth 100 points per week worked on the project, with each week graded independently. These grades will be determined based upon the milestones set for each project and how well those milestones were met. Students must be passing the course prior to final projects to be eligible to participate in final projects.
+Students must be passing the course prior to final projects to be eligible to participate in final projects.
 
 # Course Resources
 
@@ -136,6 +134,7 @@ In addition to the required text, this and other We Can Code IT repositories wil
 
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [Programming by Doing](https://programmingbydoing.com/)
+- [CodingBat code practice](http://codingbat.com/java)
 - [tutorialspoint's Java Tutorial](https://www.tutorialspoint.com/java/)
 
 #### Spring
@@ -147,7 +146,7 @@ In addition to the required text, this and other We Can Code IT repositories wil
 #### JPA
 
 - [Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence) book on wikibooks
-	
+
 	There is a PDF version available at the above link which is easier to search/reference.
 
 ### Git
