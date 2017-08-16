@@ -67,7 +67,7 @@
 
 ### Homework
 
--CodingBat Warmup-2
+- CodingBat Warmup-2
 
 ### References
 
