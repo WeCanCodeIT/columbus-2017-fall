@@ -81,6 +81,13 @@
 
 ## Friday, Sept. 29th
 
+### Index Card Feedback
+ 
+ -Anonymous
+ -Questions/Comments/Concerns/Shout-Outs for the good of the order???
+ -I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
+ 
+
 Weekly Graded Exercise: [Fortune-Teller](../exercises/fortune-teller/)
 
 Due Monday, Oct 2, 9:30 AM: [Submission Link](https://goo.gl/forms/RaUf4mnPEUoi6kp23)
