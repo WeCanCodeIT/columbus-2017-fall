@@ -51,7 +51,7 @@ Your passwords did not match please try again.
 
 ### Make a user name
 
-Ask the user to create a user name. Make sure the user name is at least 8 characters in length and that the userName contains the word "code" somewhere regardless of case. Greet the user by their user name if it is properly entered, otherwise inform the user they need to try again.
+Ask the user to create a user name. Make sure the user name is at least 8 characters in length and that the user name contains the word "code" somewhere regardless of case. Greet the user by their user name if it is properly entered, otherwise inform the user they need to try again.
 
 #### Examples
 
