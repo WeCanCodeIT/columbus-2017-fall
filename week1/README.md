@@ -16,7 +16,7 @@
 
 ### Homework
 
-- Join Slack
+- Join Slack(https://www.youtube.com/watch?v=9RJZMSsH7-g)
 - Research [houses](./houses.md)
 
 ### References
