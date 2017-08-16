@@ -52,7 +52,7 @@
 
 - [Practice Problems](./practice-problems.md)
 - Setup [CodingBatAccount](http://codingbat.com/java)
-  -Work through Warmup-1
+  - Work through Warmup-1
 
 ### References
 
