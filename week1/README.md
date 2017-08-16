@@ -33,7 +33,7 @@
 
 ## Homework
 
-- Continue practicing translating the small word problems from [in class slides](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
+- Continue practicing translating the small word problems from [in class slides #14 and #15](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
 
 
 ### References
