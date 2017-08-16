@@ -83,9 +83,9 @@
 
 ### Index Card Feedback
  
- -Anonymous
- -Questions/Comments/Concerns/Shout-Outs for the good of the order???
- -I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
+ - Anonymous
+ - Questions/Comments/Concerns/Shout-Outs for the good of the order???
+ - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
  
 
 Weekly Graded Exercise: [Fortune-Teller](../exercises/fortune-teller/)
