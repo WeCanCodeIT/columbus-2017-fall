@@ -28,9 +28,9 @@ Ask the user for two Strings. Check and see if the two Strings are equal to each
 
 ```bash
 Enter your first String:
-16
+Hello
 Enter your second String:
-18
+World
 The Strings Hello and World are not equal to each other.
 ```
 
@@ -53,4 +53,6 @@ WeCanDoIt
 
 Improper user name. Please try again.
 ```
+
+
 
