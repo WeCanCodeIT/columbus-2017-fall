@@ -45,7 +45,7 @@
 ### Homework/References
 
 - [Student Guide](./conditionals-and-user-input.md)
-- [Set up a CodingBat account] (http://codingbat.com/java)
+- Setup [CodingBatAccount](http://codingbat.com/java)
 
 ## Thursday, Sept. 28th
 
