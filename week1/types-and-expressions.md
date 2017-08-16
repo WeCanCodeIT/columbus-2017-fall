@@ -44,5 +44,4 @@
 - [Operators and Expressions Slides (with Problems)](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
 - [Codefights](https://codefights.com/)
 
-## Homework
-- Continue practicing translating the small word problems from [in class slides](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
+
