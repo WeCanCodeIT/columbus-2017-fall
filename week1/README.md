@@ -31,9 +31,11 @@
 - Basic Types and Variables
 - Operators and Expressions
 
-### Homework/References
+### Homework
 
 - [Student Guide](./types-and-expressions.md)
+
+### References
 
 ## Wednesday, Sept. 27th
 
@@ -42,10 +44,12 @@
 - Conditionals
 - Accepting User Input
 
-### Homework/References
+### Homework
 
 - [Student Guide](./conditionals-and-user-input.md)
 - Setup [CodingBatAccount](http://codingbat.com/java)
+
+### References
 
 ## Thursday, Sept. 28th
 
@@ -54,16 +58,20 @@
 - Strings
 - Git and GitHub
 
+### Homework
+
+### References
+
+- [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
+- [Git Bash commands cheat sheet (work in progress)](https://github.com/WeCanCodeIT/java-resources/tree/master/bash)
+
 ### Objectives
 
 - Learn how to manipulate text by using Strings
 - Learn how to explore classes in Eclipse
 - Learn the Git/GitHub basics
 
-### Resources
 
-- [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
-- [Git Bash commands cheat sheet (work in progress)](https://github.com/WeCanCodeIT/java-resources/tree/master/bash)
 
 ## Friday, Sept. 29th
 
