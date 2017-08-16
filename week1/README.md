@@ -63,6 +63,9 @@
 ### Topics
 
 - Strings
+  - Manipulate Text
+  - Explore methods of the Strings class
+- Understand what Classes do in Eclipse
 - Git and GitHub
 
 ### Homework
@@ -73,13 +76,6 @@
 
 - [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
 - [Git Bash commands cheat sheet (work in progress)](https://github.com/WeCanCodeIT/java-resources/tree/master/bash)
-
-### Objectives
-
-- Learn how to manipulate text by using Strings
-- Learn how to explore classes in Eclipse
-- Learn the Git/GitHub basics
-
 
 
 ## Friday, Sept. 29th
