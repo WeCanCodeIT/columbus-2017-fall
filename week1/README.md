@@ -31,7 +31,7 @@
 - Basic Types and Variables
 - Operators and Expressions
 
-## Homework
+### Homework
 
 - Continue practicing translating the small word problems from [in class slides #14 and #15](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
 
