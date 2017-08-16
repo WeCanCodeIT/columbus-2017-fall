@@ -70,6 +70,7 @@
 
 ### Homework
 
+- [Practice Problems and String Challenges] (./strings.md)
 - CodingBat Warmup-2
 
 ### References
