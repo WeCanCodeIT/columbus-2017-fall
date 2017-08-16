@@ -50,10 +50,12 @@
 
 ### Homework
 
-- [Student Guide](./conditionals-and-user-input.md)
+- [Practice Problems](./practice-problems.md)
 - Setup [CodingBatAccount](http://codingbat.com/java)
 
 ### References
+
+- [Student Guide](./conditionals-and-user-input.md)
 
 ## Thursday, Sept. 28th
 
