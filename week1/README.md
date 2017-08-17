@@ -50,9 +50,9 @@
 
 ### Homework
 
-- [Practice Problems](./practice-problems.md)
 - Setup [CodingBatAccount](http://codingbat.com/java)
   - Work through Warmup-1
+- [Practice Problems](./practice-problems.md)
 
 ### References
 
