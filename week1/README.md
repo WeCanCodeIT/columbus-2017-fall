@@ -51,7 +51,7 @@
 ### Homework
 
 - Setup [CodingBatAccount](http://codingbat.com/java)
-  - Work through Warmup-1
+  - Work through Warmup-1 NON STRING PROBLEMS ONLY
 - [Practice Problems](./practice-problems.md)
 
 ### References
@@ -71,7 +71,7 @@
 ### Homework
 
 - [Practice Problems and String Challenges](./strings.md)
-- CodingBat Warmup-2
+- CodingBat Warmup-1 NOW YOU CAN DO STRING PROBLEMS : )
 
 ### References
 
