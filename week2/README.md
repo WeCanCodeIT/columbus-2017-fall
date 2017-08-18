@@ -79,9 +79,12 @@
 
 ### Homework
 
+- Recommended Reading: Head First Java pages 54-56, 71-82, 99-102
+- Practice, practice and more practice (review your programs from the week!)
+
 ### References
 
-- Anatomy of a Class
+- Anatomy of a Class (We will complete together in class)
 
 ## Friday, Oct 6
 
