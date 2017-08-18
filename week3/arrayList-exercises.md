@@ -10,9 +10,9 @@
     |baking soda|
 
 
-  
+  1. Without manipulating your created list, and through ArrayList methods perform the following tasks:
     - [ ] remove the flour
-    - [ ] replace eggs with olive oil
+    - [ ] replace oil with olive oil
     - [ ] add milk as the first ingredient on the list
     - [ ] display the ingredients in the console with the label: "Bake a cake with these ingredients: "
     
