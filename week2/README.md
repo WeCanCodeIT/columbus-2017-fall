@@ -9,6 +9,24 @@
 - `while` loops
 - `do/while` loops
 - infinite loops and the debugger
+- branching statements: `break`, `continue`, and `return` (time permitting)
+
+### Homework
+
+- While Loop practice problems
+- Loops Part 1 Slide # 10
+- Recommended Reading: Head First Java pages 10-14, 23, 24
+
+### References
+
+- [Loops, Part 1 slides](https://wecancodeit.github.io/java-slides/fundamentals/loops-01/)
+- [Oracle Java Tutorial, The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
+
+
+## Tuesday, Oct 3
+
+### Topics
+
 - branching statements: `break`, `continue`, and `return`
 - nested loops
 - `for` loops
@@ -16,22 +34,18 @@
 
 ### Homework
 
+- For Loop practice problems
+- CodingBat Warmup 2 
+
 ### References
 
-- [Loops, Part 1 slides](https://wecancodeit.github.io/java-slides/fundamentals/loops-01/)
 - [For Loops slides](https://wecancodeit.github.io/java-slides/fundamentals/for-loops/)
-- [Oracle Java Tutorial, The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
 - [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
 
 
-
-## Tuesday, May 23
-
--Arrays
-
 ## Wednesday, May 24
 
-- Continue from Tuesday
+- Arrays
 
 ## Thursday, May 25
 
