@@ -43,7 +43,7 @@
 - [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
 
 
-## Wednesday, May 24
+## Wednesday, Oct 4
 
 ### Topics
 
@@ -68,25 +68,31 @@
 - [Oracle Java Tutorial, Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 
 
-## Thursday, May 25
+## Thursday, Oct 5
 
 ### Topics
-
-- Classes
-- Objects
-- Methods
-
-### Goals
 
 - Students should be able to create a class.
 - Students should be able to create instances of a class (objects) using the `new` operator.
 - Students should be able to create and manipulate instance variables.
 - Students should be able to create and use methods.
 
-## Friday, May 26
+### Homework
+
+### References
+
+- Anatomy of a Class
+
+## Friday, Oct 6
+
+### Index Card Feedback
+ 
+ - Anonymous
+ - Questions/Comments/Concerns/Shout-Outs for the good of the order???
+ - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
 
 Weekly Graded Exercise: [Virtual Pet](../exercises/virtual-pet/)
 
-Due Tuesday, May 30, 9:30 AM: [Submission Link](https://goo.gl/forms/Dp5jNCawPJtp0H7x2)
+Due Monday, Oct 9, 9:30 AM: [Submission Link](https://goo.gl/forms/Dp5jNCawPJtp0H7x2)
 
-Enjoy the holiday weekend! (Remember to write some code.)
+
