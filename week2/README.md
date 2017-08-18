@@ -13,7 +13,7 @@
 
 ### Homework
 
-- While Loop practice problems
+- [While Loop practice problems](./while-loop-practice.md)
 - Loops Part 1 Slide # 10
 - Recommended Reading: Head First Java pages 10-14, 23, 24
 
