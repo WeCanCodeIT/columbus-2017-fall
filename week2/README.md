@@ -34,7 +34,7 @@
 
 ### Homework
 
-- For Loop practice problems
+- - [For Loop practice problems](./for-loop-practice.md)
 - CodingBat Warmup 2 
 
 ### References
