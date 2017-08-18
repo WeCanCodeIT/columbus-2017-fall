@@ -1,7 +1,7 @@
 1. Create a map for a restaurant's menu with the menu items and prices (use `double`) for the items as entries.
 
-    |menu item|price|
-    |---------|----:|
+    |ingredients|
+    |---------:|
     |Spaghetti|$8.97|
     |Lasagna|$10.98|
     |Pizza|$15.50|
