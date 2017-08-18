@@ -1,4 +1,4 @@
-1. Let's bake a cake
+1. Let's bake a cake, create the following list:
 
     |ingredients|
     |---------:|
