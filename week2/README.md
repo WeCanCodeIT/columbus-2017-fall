@@ -1,12 +1,33 @@
 # Week 2
 
-## Monday, May 22
+## Monday, Oct 2
 
-- Arrays: [Student Guide](./arrays.md)
+### Topics
+
+- Understanding when to use loops
+- Understand why a loop would be needed
+- `while` loops
+- `do/while` loops
+- infinite loops and the debugger
+- branching statements: `break`, `continue`, and `return`
+- nested loops
+- `for` loops
+- Students should understand how to use the Eclipse debugger to terminate a program.
+
+### Homework
+
+### References
+
+- [Loops, Part 1 slides](https://wecancodeit.github.io/java-slides/fundamentals/loops-01/)
+- [For Loops slides](https://wecancodeit.github.io/java-slides/fundamentals/for-loops/)
+- [Oracle Java Tutorial, The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
+- [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
+
+
 
 ## Tuesday, May 23
 
-- Loops, Part 1: [Student Guide](./loops-01.md)
+-Arrays
 
 ## Wednesday, May 24
 
