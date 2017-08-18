@@ -76,6 +76,7 @@
 
 - [Practice Problems and String Challenges](./strings.md)
 - CodingBat Warmup-1 NOW YOU CAN DO STRING PROBLEMS : )
+-[Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
 
 
 ### References
