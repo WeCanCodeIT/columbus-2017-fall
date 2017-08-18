@@ -45,7 +45,28 @@
 
 ## Wednesday, May 24
 
-- Arrays
+### Topics
+
+- Students should understand why and how an array is used.
+- Students should understand the syntax for creating and using arrays.
+	- Declaring an array.
+	- Creating an empty array.
+	- Initializing an array with values.
+	- Assigning values to array elements via index.
+	- Accessing values in an array via index.
+  - Determining length of an array
+- Students should be able to identify an example of when to use an array.
+
+### Homework
+
+--[Array practice problems](./array-practice.md)
+- [CodingBat Array2](http://codingbat.com/java) 
+
+### References
+
+- [Arrays slides](https://wecancodeit.github.io/java-slides/fundamentals/arrays/)
+- [Oracle Java Tutorial, Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+
 
 ## Thursday, May 25
 
