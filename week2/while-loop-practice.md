@@ -17,6 +17,7 @@ I just counted to 8!
 ### Find the evens
 
 Ask the user for a number. Display all the even numbers from 0 to that number and also keep track of the number of evens you found.
+Hint: you may need to google how to find an even number in Java.
 
 #### Examples
 
