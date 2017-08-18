@@ -8,6 +8,7 @@
 - Team Building: "Hello, Team!"
 - Expectations
 - Policy
+- Roadmap
 - Laptops
 - Introduction to Eclipse
   - workspaces
