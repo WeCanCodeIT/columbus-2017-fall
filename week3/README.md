@@ -1,6 +1,14 @@
 # Week 3
 
-## Tuesday, May 30
+## Monday, Oct 9
+
+### Topics
+
+### Homework
+
+### Resources
+
+## Tuesday, Oct 10
 
 ### Topics
 
