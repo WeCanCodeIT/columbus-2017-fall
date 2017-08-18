@@ -24,7 +24,7 @@ Ask the user for a name. Display a count of all the letter a's in the name.
 Enter a name:
 Atlanta
 
-There are 4 a's in Atlanta
+There are 3 a's in Atlanta
 ```
 
 ### Name Backwards
