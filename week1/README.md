@@ -18,6 +18,7 @@
 
 - Join [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
 - Research [houses](./houses.md)
+- Recommended reading: Head First Java pages xxvii,8-9
 
 ### References
 
@@ -34,6 +35,7 @@
 ### Homework
 
 - Continue practicing translating the small word problems from [in class slides #14 and #15](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
+- Recommended Reading: Head First Java pages 49-53
 
 
 ### References
@@ -53,6 +55,7 @@
 - Setup [CodingBatAccount](http://codingbat.com/java)
   - Work through Warmup-1 NON STRING PROBLEMS ONLY
 - [Practice Problems](./practice-problems.md)
+- Recommended Reading: Head First Java pages 11,13,20, 
 
 ### References
 
@@ -72,6 +75,7 @@
 
 - [Practice Problems and String Challenges](./strings.md)
 - CodingBat Warmup-1 NOW YOU CAN DO STRING PROBLEMS : )
+
 
 ### References
 
