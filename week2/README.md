@@ -35,7 +35,7 @@
 ### Homework
 
 - [For Loop practice problems](./for-loop-practice.md)
-- CodingBat Warmup 2 
+- [CodingBat Warmup 2](http://codingbat.com/java) 
 
 ### References
 
