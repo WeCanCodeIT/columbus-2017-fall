@@ -59,7 +59,7 @@
 
 ### Homework
 
-- [Array practice problems](./array-practice.md)
+- Practice problems on slides 10 and 14
 - [CodingBat Array2](http://codingbat.com/java) 
 
 ### References
