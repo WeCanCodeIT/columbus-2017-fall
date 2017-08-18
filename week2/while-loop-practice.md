@@ -40,6 +40,10 @@ Enter a user name:
 bob
 
 not long enough! try again!
+
 bob
 still not long enough! try again!!!!
+
+bobby
+Welcome bobby!
 ```
