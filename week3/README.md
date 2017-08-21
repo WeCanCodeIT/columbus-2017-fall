@@ -4,18 +4,19 @@
 
 ### Topics
 
-- ArrayLists
-- parameterized types / type parameters
-
-### Goals
-
 - Students should understand the differences between an array and an ArrayList.
-- Students should be able to create and manipulate an ArrayList.
+- Students should be able to create and manipulate an ArrayList through ArrayList methods
 - Students should understand how type parameters are used with an ArrayList.
 
-### Resources
+### Class Preparation
+
+- 
+
+### References
 
 - Slides: [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
+- [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+
 
 ## Tuesday, Oct 10
 
