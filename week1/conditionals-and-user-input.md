@@ -16,16 +16,16 @@
 - Students should be able to identify when a conditional statement is necessary to solve a problem
 
 #### User Input
--import java.util.Scanner;
--create an input object: Scanner input = new Scanner(System.in);
--4 Basic Steps to User Input Problem Solving
---Set up needed variables
---Gather input from user through data entry
---Create formula or decision structure needed to solve the problem
---Display output result 
+- import java.util.Scanner;
+- Create an input object: Scanner input = new Scanner(System.in);
+- 4 Basic Steps to User Input Problem Solving
+-- Set up needed variables
+-- Gather input from user through data entry
+-- Create formula or decision structure needed to solve the problem
+-- Display output result 
 
 ## Goals
 - Students should know the process to gather user input
--Students should understand the tools required to program user input entries
+- Students should understand the tools required to program user input entries
 
 
