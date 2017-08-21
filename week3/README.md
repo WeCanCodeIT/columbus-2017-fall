@@ -10,7 +10,9 @@
 
 ### Class Preparation
 
+- Complete the practice problems on Slide 17
 - 
+- Recommended Reading: Head First Java pages 131-139
 
 ### References
 
