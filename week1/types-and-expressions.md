@@ -38,10 +38,6 @@
 
 - Translate word problems into Java
 
-## Resources & Practice Problems
 
-- [Basic Types and Variables Slides](https://wecancodeit.github.io/java-slides/fundamentals/basic-types-and-variables/)
-- [Operators and Expressions Slides (with Problems)](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
-- [Codefights](https://codefights.com/)
 
 
