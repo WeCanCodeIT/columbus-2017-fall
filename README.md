@@ -70,14 +70,10 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 
 # Important Dates
 
-- September 4: Labor Day (no class)
-- Dec 22 - Jan 1: Winter Break (no class)
-- Jan 15: MLK Day (no class)
-- Jan 16: last day of class
 
 # Attendance Policy
 
-Class is from 5:30PM-9:00PM Monday-Thursday, with tutoring / study periods Friday 5:30PM-7:00PM.
+Class is from 9:30AM-3:30PM Monday-Friday, with tutoring / study periods Mon-Fri 3:30PM-5:00PM.
 
 You are required to attend a minimum of 90% of class time to be eligible for graduation. Attendance is measured *to the minute*—arriving late or leaving early will negatively impact your attendance. Please inform an instructor if extenuating circumstances arise.
 
