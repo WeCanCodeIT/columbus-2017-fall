@@ -51,7 +51,7 @@
 
 - 9:30 am class begins promptly
 - 10 min breaks every hour
-- 12:00 - 1:00 Lunch
+- 12:00 - 12:30 Lunch
   - It is important to take a break!
 - 3:20 check out process begins
   - What's your name?
