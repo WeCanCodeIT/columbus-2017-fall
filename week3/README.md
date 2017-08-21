@@ -40,10 +40,18 @@
 ## Wednesday, Oct 11
 
 ### Topics
+- Students will be able to understand the Java Control Framework
+- Students will be able to create and manipulate a Map
+
 
 ### Class Preparation
+- [Map Exercises](./map-exercises.md)
 
 ### References
+- Slides:
+	- [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
+	- [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
+
 
 ## Wednesday, Oct 11
 
