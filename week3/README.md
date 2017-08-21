@@ -41,7 +41,7 @@
 
 ### Topics
 - Students will be able to understand the Java Control Framework
-- Students will be able to create and manipulate a Map
+- Students will be able to create and manipulate a Map using methods of the Map class
 
 
 ### Class Preparation
