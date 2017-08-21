@@ -19,10 +19,10 @@
 - **import java.util.Scanner;**
 - Create an input object: **Scanner input = new Scanner(System.in);**
 - 4 Basic Steps to User Input Problem Solving
-- 1. Set up needed variables
-- 2. Gather input from user through data entry
-- 3. Create formula or decision structure needed to solve the problem
-- 4. Display output result 
+  1. Set up needed variables
+  2. Gather input from user through data entry
+  3. Create formula or decision structure needed to solve the problem
+  4. Display output result 
 
 ## Goals
 - Students should know the process to gather user input
