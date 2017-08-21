@@ -11,7 +11,7 @@
 ### Class Preparation
 
 - Complete the practice problems on Slide 17
-- 
+- [Let's Bake a Cake](./arrayList-exercises.md)
 - Recommended Reading: Head First Java pages 131-139
 
 ### References
