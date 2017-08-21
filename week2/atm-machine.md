@@ -8,15 +8,15 @@ Control your ATM object with a 3 parameter constructor(firstName,lastName,acct#)
 
 Make sure your ATM is able to do the following:
 -	Check for an acceptable 4 digit pin
-o	Allow access if the pin is correct
-o	Deny access otherwise
-•	Ask if the ATM is associated with user’s bank account
-o	Accept if it is
-o	Charge a 2.00 service fee if the ATM does not match with the users bank account
-•	Allow for Deposits
-•	Allow for Cash Withdrawals
-•	Allow for Balance Inquiries
-•	Print a summation of information at the end of all transactions for the user (toString())
+-	Allow access if the pin is correct
+-	Deny access otherwise
+-	Ask if the ATM is associated with user’s bank account
+-	Accept if it is
+-	Charge a 2.00 service fee if the ATM does not match with the users bank account
+-	Allow for Deposits
+-	Allow for Cash Withdrawals
+-	Allow for Balance Inquiries
+-	Print a summation of information at the end of all transactions for the user (toString())
 
 
 
