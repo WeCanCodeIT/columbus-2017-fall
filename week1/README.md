@@ -41,7 +41,7 @@
 
 ### References
 
-- [Student Guide](./types-and-expressions.md)
+- [Types and Expressions Student Guide](./types-and-expressions.md)
 
 
 ## Wednesday, Sept. 27th
