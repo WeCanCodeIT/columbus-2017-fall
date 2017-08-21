@@ -24,18 +24,19 @@
 
 ### Topics
 
-- ArrayLists
-- parameterized types / type parameters
+- Students should be able to create a class blueprint of an object
+- Studnets should be able to reference the created class to house ArrayList data (type parameters re-visited)
 
-### Goals
+### Class Preparation
 
-- Students should understand the differences between an array and an ArrayList.
-- Students should be able to create and manipulate an ArrayList.
-- Students should understand how type parameters are used with an ArrayList.
+- [Create a Shopping Cart](./shopping-cart.md)
 
-### Resources
+
+### References
 
 - Slides: [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
+- [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+
 
 ## Wednesday, May 31
 
