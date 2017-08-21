@@ -37,8 +37,15 @@
 - Slides: [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 - [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 
+## Wednesday, Oct 11
 
-## Wednesday, May 31
+### Topics
+
+### Class Preparation
+
+### References
+
+## Wednesday, Oct 11
 
 ### Topics
 
@@ -49,7 +56,7 @@
 - The diamond operator
 - Constructors
 
-## Thursday, June 1
+## Thursday, Oct 12
 
 ### Topics
 
@@ -64,7 +71,7 @@
 	- [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
 - [Map Exercises](./map-exercises.md)
 
-## Friday, June 2
+## Friday, Oct 13
 
 Weekly Graded Exercise: [Virtual Pet Shelter](../exercises/virtual-pet-shelter)
 
