@@ -69,6 +69,8 @@
 
 ### Class Preparation
 
+- [JUnit Testing in Eclipse](https://www.youtube.com/watch?v=tkzJsP7NP54)
+
 
 ### References
 
