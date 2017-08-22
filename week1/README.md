@@ -15,7 +15,7 @@
   - projects
 - Your First Java Application: "Hello, World!"
 
-### 
+### Class Preparation
 
 - Join [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
 - Research [houses](./houses.md)
@@ -33,7 +33,7 @@
 - Basic Types and Variables
 - Operators and Expressions
 
-### Homework
+### Class Preparation
 
 - Continue practicing translating the small word problems from [in class slides #14 and #15](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
 - Recommended Reading: Head First Java pages 49-53
@@ -54,7 +54,7 @@
 - Conditionals
 - Accepting User Input
 
-### Homework
+### Class Preparation
 
 - Setup [CodingBatAccount](http://codingbat.com/java)
   - Work through Warmup-1 NON STRING PROBLEMS ONLY
@@ -79,7 +79,7 @@
 - Understand what Classes do in Eclipse
 - Git and GitHub
 
-### Homework
+### Class Preparation
 
 - [Practice Problems and String Challenges](./strings.md)
 - CodingBat Warmup-1 NOW YOU CAN DO STRING PROBLEMS : )
