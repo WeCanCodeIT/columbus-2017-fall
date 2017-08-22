@@ -70,6 +70,8 @@
 ### Class Preparation
 
 - [JUnit Testing in Eclipse](https://www.youtube.com/watch?v=tkzJsP7NP54)
+- [One more time with Feeling](https://www.youtube.com/watch?v=2Ekty7t621k)
+
 
 
 ### References
