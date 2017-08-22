@@ -11,7 +11,7 @@
 - infinite loops and the debugger
 - branching statements: `break`, `continue`, and `return` (time permitting)
 
-### Homework
+### Class Preparation
 
 - [While Loop practice problems](./while-loop-practice.md)
 - Loops Part 1 Slide # 10
@@ -32,7 +32,7 @@
 - `for` loops
 - Students should understand how to use the Eclipse debugger to terminate a program.
 
-### Homework
+### Class Preparation
 
 - [For Loop practice problems](./for-loop-practice.md)
 - [CodingBat Warmup 2](http://codingbat.com/java) 
@@ -58,7 +58,7 @@
   - Determining length of an array
 - Students should be able to identify an example of when to use an array.
 
-### Homework
+### Class Preparation
 
 - Practice problems on slides 10 and 14
 - [CodingBat Array2](http://codingbat.com/java) 
@@ -78,7 +78,7 @@
 - Students should be able to create and manipulate instance variables.
 - Students should be able to create and use methods.
 
-### Homework
+### Class Preparation
 
 - [ATM Machine](./atm-machine.md)
 - Recommended Reading: Head First Java pages 54-56, 71-82, 99-102
