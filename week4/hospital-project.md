@@ -46,4 +46,25 @@ Let's map out an algorithm so that we can see how this all comes together.
 
 We can stare at this stuff all we want but until we actually make some software, High St. Hospital will have patients that are not being served with the best possible care. Time is of the essence! Hurry up, but take your time...
 
+#### Our first iteration of this new software...
+
+```bash
+High St. Hospital Employees: 
+Michael	234	Heart
+Vincent	645	Brain		true
+Sonny	789	6
+Luca	375	Business
+Tom	951	Office		true
+Anthony	123	Maintenence	false
+
+Vincent is operating now.
+Tom is on the phone now.
+Anthony is not sweeping now.
+```
+
+### Part 4
+- Using Polymorphism let's pay our employees (getPaid() method)
+- Stretch task: Place our employees in a collection
+- Stretch task: Through user input, type search for an employee by name and access their info/what they are doing
+
 
