@@ -1,69 +1,55 @@
 # Week 4
 
-## Monday, June 5
+## Monday, Oct 16
 
 ### Topics
 
-- Encapsulation
+- Students will use the concept of Inheritance to develop relationships and hierarchies between classes
+- Students will test drive objects made through Inheritance
+
+	
+### Class Preparation
+- Complete the Inheritance Demo Project along with me
+- Begin Development of [High St. Hospital](./week4/hospital-project.md)
+- Recommended Reading: Head First Java pages 165-183
+
+### References
+- [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
+
+
+
+## Tuesday, Oct 17
+
+### Topics
+
+- Students will understand what Polymorphism is
+- Students will enhance their software through the implementation of Polymorphic methods
+
+### Class Preparation
+
+### References
+
+- Recommended Reading: Head First Java pages 183-196
+
+
+
+## Wednesday, Oct 18
+
+### Topics
+
 - Interfaces
 	- `java.lang.Iterable` and `java.util.Iterator`
 	- Implementing interfaces
+- the `instanceof` operator
+- Encapsulation
 
 ### Resources
-
 - Encapsulation:
 	- Slides: [Encapsulation](https://wecancodeit.github.io/java-slides/objects/encapsulation/)
 	- *Head Start Java*, Chapter 4, pp 79-82
-
-## Tuesday, June 6
-
-### Topics
-
-- Inheritance
-- Polymorphism
-
-### Resources
-
-- *Head Start Java*, Chapter 7: inheritance and polymorphism 
-
-### Exercises
-
-These are a bit open-ended, but that's ok.
-
-- Imagine you have a fleet of delivery vehicles: vans, planes, bicycles, etc. How would you model these vehicles? Create your inheritance hierarchy (classes and subclasses).
-	- Support attributes like the following:
-		- vehicle description: number of wheels, make, model, number of passengers, etc
-		- rate of travel: miles per hour
-	- Include methods that, at a minimum:
-		- tell how far the vehicle would travel given a certain length of time
-		- calculate how long it would take to travel a certain distance
-	- Stretch goals:
-		- Factor a maintenance/rest/break period into your calculations (e.g a bicycle rider must rest a half hour every two hours)
-		- Add attributes (instance varibles)/operations (methods) to allow for fuel consumption, efficiency, and refueling. How does this impact your human-powered vehicles?
-
-- Imagine you are modeling the people that work at a software development company.
-	- These people might include:
-		- developers
-		- managers
-		- human resources
-		- janitors
-	- Build model(s) (or at least consider models) and how they would be different for applications that:
-		- manage payroll (remember to consider hourly vs salaried employees)
-		- manage project work, allocating the required hours per week for each role
-
-## Wednesday, June 7
-
-### Topics
-
-- Interfaces
-- the `instanceof` operator
-- Polymorphism
-
-### Resources
-
 - *Head Start Java*, Chapter 8: interfaces and polymorphism
 
-## Thursday, June 8
+## Thursday, Oct 19
 
 ### Topics
 
@@ -76,6 +62,8 @@ These are a bit open-ended, but that's ok.
 	- Test Driven Design (TDD)
 	- JUnit 4
 - Katas
+
+### Class Preparation
 
 
 ### References
@@ -96,7 +84,7 @@ These are a bit open-ended, but that's ok.
 	- [CodeFights](https://codefights.com/) (no fighting involved!)
 	- [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas) :stuck_out_tongue_winking_eye:
 	
-## Friday, June 9
+## Friday, Oct 20
 
 Weekly Graded Exercise: [Virtual Pets AMOK!](../exercises/virtual-pets-amok)
 
