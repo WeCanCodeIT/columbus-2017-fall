@@ -15,7 +15,7 @@
   - projects
 - Your First Java Application: "Hello, World!"
 
-### Homework
+### 
 
 - Join [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
 - Research [houses](./houses.md)
