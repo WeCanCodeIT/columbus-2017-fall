@@ -1,13 +1,13 @@
 # Week 5
 
-## Monday, June 12
+## Monday, Oct 23
 
 ### Topics
 
 - Gradle Intro: Taking our first bite from the elephant
 - Dependency Injection, Inversion of Control, and the Spring Framework
 
-## Tuesday, June 13
+## Tuesday, Oct 24
 
 ### Topics
 
@@ -19,7 +19,7 @@
 - [Spring Getting Started Guide: Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 - [w3schools interactive HTML tutorial](https://www.w3schools.com/html/default.asp)
 
-## Wednesday, June 14
+## Wednesday, Oct 25
 
 ### Topics
 
@@ -30,7 +30,7 @@
 
 - [Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
 
-## Thursday, June 15
+## Thursday, Oct 26
 
 ### Topics
 
@@ -42,8 +42,15 @@
 - [w3schools interactive CSS tutorial](https://www.w3schools.com/css/default.asp)
 - [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies)
 
-## Friday, June 16
+## Friday, Oct 27
+
+### Index Card Feedback
+ 
+ - Anonymous
+ - Questions/Comments/Concerns/Shout-Outs for the good of the order???
+ - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
+
 
 Weekly Graded Exercise: [Professional Portfolio](../exercises/professional-portfolio)
 
-Due Mon, June 12, 9:30 AM: [TBD]()
+Due Mon, Oct 30, 9:30 AM: [TBD]()
