@@ -81,6 +81,13 @@
 
 ## Friday, Oct 13
 
+### Index Card Feedback
+ 
+ - Anonymous
+ - Questions/Comments/Concerns/Shout-Outs for the good of the order???
+ - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
+
+
 Weekly Graded Exercise: [Virtual Pet Shelter](../exercises/virtual-pet-shelter)
 
 Due Mone, June 5, 9:30 AM: [Submission Link](https://goo.gl/forms/KT6pmGVn52mukzoD3)
