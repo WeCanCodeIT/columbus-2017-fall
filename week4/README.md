@@ -63,7 +63,8 @@
 	- Extreme Programming (XP)
 
 - Intro to Unit Testing
-	- Test Driven Design (TDD)
+	- Test Driven Design (TDD) 
+	- [TDD vs Behavior Driven Development](https://www.youtube.com/watch?v=4QFYTQy47yA)
 	- JUnit 4
 - Katas
 
