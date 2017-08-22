@@ -22,13 +22,13 @@ Include methods in each class that are named according to the services provided 
 ## The Data
 The following information will need to be taken care of for each employee:
 
-Hospital Employee: Employee Name, Employee Number
-Doctor: Employee Name, Employee Number, Specialty Area (Heart, Brain, Foot, etc…)
-Surgeon: Employee Name, Employee Number, Specialty Area, and whether they are operating or not)
-Nurse: Employee Name, Employee Number, and Number of Patients they are taking care of
-Administrator: Employee Name, Employee Number, Department
-Receptionist: Employee Name, Employee Number, Department, whether they are on the phone or not
-Janitor: Employee Name, Employee Number, Department, whether they are sweeping or not
+- Hospital Employee: Employee Name, Employee Number
+- Doctor: Employee Name, Employee Number, Specialty Area (Heart, Brain, Foot, etc…)
+- Surgeon: Employee Name, Employee Number, Specialty Area, and whether they are operating or not)
+- Nurse: Employee Name, Employee Number, and Number of Patients they are taking care of
+- Administrator: Employee Name, Employee Number, Department
+- Receptionist: Employee Name, Employee Number, Department, whether they are on the phone or not
+- Janitor: Employee Name, Employee Number, Department, whether they are sweeping or not
 
 
 
