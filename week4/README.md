@@ -57,10 +57,11 @@
 
 ### Topics
 
-- Intro to Agile Development
-	- Clean Code
-	- The Agile Manifesto and Principles
-	- Extreme Programming (XP)
+- Intro to Agile Development	
+	- [Clean Coders](https://cleancoders.com)
+	- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+	- [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
+	- [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
 
 - Intro to Unit Testing
 	- Test Driven Design (TDD) 
@@ -77,14 +78,7 @@
 
 ### References
 
-- [Clean Coders](https://cleancoders.com)
-- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
-- [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
-- [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
 - [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
-- JUnit 4
-	- [Getting Started](https://github.com/junit-team/junit4/wiki/Getting-started)
-	- [wiki](https://github.com/junit-team/junit4/wiki)
 - Katas
 	- [CodeKata](http://codekata.com/)
 	- [codekatas.org](http://www.codekatas.org/) (videos)
