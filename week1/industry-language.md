@@ -7,7 +7,7 @@
 - **output**: what is produced, or the product, can be a web page, an app, our text sent to the Eclipse console
 - **project**: a folder to house an application in Eclipse
 - **class**: created in Eclipse to house code that becomes the blueprint for an object [read more](http://www.webopedia.com/TERM/I/input.html)
-- **camelCase**: naming convention used in jave to combine multiple words together. Ex: playerScore
+- **camelCase**: naming convention used in Java to combine multiple words together. Ex: playerScore
 - **concatenation**: using + to join items to strings
 - **syntax**: in Java, a set of rules to define how code needs to be written
 - **condition**: evaluates to true or false (found in decision structures)
