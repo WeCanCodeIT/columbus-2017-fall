@@ -1,6 +1,6 @@
 # Week 6
 
-## Monday, June 19
+## Monday, Oct 30
 
 ### Topics
 
@@ -21,7 +21,7 @@
 - [Start Me Up](../exercises/start-me-up/)
 - [Life Is Strange](../exercises/bootstrap-life-is-strange/)
 
-## Tuesday, June 20
+## Tuesday, Oct 31
 
 ### Topics
 
@@ -35,7 +35,7 @@
 	- [Bootstrap: Grid system](http://getbootstrap.com/css/#grid)
 - [w3schools Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
 
-## Wednesday, June 21
+## Wednesday, Nov 1
 
 ### Topics
 
@@ -58,7 +58,7 @@
 - [Javascript30: 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 - [Khan Academy: Computer Programming](https://www.khanacademy.org/computing/computer-programming/programming)
 
-## Thursday, June 22
+## Thursday, Nov 2
 
 ### Topics
 
@@ -73,8 +73,13 @@
 	- [jQuery Learning Center](http://learn.jquery.com/)
 	- [jQuery API documentation](http://api.jquery.com/)
 
-## Friday, June 23
+## Friday, Nov 3
 
-Weekly Graded Exercise: [Reviews Site](../exercises/reviews-site)
+### Index Card Feedback
+ 
+ - Anonymous
+ - Questions/Comments/Concerns/Shout-Outs for the good of the order???
+ - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
+Weekly Graded Exercise: [Professional Portfolio](../exercises/professional-portfolio)
 
 Due Mon, June 26, 9:30 AM: [Submission Link](https://goo.gl/forms/0I9EJpSWTnX1mbcA2)
