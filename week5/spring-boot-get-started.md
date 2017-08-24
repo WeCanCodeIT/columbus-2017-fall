@@ -41,7 +41,7 @@
  - The **View** is responsible for rendering the model data and in general it generates HTML output that the client's browser can interpret.
  - The **Controller** is responsible for processing user requests and building an appropriate model and passes it to the view for rendering
  
- (/framework.jpg)
+ [MVC Framework](/week5/framework.jpg)
  
  
  
