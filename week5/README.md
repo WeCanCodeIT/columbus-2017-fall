@@ -14,6 +14,7 @@
 
 ### References
 
+- [Spring Boot: What is Going on?](/spring-boot-getting-started.md)
 - [Spring Boot Quick Start](https://javabrains.io/courses/spring_bootquickstart/)
 - Spring Boot Cookbook
 - [Spring Initializer](http://start.spring.io/)
