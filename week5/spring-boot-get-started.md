@@ -22,9 +22,9 @@
  
  - In Spring we will be creating a series of @Annotations
  - Some Annotations are not Spring specific
-        - @Override
+     - @Override
  - Some Annotations are Spring Framework specific
-        - @Component
+    - @Component
   - **Annotations** are meta-data for classes
   - You can go through Spring documentation and Cookbooks like the Spring Boot Cookbook to get a good idea about the framework
 
