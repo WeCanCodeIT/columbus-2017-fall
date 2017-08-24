@@ -49,7 +49,6 @@
 
 ### References
 
-- [Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
 - [w3schools interactive HTML tutorial](https://www.w3schools.com/html/default.asp)
 - [w3schools interactive CSS tutorial](https://www.w3schools.com/css/default.asp)
 - [Mozilla Developer Network's Learn Web Development: CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
@@ -59,20 +58,20 @@
 
 ### Topics
 
-- Students will understand how and why to implement Responsive Web Design
-- Students will be introduced to the Bootstrap Layout
+- Students will begin putting it all together (back end to front end)
+- Students will develop an understading of Iterations in Thymeleaf
 
 ### Class Preparation
 
-- My Fancy Site Repository
+- Continue with practice site or create a new Repository
 
 ### References / Exercises
 
-- [w3schools interactive Bootstrap tutorial](https://www.w3schools.com/bootstrap/default.asp)
+- [Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
 - [Unsplash](https://unsplash.com/)
 - [Font Awesome](http://fontawesome.io/examples/)
 - [Logo Makr](https://logomakr.com/)
-- [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies)
+
 
 
 
