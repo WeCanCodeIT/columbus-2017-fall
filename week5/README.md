@@ -25,11 +25,13 @@
 
 ### Topics
 
+- Students will get more practice with mapping requests in the controller to access all and one in a list
 - Spring MVC Hello World
 
 ### Class Preparation
 
-- [Spring Boot Quick Start Units 2 and 3](https://javabrains.io/courses/spring_bootquickstart/)
+- [Spring Boot Quick Start Unit 2](https://javabrains.io/courses/spring_bootquickstart/)
+- More practice together using Gradle, Git Bash and the People class
 - [Create Hello World](https://spring.io/guides/gs/serving-web-content/)
 
 ### References
