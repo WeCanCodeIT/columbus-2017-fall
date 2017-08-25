@@ -1,6 +1,6 @@
 # Week 8
 
-## Monday, Nov 
+## Monday, Nov 13
 
 ### Topics
 
@@ -19,7 +19,7 @@
 - [Master the JavaScript Interview: What's the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 
 
-## Tuesday, Nov 
+## Tuesday, Nov 14
 
 ### Topics
 
@@ -35,7 +35,7 @@
 ### References
 
 
-## Wednesday, Nov 
+## Wednesday, Nov 15
 
 ### Topics
 
@@ -48,7 +48,7 @@
 
 - [Jasmine Introduction](https://jasmine.github.io/2.0/introduction.html)
 
-## Thursday, Nov 
+## Thursday, Nov 16
 
 ### Topics
 
@@ -62,6 +62,6 @@
 - [jQuery](https://jquery.com/)
 - [jQuery API documentation](http://api.jquery.com/)
 
-## Friday, Nov 
+## Friday, Nov 17
 
 
