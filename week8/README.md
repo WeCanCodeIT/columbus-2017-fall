@@ -39,7 +39,7 @@
 
 ### Topics
 
-- Studebts will be able to complete Unit Testing in JavaScript with Jasmine
+- Students will be able to complete Unit Testing in JavaScript with Jasmine
 - Students will perform DOM manipulation
 
 ### Class Preparation
@@ -51,6 +51,8 @@
 ## Thursday, Nov 16
 
 ### Topics
+
+- Introduction to JQuery
 
 ### Class Preparation
 
