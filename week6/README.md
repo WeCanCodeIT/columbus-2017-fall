@@ -76,6 +76,7 @@
  - Anonymous
  - Questions/Comments/Concerns/Shout-Outs for the good of the order???
  - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
+ 
 Weekly Graded Exercise: [Professional Portfolio](../exercises/professional-portfolio)
 
 Due Mon, June 26, 9:30 AM: [Submission Link](https://goo.gl/forms/0I9EJpSWTnX1mbcA2)
