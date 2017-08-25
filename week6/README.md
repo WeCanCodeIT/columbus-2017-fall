@@ -56,6 +56,15 @@
 
 ### Topics
 
+- Students will continue to focus on great front end styling
+
+### Class Preparation
+
+- Access your front end files from your Review site, create a better look for these pages
+
+### References
+
+
 
 
 ## Friday, Nov 3
