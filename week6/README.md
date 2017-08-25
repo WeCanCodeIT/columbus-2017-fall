@@ -13,6 +13,8 @@
 
 ### References
 
+- [w3schools interactive HTML tutorial](https://www.w3schools.com/html/default.asp)
+- [w3schools interactive CSS tutorial](https://www.w3schools.com/css/default.asp)
 
 
 ## Tuesday, Oct 31
