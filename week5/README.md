@@ -66,9 +66,10 @@
 
 ### Class Preparation
 
+- [Thymeleaf Notes and Exercises/(./thymeleaf-notes.md)
 - Continue with practice site or create a new Repository
 
-### References / Exercises
+### References
 
 - [Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
 - [Unsplash](https://unsplash.com/)
