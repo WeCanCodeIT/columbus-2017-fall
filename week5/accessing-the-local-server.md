@@ -3,9 +3,9 @@
 
 ### Go to the Google Website
 - When you type www.google.com a web browser opens a connection to default port 80
-- THis connects to the google server
+- This connects to the google server
 - A request is sent to the web page
-- Google server responds with a website calling images/css/javascript/JQuert...etc 
+- Google server responds with a website calling images/css/javascript/JQuery...etc 
 - You see a beautiful web page
 
 ### localhost:8080
