@@ -17,7 +17,7 @@
 - [Spring Boot: What is Going on?](./spring-boot-get-started.md)
 - [Spring Boot Quick Start](https://javabrains.io/courses/spring_bootquickstart/)
 - Spring Boot Cookbook by Alex Antonov
-- [Spring Initializer](http://start.spring.io/)
+- [Spring Initializr](http://start.spring.io/)
 
 
 
