@@ -37,6 +37,7 @@
 ### References
 
 - [Spring Getting Started Guide: Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+- [Accessing the local server](./accessing-the-local-server.md)
 
 ## Wednesday, Oct 25
 
@@ -66,7 +67,7 @@
 
 ### Class Preparation
 
-- [Thymeleaf Notes and Exercises/(./thymeleaf-notes.md)
+- [Thymeleaf Notes and Exercises](./thymeleaf-notes.md)
 - Continue with practice site or create a new Repository
 
 ### References
