@@ -11,7 +11,7 @@
   - will iterate over a list of products, array, map or other collection
   
   ### Examples
-  
+  ```
   <tbody>
     <tr th:each="student: ${students}">
         <td th:text="${student.id}" />
@@ -25,6 +25,7 @@
     <span th:unless="${student.gender} == 'F'" th:text="Female" />
 </td>
 
+```
 
 
   
