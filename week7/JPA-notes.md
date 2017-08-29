@@ -37,20 +37,20 @@ Example:
 ```
 - with the **@Entity** annotation JPA knows to create a table called Topic with 3 columns: id, name and description
 - **@Id** tells the database where the primary key is
-- The annotaions affect what is directly underneath, therefore attacing @Id to the String id member
+- The annotaions affect what is directly underneath, therefore attaching @Id to the String id member
 
 ### The Process
 
 - Step 1: Entity Mapping
 - Step 2: Find the class to connect to the database and run commands to access, save and retrieve data
-  - No matter what your entity is, the struction will remain very similar (Standard operations)
+  - No matter what your entity is, the structor will remain very similar (Standard operations)
 
 ### The CrudRepository
 
 - Contains the logic for an entity class
 - CrudRepository Generic Type
 - CrudRepository<What is the Entity Class?, What is the id this Entity class has?>
-  - public interface TopicRepository extends CrudRepository<Topic,String>
+  - **public interface TopicRepository extends CrudRepository<Topic,String>**
 - You will now have access to all methods that come out of the box with CrudRepository
   - These methods will update
     - Get all resources
