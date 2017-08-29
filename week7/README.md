@@ -23,9 +23,11 @@
 
 ## Tuesday, Nov 7
 
-- JPA Intro
+### Topics 
 
-### Exercises
+- Students will continue to work on Accessing Data with JPA
+
+### Class Preparation
 
 - [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
@@ -37,8 +39,13 @@
 
 ## Wednesday, Nov 8
 
+### Topics 
+
 - Database Entity Relationships
 - Intro to HTML Forms 
+
+### Class Preparation
+
 
 ### References
 
@@ -46,10 +53,17 @@
 
 ## Thursday, Nov 9
 
-- Moar JPA
+### Topics 
 
+- Students will review concepts and build upon activities with JPA
+- Students will be introduced to SQL
+
+### Class Preparation
 
 - [w3schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
+
+### References 
+
 
 ## Friday, Nov 10
 
