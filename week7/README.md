@@ -1,18 +1,26 @@
 # Week 7
 
-## Monday, June 26
+## Monday, Nov 6
 
 ### Topics
 
-- Spring Web + Thymeleaf review
-- Model, View, Controller architecture
-- Intro to relational databases
+- Students will review Spring Applications and Thymeleaf
+- Students will review the Model, View, Controller architecture
+- Students will begin to use Spring Data JPA to access and manipulate data 
 
-### Exercises
+### Class Preparation
 
-- [w3schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
 
-## Tuesday, June 27
+
+### References
+
+- [Java Persistence (on wikibooks)](https://en.wikibooks.org/wiki/Java_Persistence)
+
+	*Note that a pdf version is available on that page, which may make it easier to search for things in the ebook.*
+
+
+
+## Tuesday, Nov 7
 
 - JPA Intro
 
@@ -26,7 +34,7 @@
 
 	*Note that a pdf version is available on that page, which may make it easier to search for things in the ebook.*
 
-## Wednesday, June 28
+## Wednesday, Nov 8
 
 - Database Entity Relationships
 - Intro to HTML Forms 
@@ -35,12 +43,15 @@
 
 - [Java Persistence/Relationships (on wikibooks)](https://en.wikibooks.org/wiki/Java_Persistence/Relationships)
 
-## Thursday, June 29
+## Thursday, Nov 9
 
 - Moar JPA
 
-## Friday, June 30
+
+- [w3schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
+
+## Friday, Nov 10
 
 Weekly Graded Exercise: [Full Stack Reviews Site](../exercises/reviews-site-full-stack/)
 
-Due Wed, July 5th, 9:30 AM: [Submission Link](#) (link TBD)
+Due Mon, Nov 13th, 9:30 AM: [Submission Link](#) (link TBD)
