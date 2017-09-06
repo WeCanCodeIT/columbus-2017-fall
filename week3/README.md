@@ -25,7 +25,7 @@
 ### Topics
 
 - Students should be able to create a class blueprint of an object
-- Studnets should be able to reference the created class to house ArrayList data (type parameters re-visited)
+- Students should be able to reference the created class to house ArrayList data (type parameters re-visited)
 
 ### Class Preparation
 
