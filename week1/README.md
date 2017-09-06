@@ -84,7 +84,7 @@
 - [Practice Problems and String Challenges](./strings.md)
 - CodingBat Warmup-1 NOW YOU CAN DO STRING PROBLEMS : )
 - [Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
-- [Push your first Eclipse Project to Git Hub] (./push-project.md)
+- [Push your first Eclipse Project to Git Hub](./push-project.md)
 
 
 ### References
