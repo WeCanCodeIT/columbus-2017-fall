@@ -72,7 +72,7 @@
 - Constructors
 - Maps
 
-### Resources
+### References
 
 - Slides:
 	- [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
