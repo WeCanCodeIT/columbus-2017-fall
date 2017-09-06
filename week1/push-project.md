@@ -2,7 +2,8 @@
 
 - Create a project in Eclipse called push-project
 - Create a class in the project called Push
-- Create a new Repository in GitHub called push-project (Leave this on the options page)
+- Create a new Repository in GitHub called push-project and click the green create new repository button
+- Remain on the Quick Setup page as we will need to copy the HTTPS link at the top 
 
 - Open Git Bash
 - `cd` ..    will back out 1 directory
