@@ -2,10 +2,10 @@
 
 - Create a project in Eclipse called push-project
 - Create a class in the project called Push
-- Create a new Repository in GitHub called push-project and click the green create new repository button
+- Create a new Repository in GitHub called push-project and click the green **create new repository** button
 - Remain on the Quick Setup page as we will need to copy the HTTPS link at the top 
 
-- Open Git Bash
+- Open Git Bash and key in the following commands (hit enter after each command line below)
 - `cd` ..    will back out 1 directory
 - `ls`       will show available directories 
 - `cd default-workspace/`  will allow you to access your Eclipse workspace directory 
@@ -15,7 +15,7 @@
 - `git init`  
 - `git remote -v` if your origin was else where it is now readily available
 - `git add .`   this will take all contents inside of the Eclipse project
-- `git commit -m "first commit" ` after you add your contents commit them to prepar for GitHub
+- `git commit -m "first commit" ` after you add your contents commit them to prepare for GitHub
 - `git remote add orign [copy link from new GitHub repo here...remove the brackets]`
 - `git push origin master`
 - refresh your GitHub repo to update and see the changes
