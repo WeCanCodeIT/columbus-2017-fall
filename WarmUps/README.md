@@ -2,6 +2,8 @@
 
 ### Tues Sept 26
 
+<!---
+
 In Eclipse access your week-1 project folder and create a class called **Columbus Facts**
   - Use proper naming conventions on **Columbus Facts** as your class title
   - Code the proper commands to print the folloiwng in your console
@@ -11,12 +13,9 @@ In Eclipse access your week-1 project folder and create a class called **Columbu
     Ranked top city for mid-career professionals 
     ```
    
-
-
-<!---
-your comment goes here
-and here
 -->
+
+
 
 ### Wed Sept 27
 
