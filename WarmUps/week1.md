@@ -17,7 +17,9 @@ In Eclipse access your week-1 project folder and create a class called **Columbu
 
 In Eclipse access **ColumbusFacts** from yesterday
   - Add the line of output below, using concatenation to make the numbers numerical and not characters in the String
+  
   `4280 new jobs were announced by over 80 companies in 2016`
+  
   - Refactor your code to reference 2016 as a variable in the output statement
   - Your console should produce what is below
  
