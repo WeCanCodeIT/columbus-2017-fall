@@ -31,7 +31,7 @@ Enter the quantity: 3
 Current Cart
 Shoes		   25.0	    2		50.0
 Shirt		   15.0	    3		45.0
-Total Price: $145.00
+Total Price: $95.00
 
 Continue shopping (y/n)? n
 ```
