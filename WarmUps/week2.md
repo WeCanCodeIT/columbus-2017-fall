@@ -1,8 +1,5 @@
 ## Week 2
 
-### Mon Oct 2
-
-
 
 ### Tues Oct 3
 
