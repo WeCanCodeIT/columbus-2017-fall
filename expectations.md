@@ -11,7 +11,7 @@
 - Expect to be exhausted.
 - Think critically. Solve problems. Think like a programmer.
 - Read, research, reflect. Be a better Googler.
-- Fail courageously.
+- Fail courageously (The Productive Struggle)
 
 ## Team
 
