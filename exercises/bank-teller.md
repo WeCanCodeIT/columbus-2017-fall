@@ -12,7 +12,14 @@ Inside of `BankAccout` Class program the following:
 - create the `Constructor` to read in a BankAccount object
 - create the following methods: `getName(), getBalance(), deposit(double amount), withdrawal(double amount)`
 
-Insie of the `Bank` Class program the following:
+Inside of the `Bank` Class program the following:
 - Create a `map` to keep track of multiple accounts
 - Create `public Collection<BankAccount> accounts()` method
 - Create `public void add(BankAccount account)` method 
+
+Inside of the `BankingApp` Class program the following:
+- Create 3 BankAccounts
+- Add these accounts to a collection
+- Welcome the user and display the accounts
+- Have a menu of options for the teller to access an account, do a deposit, withdrawal or exit
+
