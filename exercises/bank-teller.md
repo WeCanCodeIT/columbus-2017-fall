@@ -6,7 +6,7 @@ Design a `BankAccount` class that will perform capabilities of a single Bank Acc
 
 ### Tasks
 
-Inside of `BankAccout` Class program the following:
+Inside of `BankAccount` Class program the following:
 - 3 instance variables to handle name, balance and a pin
 - note the pin will be a unique identifier
 - create the `Constructor` to read in a BankAccount object
