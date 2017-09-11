@@ -44,7 +44,7 @@
 - [Types and Expressions Student Guide](./types-and-expressions.md)
 - [Basic Types and Variables Slides](https://wecancodeit.github.io/java-slides/fundamentals/basic-types-and-variables/)
 - [Operators and Expressions Slides (with Problems)](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/)
-- [Codefights](https://codefights.com/)
+
 
 
 ## Wednesday, Sept. 27th
