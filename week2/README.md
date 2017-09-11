@@ -15,6 +15,11 @@
 
 - [While Loop practice problems](./while-loop-practice.md)
 - Loops Part 1 Slide # 10
+- With time left today, practice more loop scenarios or make a mini game with a looping effect
+	- loop to play over and over again
+	- use accumulator variables to keep track of points
+	- use a random number generator
+	- what types of games can we come up with?
 - Recommended Reading: Head First Java pages 10-14, 23, 24
 
 ### References
