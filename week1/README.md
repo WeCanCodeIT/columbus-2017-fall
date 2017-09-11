@@ -58,7 +58,7 @@
 
 - Setup [CodingBatAccount](http://codingbat.com/java)
   - Work through Warmup-1 NON STRING PROBLEMS ONLY
-- [Practice Problems](./practice-problems.md)
+- [Conditionals and User Input Practice Problems](./practice-problems.md)
 - Recommended Reading: Head First Java pages 11,13,20, 
 
 ### References
