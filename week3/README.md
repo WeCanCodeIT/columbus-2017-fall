@@ -53,31 +53,22 @@
 	- [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
 
 
-## Wednesday, Oct 11
-
-### Topics
-
-- More JCF
-	- Introducing Sets
-	- Introducing Maps
-	- Declaring Lists
-- The diamond operator
-- Constructors
-
 ## Thursday, Oct 12
 
 ### Topics
 
-- Methods review
-- Constructors
-- Maps
+- Continue working with Maps and the Java Collections Framework
+- Develop and understanding of overloaded Constructors
+
+### Class Preparation
+
+- [Bank-Teller Project](./exercises/bank-teller.md)
 
 ### References
 
 - Slides:
 	- [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
 	- [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
-- [Map Exercises](./map-exercises.md)
 
 ## Friday, Oct 13
 
