@@ -62,7 +62,7 @@
 
 ### Class Preparation
 
-- [Bank-Teller Project](./exercises/bank-teller.md)
+- [Bank-Teller Project](../exercises/bank-teller.md)
 
 ### References
 
