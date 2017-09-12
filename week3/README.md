@@ -30,7 +30,7 @@
 ### Class Preparation
 
 - [Create a Shopping Cart](../exercises/shopping-cart.md)
-- [Cookie Order](../exercises/cookie-order.md)
+- [Cookie Order](../exercises/cookie-orders.md)
 
 
 ### References
