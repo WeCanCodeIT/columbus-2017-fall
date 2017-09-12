@@ -18,6 +18,7 @@ just remember this may make the girl scout sad so please be kind.
 - `public int removeVariety(String variety)` give the ability to pick out a variety of cookie and remove
    it from the list (keep track of total boxes removed as well) Hint: When you remove something the list will shrink, 
    you need to consider this when traversing your collection (you don't want to overlook any items)
+- `public void showOrder()` to traverse and print the ArrayList
 
 ### The `OrderApp` Class 
 - Add 4 orders
