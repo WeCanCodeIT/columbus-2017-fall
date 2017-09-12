@@ -50,4 +50,4 @@ Variety: Tagalongs Boxes: 3
 
 ### Stretchier Task
 - Specify a variety of cookie you want to remove and exactly how many boxes need to be removed
-  (now you are dealing with 2 parameters(reguirements))
+  (now you are dealing with 2 parameters(requirements))
