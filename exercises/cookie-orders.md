@@ -47,3 +47,7 @@ Variety: Tagalongs Boxes: 3
 
 ### Stretch Task
 -Try doing live adds, removals and updates to your order, you will need a loop and some user input
+
+### Stretchier Task
+- Specify a variety of cookie you want to remove and exactly how many boxes need to be removed
+  (now you are dealing with 2 parameters(reguirements))
