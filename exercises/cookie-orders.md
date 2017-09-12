@@ -7,7 +7,7 @@ keep track of your total number of boxes purchased. You are going to give the pr
 just remember this may make the girl scout sad so please be kind.
 
 ### The `CookieOrder` Class
-- Wite this class to keep track of 2 pieces of instance data: `variety` of cookie and `numBoxes` purchased
+- Write this class to keep track of 2 pieces of instance data: `variety` of cookie and `numBoxes` purchased
 - Create the constructor to handle this data and 2 accessor methods
 
 ### The `MasterOrder` Class will maintain a list of cookies being purchased
