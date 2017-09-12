@@ -29,7 +29,8 @@
 
 ### Class Preparation
 
-- [Create a Shopping Cart](./shopping-cart.md)
+- [Create a Shopping Cart](../exercises/shopping-cart.md)
+- [Cookie Order](../exercises/cookie-order.md)
 
 
 ### References
