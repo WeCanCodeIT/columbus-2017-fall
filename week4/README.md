@@ -28,7 +28,7 @@
 ### Class Preparation
 
 - Complete the Polymorphism enhancement in the demo project along with me
-- Continue Development of [High St. Hospital](./hospital-project.md)
+- Continue Development of [High St. Hospital](../exercises/hospital-project.md)
 - Recommended Reading: Head First Java pages 183-196
 
 ### References
