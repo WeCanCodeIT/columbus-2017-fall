@@ -12,12 +12,13 @@ just remember this may make the girl scout sad so please be kind.
 
 ### The `MasterOrder` Class will maintain a list of cookies being purchased
 - Declare your ArrayList and name it `orders`
-- Create a constructor and the following methods
+- Create an empty constructor and the following methods
 - `public void addOrder(CookieOrder theOrder)` add an order to the list showing variety and quantity
 - `public int getTotalBoxes()` keep track of total boxes ordered
 - `public int removeVariety(String variety)` give the ability to pick out a variety of cookie and remove
    it from the list (keep track of total boxes removed as well) Hint: When you remove something the list will shrink, 
    you need to consider this when traversing your collection (you don't want to overlook any items)
+- `public void showOrder()` to traverse and print the ArrayList
 
 ### The `OrderApp` Class 
 - Add 4 orders
@@ -46,7 +47,7 @@ Variety: Tagalongs Boxes: 3
 ```
 
 ### Stretch Task
--Try doing live adds, removals and updates to your order, you will need a loop and some user input
+- Try doing live adds, removals and updates to your order, you will need a loop and some user input
 
 ### Stretchier Task
 - Specify a variety of cookie you want to remove and exactly how many boxes need to be removed
