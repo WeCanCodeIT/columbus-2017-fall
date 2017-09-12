@@ -21,8 +21,9 @@ just remember this may make the girl scout sad so please be kind.
 ### The `OrderApp` Class 
 - Add 4 orders
 - Total the boxes purchased
-- Remove an order
-- Re-total the boxes purchased
+- Show the list
+- Remove a variety and give feedback on how many boxes were removed
+- Show the updated list
 
 ### Example
 ```bash
