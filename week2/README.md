@@ -85,7 +85,7 @@
 
 ### Class Preparation
 
-- [ATM Machine](../exercises/atm-machine.md)
+- [ATM Machine](../exercises/atm.md)
 - Recommended Reading: Head First Java pages 54-56, 71-82, 99-102
 - Practice, practice and more practice (review your programs from the week!)
 
