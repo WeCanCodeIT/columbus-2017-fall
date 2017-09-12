@@ -14,7 +14,7 @@
 
 ### References
 
-- [Spring Boot: What is Going on?](./spring-boot-get-started.md)
+- [Spring Boot: What is Going on?](https://wecancodeit.github.io/java-slides/spring/spring-boot/)
 - [Spring Boot Quick Start](https://javabrains.io/courses/spring_bootquickstart/)
 - Spring Boot Cookbook by Alex Antonov
 - [Spring Initializr](http://start.spring.io/)
