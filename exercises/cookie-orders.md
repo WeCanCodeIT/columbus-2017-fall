@@ -14,7 +14,8 @@ keep track of your total number of boxes purchased.
 - Create a construcor and the following methods
 - `public void addOrder(CookieOrder theOrder)` add an order to the list showing variety and quantity
 - `public int getTotalBoxes()` keep track of total boxes ordered
-- `public int removeVariety(String variety)` give the ability to pick out a variety of cookie and remove it from list
+- `public int removeVariety(String variety)` give the ability to pick out a variety of cookie and remove
+   it from the list (keep track of total boxes removed as well)
 
 ## The `OrderApp` Class 
 - Add 4 orders
@@ -23,4 +24,18 @@ keep track of your total number of boxes purchased.
 - Re-total the boxes purchased
 
 ### Example
+```bash
+Current Order
+Variety: Tagalongs Boxes: 1
+Variety: Thin Mints Boxes: 5
+Variety: Samoas Boxes: 2
+Variety: Tagalongs Boxes: 3
+ 
+You have ordered 11 boxes
 
+You are removing 3 boxes
+Current Order
+Variety: Tagalongs Boxes: 1
+Variety: Thin Mints Boxes: 5
+Variety: Tagalongs Boxes: 3
+```
