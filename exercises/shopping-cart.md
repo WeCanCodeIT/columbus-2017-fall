@@ -20,7 +20,7 @@ Enter the unit price: 25
 Enter the quantity: 2
 
 Current Cart
-Shoes		   25.0	    2		50.0
+Item: Shoes		  Price: 25.0	    Quantity: 2
 Total Price: $50.00
 
 Continue shopping (y/n)? y
@@ -29,8 +29,8 @@ Enter the unit price: 15
 Enter the quantity: 3
 
 Current Cart
-Shoes		   25.0	    2		50.0
-Shirt		   15.0	    3		45.0
+Item: Shoes		  Price: 25.0	    Quantity: 2		
+Item: Shirt		  Price: 15.0	    Quantity: 3		
 Total Price: $95.00
 
 Continue shopping (y/n)? n
