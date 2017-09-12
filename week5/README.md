@@ -14,7 +14,7 @@
 
 ### References
 
-- [Spring Boot: What is Going on?](https://wecancodeit.github.io/java-slides/spring/spring-boot/)
+- [Spring Framework Slides](https://wecancodeit.github.io/java-slides/spring/spring-boot/)
 - [Spring Boot Quick Start](https://javabrains.io/courses/spring_bootquickstart/)
 - Spring Boot Cookbook by Alex Antonov
 - [Spring Initializr](http://start.spring.io/)
@@ -67,7 +67,7 @@
 
 ### Class Preparation
 
-- [Thymeleaf Notes and Exercises](./thymeleaf-notes.md)
+- [Thymeleaf Notes and Exercises](https://wecancodeit.github.io/java-slides/web/thymeleaf/)
 - Continue with practice site or create a new Repository
 
 ### References
