@@ -50,7 +50,7 @@
 ## Daily Schedule
 
 - 9:30 am class begins promptly
-- 10 min breaks at 11
+- 10 min break at 11
 - 12:00 - 1:00 Lunch
   - It is important to take a break!
 - 10 min break at 2:30
