@@ -79,7 +79,7 @@
 
 ### References
 
--[Agile Dev and TDD Slides](https://wecancodeit.github.io/java-slides/tools/testing/)
+- [Agile Dev and TDD Slides](https://wecancodeit.github.io/java-slides/tools/testing/)
 - [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
 - Katas
 	- [CodeKata](http://codekata.com/)
