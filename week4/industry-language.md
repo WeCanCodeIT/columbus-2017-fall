@@ -10,3 +10,6 @@
 - **Polymorphism**: Having many forms
 - **Encapsulation**: The process of hiding information about an object from other objects
 - **Method Override**: Method inherited by a child class that has been altered
+- **Kata**: A term said to be coined by programmer David Thomas, that relates to coding in reference to a pattern of 
+            movements in Japanese martial arts. Students of a kata study it was a form, not as a conclusion.
+            It is not the conclusion that matters but the steps that lead to the conclusion.
