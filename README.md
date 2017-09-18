@@ -12,7 +12,7 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 
 # Weekly Breakdown
 
-### Week 1 ([details](./week1))
+### Week 1 
 - The File System
 - Variables, Operators, Expressions, Basic Types
 - Conditionals
@@ -20,46 +20,46 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
   - Regular Expressions*
 - Git and GitHub
 
-### Week 2 ([details](./week2))
+### Week 2 
 - Arrays
 - Loops
 - Intro to OOP
 - Building Classes - Methods and Attributes
 - Unit Testing/TDD (Junit)*
 
-### Week 3 ([details](./week3))
+### Week 3 
 - Collections Overview (*Iterables/Iterators)
 - Lists
 - Maps
 - Inheritance & Polymorphism
 - Encapsulation
 
-### Week 4 ([details](./week4))
+### Week 4 
 - Dependency Injection/Spring
 - Test Doubles (Mockito)*
 - Exceptions
 - Build Automation with Gradle*
 
-### Week 5 ([details](./week5))
+### Week 5 
 - Spring Boot
 - HTML
 - MVC
 
-### Week 6 ([details](./week6))
+### Week 6 
 - CSS
 - Bootstrap
 
-### Week 7 ([details](./week7))
+### Week 7
 - Relational Databases and Design
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
-### Week 8 ([details](./week8))
+### Week 8 
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
 
-### Week 9 ([details](./week9))
+### Week 9 
 - Flex Week
 
 ### Week 10-12
