@@ -11,6 +11,8 @@
 - **concatenation**: using + to join items to strings
 - **syntax**: in Java, a set of rules to define how code needs to be written
 - **condition**: evaluates to true or false (found in decision structures)
+- **Wrapper Classes**: - used to convert any data type into an object...primitive data types are not objects and do not belong to any class (examples can come later)
+
 
 
 ## Acronyms
