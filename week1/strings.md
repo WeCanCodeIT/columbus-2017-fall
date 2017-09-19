@@ -6,8 +6,7 @@
 - Students should understand some of the powerful String methods available to them
 
 ## Resources
-- [String Notes and Methods](https://www.cs.duke.edu/csed/ap/subset/doc/ap/java/lang/String.html)
-- [More String Methods](https://www.cs.duke.edu/csed/ap/subset/doc/ap/java/lang/String.html)
+- [String Methods](https://www.cs.duke.edu/csed/ap/subset/doc/ap/java/lang/String.html)
 - [String Challenges](https://www.hackerrank.com/domains/java/java-strings)
 
 ### Classes in Java
