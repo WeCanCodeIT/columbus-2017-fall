@@ -32,7 +32,7 @@ In Eclipse access **ColumbusFacts** from yesterday
 
 ### Thurs Sept 28
 
-What is wrong with this code? What better practices could be written?
+What is wrong with this code? Re-write using proper Java convention?
 
  ```bash
    
