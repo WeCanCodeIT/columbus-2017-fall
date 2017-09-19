@@ -41,6 +41,7 @@
 
 ### Topics
 
+- Equality and Sets
 - Interfaces
 	- `java.lang.Iterable` and `java.util.Iterator`
 	- Implementing interfaces
@@ -48,6 +49,9 @@
 - Encapsulation
 
 ### Resources
+- Equality and Sets:
+	- Slides: [Equality and Sets](https://wecancodeit.github.io/java-slides/objects/equality-and-sets/)
+	- *Head Start Java*, pp.209, 557-562
 - Encapsulation:
 	- Slides: [Encapsulation](https://wecancodeit.github.io/java-slides/objects/encapsulation/)
 	- *Head Start Java*, Chapter 4, pp 79-82
