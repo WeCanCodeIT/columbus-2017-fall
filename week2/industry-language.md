@@ -12,7 +12,11 @@
      and this
      }
 - **Initialization**: Assigning a variable a beginnig value
+- **Array**: A data structure that contains a group of elements all sharing the same data type
 - **Index(pl Indicies)**: Location of an item in an Array (begins at 0)
+- **Class**: created in Eclipse to house code that becomes the blueprint for an object [read more](http://www.webopedia.com/TERM/I/input.html)
+- **Object**: an instance of a class
+- **Object Oriented Programming (OOP)**: a shift from just writing logic towards writing about the objects we want to manipulate
 
 
 
