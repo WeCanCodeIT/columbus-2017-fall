@@ -57,9 +57,9 @@
 
 ### Class Preparation
 
+- [Conditionals and User Input Practice Problems](./practice-problems.md)
 - Setup [CodingBatAccount](http://codingbat.com/java)
   - Work through Warmup-1 NON STRING PROBLEMS ONLY
-- [Conditionals and User Input Practice Problems](./practice-problems.md)
 - Recommended Reading: Head First Java pages 11,13,20, 
 
 ### References
