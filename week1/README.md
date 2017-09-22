@@ -30,13 +30,13 @@
 
 ### Topics
 
-- Basic Types and Variables
-- Operators and Expressions
+- Define Basic Types and Variables
+- Work with Operators and Expressions
+- Analyze the impact of data type on assignment statements
 
 ### Class Preparation
 
 - Continue practicing translating the small word problems from [in class slides #14 and #15](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
-- Analyze the impact of data type on assignment statements
 - Recommended Reading: Head First Java pages 49-53
 
 
