@@ -38,6 +38,7 @@ Move a line of code (or selected code) up/down | Alt + Up/Down Arrow
 Create new project/class/etc | Ctrl + N
 Switch between test and production class | Ctrl + J
 Insert line above current line | Shift + Ctrl + Enter
+Toggle between Editor and Console| Ctrl + F7
 Open class by type (class name) | Shift + Ctrl + T
 Save | Ctrl + S
 Run your program | Ctrl + F11
