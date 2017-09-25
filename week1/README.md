@@ -18,7 +18,7 @@
 ### Class Preparation
 
 - Join [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
-- Hello World Activities(./hello-world-activities.md)
+- [Hello World Activities](./hello-world-activities.md)
 - Research [houses](./houses.md)
 - Recommended reading: Head First Java pages xxvii,8-9
 
