@@ -21,6 +21,7 @@
 - [Hello World Activities](./hello-world-activities.md)
 - Research [houses](./houses.md)
 - Recommended reading: Head First Java pages xxvii,8-9
+- [Want more practice today?](https://www.w3resource.com/java-exercises/basic/index.php)
 
 ### References
 
