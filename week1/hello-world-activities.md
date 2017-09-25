@@ -4,7 +4,7 @@
 
 
 
-#### Examples
+#### Let's write some output to display the following...take note of what is happening in our code
 
 ```bash
 Hello World!
