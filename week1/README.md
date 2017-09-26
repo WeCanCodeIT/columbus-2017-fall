@@ -40,7 +40,7 @@
 
 - Continue practicing translating the small word problems from [in class slides #14 and #15](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
 - Recommended Reading: Head First Java pages 49-53
-- [Want more practice today?](https://www.w3resource.com/java-exercises/datatypes/index.php)
+- [Want more practice today? Try numbers 1, 2 and 3](https://www.w3resource.com/java-exercises/datatypes/index.php)
 
 
 ### References
