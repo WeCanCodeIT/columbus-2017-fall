@@ -20,7 +20,7 @@
 - Join [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g)
 - [Hello World Activities](./hello-world-activities.md)
 - Research [houses](./houses.md)
-- Recommended reading: Head First Java pages xxvii,8-9
+- Recommended reading: Head First Java pages xxvii,8-9 of Ch. 1 Anatomy of a class and the main method
 - [Want more practice today?](https://www.w3resource.com/java-exercises/basic/index.php)
 
 ### References
@@ -39,7 +39,7 @@
 ### Class Preparation
 
 - Continue practicing translating the small word problems from [in class slides #14 and #15](https://wecancodeit.github.io/java-slides/fundamentals/operators-and-expressions/).
-- Recommended Reading: Head First Java pages 49-53
+- Recommended Reading: Head First Java pages 49-53 of Ch. 3 Know Your Variables, primitives and references
 - [Want more practice today? Try numbers 1, 2 and 3. You can hard code the variable values instead of worrying about user input](https://www.w3resource.com/java-exercises/datatypes/index.php)
 
 
