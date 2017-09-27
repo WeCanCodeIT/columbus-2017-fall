@@ -43,6 +43,8 @@ Open class by type (class name) | Shift + Ctrl + T
 Save | Ctrl + S
 Run your program | Ctrl + F11
 Navigate to another line from inside a println statement| End Enter
+Block Comments | Ctrl + Shift + /
+Display a list of Hotkeys in Eclipse | Ctrl + Shift + L
 
 
 *** this document is a work in progress! if you find any shortcuts, let me know and I'll add them to the list
