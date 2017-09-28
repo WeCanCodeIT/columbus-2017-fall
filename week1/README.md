@@ -88,6 +88,7 @@
 - [Practice Problems and String Challenges](./strings.md)
 - CodingBat Warmup-1 NOW YOU CAN DO STRING PROBLEMS : )
 - [Git Hub/ Git Bash Training](https://github.com/jlord/git-it-electron)
+- [Git/Github Shortcuts](docs/scan.1.pdf)
 - [Push your first Eclipse Project to Git Hub](../exercises/push-project.md)
 
 
@@ -100,11 +101,11 @@
 ## Friday, Sept. 29th
 
 ### Index Card Feedback
- 
+
  - Anonymous
  - Questions/Comments/Concerns/Shout-Outs for the good of the order???
  - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
- 
+
 
 Weekly Graded Exercise: [Fortune-Teller](../exercises/fortune-teller/)
 
