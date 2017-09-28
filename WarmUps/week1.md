@@ -32,22 +32,26 @@ In Eclipse access **ColumbusFacts** from yesterday
 
 ### Thurs Sept 28
 
-What is wrong with this code? Re-write using proper Java convention?
+What is wrong with this code? Re-write using proper Java convention and syntax?
 
  ```bash
    
-public class Testapplication {
+public class thursdaywarmup {
 
-	public static void main(String[] args) {
+   public static void main(String[] args) {
+ 
+  int testnumberone;
+  int testnumbertwo;
   
-   int testnumberone = 1;
-   int testnumbertwo = 2;
-  
-   int sum = testnumberone + testnumbertwo; 
-	
-		System.out.println("The sum of the two numbers is 3");
-		
-	}
+  System.out.println("Enter number 1: ");
+  testnumberone = input.nextDouble();
+  System.out.println("Enter number 2:");
+ 
+  int sum = testnumberone + testnumbertwo; 
+   
+   	System.out.println("The sum of the two numbers is 3");
+   	
+   }
 
 }
    ```
