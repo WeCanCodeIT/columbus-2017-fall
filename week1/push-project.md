@@ -16,7 +16,7 @@
 - `git remote -v` probably won't do anything now
 - `git add .`   this will take all contents inside of the Eclipse project
 - `git commit -m "first commit" ` after you add your contents commit them to prepare for GitHub
-- `git remote add orign [copy link from new GitHub repo here...remove the brackets]`
+- `git remote add origin [copy link from new GitHub repo here...remove the brackets]`
 - `git push origin master`
 - refresh your GitHub repo to update and see the changes
 
