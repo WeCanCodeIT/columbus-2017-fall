@@ -4,6 +4,8 @@
 
 ### Topics
 
+- Fortune-Teller Reflections
+- CodingBat Warmup 1 discussion/demo/practice
 - Understanding when to use loops
 - Understand why a loop would be needed
 - `while` loops
