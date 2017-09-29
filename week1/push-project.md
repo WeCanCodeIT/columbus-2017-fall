@@ -22,6 +22,6 @@
 
 - make a change in your Push class
 - in Git Bash type `git status`  you should see a modification
-- add, commit and push this modification (you do not need to do git push origin master again)
+- add, commit and push this modification (you do not need to do `git remote add origin` again...just do `git push`)
 - update your GitHub again notice the change? Click on the commits link. 
 
