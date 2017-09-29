@@ -57,24 +57,7 @@ public class thursdaywarmup {
    ```
 
 
-### Fri Sept 29
 
-In Eclipse access **ColumbusFacts** 
-  - Ask the user to enter a city
-  - If Columbus is entered then display the facts we have produced
-  - Any other city that is entered say 
-   `Why do you want to know about any city other than Columbus?`
-   
-  - Your console should produce what is below
- 
- ```bash
-    Enter a city for information: Columbus
-
-    Columbus is ranked 8th in U.S. cities for tech job growth
-    Ranked first in Scaling startups
-    Ranked top city for mid-career professionals 
-    4280 new jobs were announced by over 80 companies in 2016
-  ```
 
 
 <!---
