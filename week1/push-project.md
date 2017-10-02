@@ -1,4 +1,4 @@
-# Use this guide to push your first Eclipse project to GitHub
+# Guide to initializing git repositories and maintaining them
 
 ## Setting Up Local and Remote Repositories
 
