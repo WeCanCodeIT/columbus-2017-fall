@@ -109,6 +109,6 @@
 
 Weekly Graded Exercise: [Fortune-Teller](../exercises/fortune-teller/)
 
-Due Monday, Oct 2, 9:30 AM: [Submission Link](https://goo.gl/forms/RaUf4mnPEUoi6kp23)
+Due Monday, Oct 2, 9:30 AM: [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSeVNd3yLs7xgc5PJNVswjydzHgIE-z0FK3RKWMyn1OjHEaeoA/viewform?usp=sf_link)
 
 Your repository should look something like (this is mine): `https://github.com/akostrick/fortune-teller`. Note my user id (`akostrick`) and repository name (`fortune-teller`).
