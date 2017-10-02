@@ -27,7 +27,6 @@
 ### References
 
 - [Loops, Part 1 slides](https://wecancodeit.github.io/java-slides/fundamentals/loops-01/)
-- [Branching Statements slides](https://wecancodeit.github.io/java-slides/fundamentals/branching-statements)
 - [Oracle Java Tutorial, The while and do-while Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
 
 
