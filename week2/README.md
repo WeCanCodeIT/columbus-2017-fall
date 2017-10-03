@@ -47,6 +47,7 @@
 ### References
 
 - [For Loops slides](https://wecancodeit.github.io/java-slides/fundamentals/for-loops/)
+- [Branching Statements](https://wecancodeit.github.io/java-slides/fundamentals/branching-statements/)
 - [Oracle Java Tutorial, Branching Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html)
 - Java Branching Statements [w3resource](http://www.w3resource.com/java-tutorial/java-branching-statements.php)
 
