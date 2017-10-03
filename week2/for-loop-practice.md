@@ -40,3 +40,7 @@ Atlanta
 atnaltA
 
 ```
+
+### Max and Min Values
+
+Ask the user for 5 integers. Create a for loop structure that finds the max and min from the data entered.
