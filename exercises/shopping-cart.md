@@ -2,7 +2,7 @@
 
 ### The Item Class
 
-Create an **Item** class that models an Item to be purchased. It should contain instance data and a constructor to hold the following characteristics: name, price and quantity. Item class should also include accessor methods for the 3 characteristics and a toString summary.
+Create an `**Item**` class that models an Item to be purchased. It should contain instance data and a constructor to hold the following characteristics: `String name`, `double price` and `int quantity`. Item class should also include accessor methods for the 3 characteristics and a toString summary.
 
 ### The ShopApp Class
 
