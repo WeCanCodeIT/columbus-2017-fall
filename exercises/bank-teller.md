@@ -25,5 +25,27 @@ Inside of the `BankingApp` Class program the following:
 - A `Bank` object called `myBank`
 - A `BankAccount` object called `account1` with the following properties `("1111","Checking",500.00)`
 - A `BankAccount` object called `account2` with the following properties `("2222","Savings",2500.00)`
+- Have `myBank` `add` the 2 accounts to the map
+- Set up a user interface to give similar output to the console:
+```
+Here are your accounts at our bank:
+Checking 500.0
+Savings 100.0
+
+What would you like to do?
+Press 1 to deposit
+Press 2 to withdrawal
+Press 3 to check balance
+Press 4 to close an account
+Press -1 to exit
+
+1
+You want to deposit.
+Here are your accounts
+(1111) Checking 500.0
+(2222) Savings 100.0
+Select the account by (acct num) to perform this transaction.
+```
+
 
 
