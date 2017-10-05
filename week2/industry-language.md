@@ -18,7 +18,7 @@
 - **Class**: created in Eclipse to house code that becomes the blueprint for an object [read more](http://www.webopedia.com/TERM/I/input.html)
 - **Object**: an instance of a class
 - **Object Oriented Programming (OOP)**: a shift from just writing logic towards writing about the objects we want to manipulate
-
+- **Constructor**: shares the same name as the class, has no data type, **constructs** the object 
 
 
 
