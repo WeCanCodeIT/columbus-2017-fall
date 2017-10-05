@@ -16,8 +16,8 @@ Inside of `BankAccount` Class program the following:
 Inside of the `Bank` Class complete the following:
 - Create a `map` called `accounts`
 - `public Collection<BankAccount> accounts()` to return all accounts
-- A `void` method to add a BankAccount
-- A `BankAccount` method to access a particular `accountNum`
+- A method with the header `void add(BankAccount account)` to add a Bank Account 
+- A `BankAccount` method to get access a particular `accountNum` 
 - A `BankAccount` method to `close` a particular `accountNum`
 
 
