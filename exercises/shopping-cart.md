@@ -12,6 +12,9 @@ Create an `ArrayList` to hold `Item` instances. Call your `ArrayList` `items`. H
 ArrayList<String> ingredients = new ArrayList<String>();
 ```
 
+- When you prompt the user for the name of item, quantity and price, store these in an ole fashion `Item` object.
+- Once you have that `Item` object, go ahead and `add` it to your `ArrayList`
+
 The `ShopApp` class should be designed to model shopping in similar fashion to Amazon and other online sites (where you can add to cart and you will see your total increase with each item added). Use a loop to simulate shopping, asking the user to enter the item, quantity and price. (You will need variables for these.) Store the items in an `ArrayList` and update the total due at checkout.
 
  **Stretch task**: Provide an opportunity to remove an item from the shopping cart if a user no longer desires to make that particular purchase.
