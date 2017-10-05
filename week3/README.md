@@ -20,6 +20,7 @@
 ### References
 
 - [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
+- [Gradle Scripts](https://github.com/WeCanCodeIT/gradle-scripts)
 - [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 - [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 
