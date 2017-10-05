@@ -63,7 +63,7 @@
 
 ### Class Preparation
 
-- [Bank-Teller Project](../exercises/bank-teller.md)
+- [Bank Bridge Project](../exercises/bank-teller.md)
 
 ### References
 
