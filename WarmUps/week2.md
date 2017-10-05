@@ -16,28 +16,10 @@ Once complete, convert your answer from pennies to dollars and display the total
 
 ### Thurs Oct 5
 
-Create an array of 5 names. Write code to check if your name is one of the names. Print feedback to the console that tells whether your name has been found or not.  
+Create an array of 5 names. Write code to the **index of** (aka location) of a particular name within the array 
 
 
-### Fri Oct 6
 
-Assume the following class exists:
- ```bash
-public class SomeClass {
-	
-	String name;
-	int id;
-	
-	public SomeClass(String name, int id)
-	{
-		this.name = name;
-		this.id = id;
-	}
-	
-}
-  ```
-  
-  Create an object that is an instance of this class.
   
  
 
