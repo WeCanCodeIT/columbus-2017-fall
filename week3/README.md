@@ -19,7 +19,7 @@
 
 ### References
 
-- [TDD](https://wecancodeit.githib.io/java-slides/testing/tdd-intro/)
+- [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
 - [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 - [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 
