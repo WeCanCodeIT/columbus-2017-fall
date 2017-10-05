@@ -16,7 +16,7 @@ Once complete, convert your answer from pennies to dollars and display the total
 
 ### Thurs Oct 5
 
-Create an array of 5 names. Write code that gives feedback on the **index of** (aka location) of a particular name within the array...what if the name is not in the array?? 
+Ask the user for their 5 favorite bands/musicians...store these in an array. Display the results in reverse order of how they were entered by the user.
 
 
 
