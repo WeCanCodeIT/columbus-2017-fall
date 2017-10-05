@@ -4,19 +4,23 @@
 
 ### Topics
 
+- Students will go through their first tdd process
 - Students should understand the differences between an array and an ArrayList.
 - Students should be able to create and manipulate an ArrayList through ArrayList methods
 - Students should understand how type parameters are used with an ArrayList.
 
 ### Class Preparation
 
+- Complete the FizzBuzz kata (morning)
+- Intro to ArrayLists (afternoon)
 - Complete the practice problems on Slide 17
-- [Let's Bake a Cake](./arrayList-exercises.md)
+- [Let's Bake a Cake](./arrayList-exercises.md) Extra practice that could be done outside of class
 - Recommended Reading: Head First Java pages 131-139
 
 ### References
 
-- Slides: [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
+- [TDD](https://wecancodeit.githib.io/java-slides/testing/tdd-intro/)
+- [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 - [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
 
 
