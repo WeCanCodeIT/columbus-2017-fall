@@ -2,7 +2,7 @@
 
 ### The Item Class
 
-Create an `**Item**` class that models an Item to be purchased. It should contain instance data and a constructor to hold the following characteristics: `String name`, `double price` and `int quantity`. Item class should also include accessor methods for the 3 characteristics and a toString summary.
+Create an **`Item`** class that models an Item to be purchased. It should contain instance data and a constructor to hold the following characteristics: `String name`, `double price` and `int quantity`. Item class should also include accessor methods for the 3 characteristics and a toString summary.
 
 ### The ShopApp Class
 
@@ -13,7 +13,7 @@ ArrayList<String> ingredients = new ArrayList<String>();
 ```
 
 - When you prompt the user for the name of item, quantity and price, store these in an ole fashion `Item` object.
-- Once you have that `Item` object, go ahead and `**add**` it to your `ArrayList`
+- Once you have that `Item` object, go ahead and **`add`** it to your `ArrayList`
 - Need to display the items that are in your shopping cart? Go ahead and do that with a for loop or an enhanced for loop.
 
 The `ShopApp` class should be designed to model shopping in similar fashion to Amazon and other online sites (where you can add to cart and you will see your total increase with each item added). Use a loop to simulate shopping, asking the user to enter the item, quantity and price. (You will need variables for these.) Store the items in an `ArrayList` and update the total due at checkout.
