@@ -8,7 +8,7 @@ Design a `BankAccount` class that will perform capabilities of a single Bank Acc
 
 Inside of `BankAccount` Class program the following:
 - 3 instance variables to handle `String accountNum`, `String type`, and `double balance`
-- note the pin will be a unique identifier
+- note the accountNum will be a unique identifier
 - create the `Constructor` to read in a BankAccount object
 - create the following methods: `getType(), getBalance(), deposit(double amount), withdrawal(double amount)`
 - be sure to update `balance` properly in deposit and withdrawal and to return the proper data in all methods
