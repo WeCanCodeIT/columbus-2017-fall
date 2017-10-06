@@ -6,7 +6,7 @@ Create a virtual pet. Bonus points if it becomes a fad!
 
 - [ ] Create a Java project in Eclipse named `virtual-pet`.
 - [ ] Create a README.md file in your project folder to describe what you've done with your project. No fancy formatting is necessary. Just separate paragraphs with an empty line. (If you'd like to learn more about Markdown formatting, check out the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/).)
-- [ ] Create a GitHub repository also named `virtual-pet` and set it up so that you can push your code there from your Eclipse project. Do this *now*. It's the least fun part, so just get it out of the way.
+- [ ] Create a GitHub repository also named `virtual-pet` and [**set it up so that you can push your code**](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/initializing-and-managing-git-repositories.md) there from your Eclipse project. Do this *now*. It's the least fun part, so just get it out of the way.
 
 ## Classes
 - [ ] create a `VirtualPet` class.
