@@ -25,17 +25,17 @@ High St. Hospital is an organizational mess.  They have unkempt files of employe
 
 
 ## The Data
-The following `**Instance Data**` will need to be taken care of for each employee
+The following **Instance Data** will need to be taken care of for each employee
 
-- **Hospital Employee**: Employee Name, Employee Number
-- **Doctor**: Employee Name, Employee Number, Specialty Area (Heart, Brain, Foot, etc…)
-- **Surgeon**: Employee Name, Employee Number, Specialty Area, and whether they are operating or not)
-- **Nurse**: Employee Name, Employee Number, and Number of Patients they are taking care of
-- **Receptionist**: Employee Name, Employee Number, whether they are on the phone or not
-- **Janitor**: Employee Name, Employee Number, whether they are sweeping or not
+- **`HospitalEmployee`**: Employee Name, Employee Number
+- **`Doctor`**: Employee Name, Employee Number, Specialty Area (Heart, Brain, Foot, etc…)
+- **`Surgeon`**: Employee Name, Employee Number, Specialty Area, and whether they are operating or not)
+- **`Nurse`**: Employee Name, Employee Number, and Number of Patients they are taking care of
+- **`Receptionist`**: Employee Name, Employee Number, whether they are on the phone or not
+- **`Janitor`**: Employee Name, Employee Number, whether they are sweeping or not
 
 ## Special Duties
-Not all employees in the hospital have the same capabilities. Only certain staff members can `**implement**` `**MedicalDuties**` such as `drawBlood()` and `careForPatient()`
+Not all employees in the hospital have the same capabilities. Only certain staff members can **implement** **`MedicalDuties`** such as `drawBlood()` and `careForPatient()`
 
 
 
