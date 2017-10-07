@@ -48,7 +48,7 @@ Diagram the classes you will need for this program.  What are the inheritance re
 
 ### Part 2
 
-Let's prepare a project where we can test drive information 
+[Let's prepare a project where we can test drive information](https://github.com/WeCanCodeIT/gradle-scripts) 
 
 ### Part 3
 
