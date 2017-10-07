@@ -16,11 +16,11 @@ High St. Hospital is an organizational mess.  They have unkempt files of employe
       - appropriate getter methods and toString() 
       
 **High St. Hospital has the following classifications at its facility**
--	Doctor is a type of Hospital Employee and gets paid 90,000
--	Nurse is a type of Hospital Employee and gets paid 50,000
--	Surgeon is a type of Doctor and gets paid 120,000
--	Receptionist is a type of Hospital Employee and gets paid 45,000
--	Janitor is a type of Hospital Employee and gets paid 40,000
+-	`Doctor` is a type of Hospital Employee and gets paid 90,000
+-	`Nurse` is a type of Hospital Employee and gets paid 50,000
+-	`Surgeon` is a type of Doctor and gets paid 120,000
+-	`Receptionist` is a type of Hospital Employee and gets paid 45,000
+-	`Janitor` is a type of Hospital Employee and gets paid 40,000
 
 
 
