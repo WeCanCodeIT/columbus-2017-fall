@@ -57,20 +57,30 @@ We can stare at this stuff all we want but until we actually make some software,
 #### Our first iteration of this new software...
 
 ```bash
-High St. Hospital Employees: 
-Michael	234	Heart
-Vincent	645	Brain		true
-Sonny	789	6
-Luca	375	Business
-Tom	951	Office		true
-Anthony	123	Maintenence	false
+Here are the employees at High St. Hospital
+Phil	111	Brain
+Harry	222	Plastic	true
+Jackie	333	6
+Janine	444	true
+Rosie	555	true
 
-Vincent is operating now.
-Tom is on the phone now.
-Anthony is not sweeping now.
+Here are the pay rates at High St. Hospital
+Phil gets paid a salary of 90000 per year.
+Harry gets paid a salary of 120000 per year.
+Jackie gets paid a salary of 50000 per year.
+Janine gets paid a salary of 45000 per year.
+Rosie gets paid a salary of 40000 per year.
+
+Some Employees can draw blood
+Phil is capable of drawing blood.
+Harry is capable of drawing blood.
+Jackie is capable of drawing blood.
+
+Some Employees can administer patient care
+Phil has increased patient health to 20
+Harry has increased patient health to 20
+Jackie has increased patient health to 15
 ```
 
 ### Part 4
-- Using Polymorphism let's pay our employees (getPaid() method)
-- Stretch task: Place our employees in a collection
 - Stretch task: Through user input, type search for an employee by name and access their info/what they are doing
