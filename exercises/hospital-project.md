@@ -84,3 +84,4 @@ Jackie has increased patient health to 15
 
 ### Part 4
 - Stretch task: Through user input, type search for an employee by name and access their info/what they are doing
+- Stretch task: add an employee, fire an employee
