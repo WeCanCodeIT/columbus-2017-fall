@@ -16,7 +16,7 @@ just remember this may make the girl scout sad so please be kind.
 - `public void addOrder(CookieOrder theOrder)` add an order to the list showing variety and quantity
 - `public int getTotalBoxes()` keep track of total boxes ordered
 - `public int removeVariety(String variety)` give the ability to pick out a variety of cookie and remove
-   it from the list (keep track of total boxes removed as well) Hint: When you remove something the list will shrink, 
+   it from the list  Hint: When you remove something the list will shrink, 
    you need to consider this when traversing your collection (you don't want to overlook any items)
 - `public void showOrder()` to traverse and print the ArrayList
 
@@ -24,7 +24,7 @@ just remember this may make the girl scout sad so please be kind.
 - Add 4 orders
 - Total the boxes purchased
 - Show the list
-- Remove a variety and give feedback on how many boxes were removed
+- Remove a variety
 - Show the updated list
 
 ### Example
@@ -39,7 +39,7 @@ You have ordered 11 boxes
 
 What would you like to remove? (specify a variety or none)
 Thin Mints
-You are removing 5 Thin Mints
+You are removing Thin Mints
 Current Order
 Variety: Tagalongs Boxes: 1
 Variety: Samoas Boxes: 2
@@ -49,6 +49,4 @@ Variety: Tagalongs Boxes: 3
 ### Stretch Task
 - Try doing live adds, removals and updates to your order, you will need a loop and some user input
 
-### Stretchier Task
-- Specify a variety of cookie you want to remove and exactly how many boxes need to be removed
-  (now you are dealing with 2 parameters(requirements))
+
