@@ -23,6 +23,14 @@
 - [Gradle Scripts](https://github.com/WeCanCodeIT/gradle-scripts)
 - [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 - [ArrayList Methods](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+- [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+- Katas
+	- [CodeKata](http://codekata.com/)
+	- [codekatas.org](http://www.codekatas.org/) (videos)
+	- [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/)
+	- [CodeWars](https://www.codewars.com/)
+	- [CodeFights](https://codefights.com/) (no fighting involved!)
+	- [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas) :stuck_out_tongue_winking_eye:
 
 
 ## Tuesday, Oct 10
