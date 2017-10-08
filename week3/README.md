@@ -34,8 +34,9 @@
 
 ### Class Preparation
 
-- [Create a Shopping Cart](../exercises/shopping-cart.md)
 - [Cookie Order](../exercises/cookie-orders.md)
+- [Create a Shopping Cart](../exercises/shopping-cart.md)
+
 
 
 ### References
