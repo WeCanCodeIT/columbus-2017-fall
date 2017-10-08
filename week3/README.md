@@ -11,8 +11,8 @@
 
 ### Class Preparation
 
-- Complete the FizzBuzz kata (morning)
-- Intro to ArrayLists (afternoon)
+- Complete the FizzBuzz kata
+- Intro to ArrayLists 
 - Complete the practice problems on Slide 17
 - [Let's Bake a Cake](./arrayList-exercises.md) Extra practice that could be done outside of class
 - Recommended Reading: Head First Java pages 131-139
