@@ -19,7 +19,7 @@ The `ShopApp` class should be designed to model shopping in similar fashion to A
 
 
 #### Example 
-Here 3 items are added and then 2 items are removes leaving 1 item in the final checkout.
+Here 3 items are added and then 2 items are removed leaving 1 item in the final checkout.
 
 ```bash
 Welcome to We Can Code ITs online store
