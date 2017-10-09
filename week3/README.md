@@ -11,7 +11,7 @@
 
 ### Class Preparation
 
-- Complete the FizzBuzz kata
+- Complete the [FizzBuzz](.fizz-buzz.md) kata
 - Intro to ArrayLists 
 - Complete the practice problems on Slide 17
 - [Let's Bake a Cake](./arrayList-exercises.md) Extra practice that could be done outside of class
