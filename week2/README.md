@@ -42,7 +42,7 @@
 ### Class Preparation
 
 - [For Loop practice problems](./for-loop-practice.md)
-- [CodingBat Warmup 2](http://codingbat.com/java) 
+- [CodingBat Warmup 2](http://codingbat.com/java)
 
 ### References
 
@@ -69,7 +69,7 @@
 ### Class Preparation
 
 - Practice problems on slides 10 and 14
-- [CodingBat Array2](http://codingbat.com/java) 
+- [CodingBat Array2](http://codingbat.com/java)
 
 ### References
 
@@ -99,13 +99,11 @@
 ## Friday, Oct 6
 
 ### Index Card Feedback
- 
+
  - Anonymous
  - Questions/Comments/Concerns/Shout-Outs for the good of the order???
  - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
 
 Weekly Graded Exercise: [Virtual Pet](../exercises/virtual-pet/)
 
-Due Monday, Oct 9, 9:30 AM: [Submission Link](https://goo.gl/forms/Dp5jNCawPJtp0H7x2)
-
-
+Due Monday, Oct 9, 9:30 AM: [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSflu2DB7MzCKsdWQtjRXB4E4nMhYdSzyhjb3OqBYqW9cCKMpw/viewform)
