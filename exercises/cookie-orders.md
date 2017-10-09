@@ -13,7 +13,7 @@ just remember this may make the girl scout sad so please be kind.
 ### The `MasterOrder` Class will maintain a list of cookies being purchased
 - Declare your ArrayList and name it `orders`
 - Create an empty constructor and the following methods
-- `public void addOrder(CookieOrder theOrder)` add an order to the list showing variety and quantity
+- `public void addOrder(CookieOrder order)` add an order to the list showing variety and quantity
 - `public int getTotalBoxes()` keep track of total boxes ordered
 - `public void removeVariety(String variety)` give the ability to pick out a variety of cookie and remove
    it from the list  Hint: When you remove something the list will shrink, 
