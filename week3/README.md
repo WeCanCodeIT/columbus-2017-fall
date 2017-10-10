@@ -78,7 +78,7 @@
 
 ### Class Preparation
 
-- [Bank Bridge Project](../exercises/bank-teller.md)
+- [Bank Project](../exercises/bank-teller.md)
 
 ### References
 
