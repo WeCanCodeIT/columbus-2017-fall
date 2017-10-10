@@ -10,13 +10,13 @@ Inside of `BankAccount` Class program the following:
 - 3 instance variables to handle `String accountNum`, `String type`, and `double balance`
 - note the accountNum will be a unique identifier
 - create the `Constructor` that handles the 3 pieces of instance data in the order mentioned above
-- create the following methods: `getType(), getBalance(), deposit(double amount), withdrawal(double amount)`
-- be sure to update `balance` properly in deposit and withdrawal and to return the proper data in all methods
+- create the following methods: create appropriate methods needed for bank transactions
+
 
 Inside of the `Bank` Class complete the following:
 - Create a `map` called `accounts`
 - `public Collection<BankAccount> accounts()` to return all accounts
-- A method with the header `void add(BankAccount account)` to add a Bank Account 
+- A method to add a Bank Account 
 - A `BankAccount` method to get access a particular `accountNum` 
 - A `BankAccount` method to `close` a particular `accountNum`
 
