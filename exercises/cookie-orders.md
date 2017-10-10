@@ -47,7 +47,6 @@ Variety: Samoas Boxes: 2
 Variety: Tagalongs Boxes: 3
 ```
 
-### Stretch Task
-- Try doing live adds, removals and updates to your order, you will need a loop and some user input
+
 
 
