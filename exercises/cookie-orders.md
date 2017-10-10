@@ -9,6 +9,7 @@ just remember this may make the girl scout sad so please be kind.
 ### The `CookieOrder` Class
 - Write this class to keep track of 2 pieces of instance data: `variety` of cookie and `numBoxes` purchased
 - Create the constructor to handle this data and 2 accessor methods
+- Create the `toString()` to summarize the object
 
 ### The `MasterOrder` Class will maintain a list of cookies being purchased
 - Declare your ArrayList and name it `orders`
