@@ -6,16 +6,16 @@
 Duplicate the following using user input to store names in an ArrayList.
 
 ```bash
-Enter names q to quit
-Alan
-Enter names q to quit
+Enter a name (q to quit.)
 Don
-Enter names q to quit
+Enter a name (q to quit.)
 Anne
-Enter names q to quit
+Enter a name (q to quit.)
+Alan
+Enter a name (q to quit.)
 q
 The names you entered are:
-Alan
 Don
 Anne
+Alan
 ```
