@@ -97,4 +97,4 @@
 
 Weekly Graded Exercise: [Virtual Pet Shelter](../exercises/virtual-pet-shelter)
 
-Due Mon, Oct 15, 9:30 AM: [Submission Link](https://goo.gl/forms/KT6pmGVn52mukzoD3)
+Due Mon, Oct 15, 9:30 AM: [Submission Link]()
