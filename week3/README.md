@@ -44,6 +44,7 @@
 
 - [Cookie Order](../exercises/cookie-orders.md)
 - [Create a Shopping Cart](../exercises/shopping-cart.md)
+- Recommended Reading: Head First Java 132-138, 156, 208, 211-212, 288-289
 
 
 
