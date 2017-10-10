@@ -1,4 +1,4 @@
-# Bank Bridge Project
+# Bank Project
 
 ## Objective
 
