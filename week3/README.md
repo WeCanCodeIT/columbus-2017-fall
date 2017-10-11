@@ -62,6 +62,7 @@
 
 ### Class Preparation
 - [Map Exercises](./map-exercises.md)
+- Recommended Reading: Head First Java 533, 557,558, 567,
 
 ### References
 - Slides:
