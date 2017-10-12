@@ -3,7 +3,7 @@
 ### Objective
 
 - Students will employ good software design and testing principles in order to create a class hierarchy using APIE (Abstraction, Polymorphism, Inheritance and Encapsulation).
-- Students will be able to define **super**, **abstract**, **extends**, **implements** and **is-a**
+- Students will be able to define **super**, **abstract**, **extends**, **implements**, **is-a** and **instance of**
 
 ## The Scenario
 
