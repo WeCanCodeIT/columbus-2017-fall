@@ -20,6 +20,7 @@ Inside of the `Bank` Class complete the following:
 - A `BankAccount` method to get access a particular `accountNum` 
 - A `BankAccount` method to `close` a particular `accountNum`
 
+Hint: Think of what a Bank does...it houses many bank accounts...that is why this class is created to "maintain" the collection
 
 Inside of the `BankingApp` Class program the following:
 - A `Bank` object called `myBank`
