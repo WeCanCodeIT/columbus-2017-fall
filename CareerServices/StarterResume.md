@@ -16,4 +16,4 @@ In this session, students should all bring a copy of their current resume to cla
 - [ ] Brainstorm & write out a list of your most desirable, related qualifications (should form the cornerstone of your resume) 
   - [ ] You can get ideas from skills listed on [Past Resumes](https://drive.google.com/drive/folders/0BzvIL8y5U8RDbklXamdMVE1iams?usp=sharing), job listings, other developers’ LinkedIn Profiles
 - [ ] Choose chronological, functional, or combination for your resume format depending on your past experience([See article](https://www.thebalance.com/resume-types-chronological-functional-combination-2063235))
-- [ ] Quantify achievements for any relevant work history
+- [ ] [Quantify achievements](https://resumegenius.com/how-to-write-a-resume/accomplishments-on-resume-quantify-achievements) for any relevant work history
