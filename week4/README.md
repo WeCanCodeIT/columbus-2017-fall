@@ -10,7 +10,7 @@
 	
 ### Class Preparation
 - Complete the Inheritance Demo Project along with me
-- Begin Development of [High St. Hospital](./hospital-project.md)
+- Begin Development of [High St. Hospital](../exercises/hospital-project.md)
 - Recommended Reading: Head First Java pages 165-183
 
 ### References
