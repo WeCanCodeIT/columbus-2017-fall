@@ -29,6 +29,11 @@ Inside of the `BankingApp` Class program the following:
 - Have `myBank` `add` the 2 accounts to the map
 - Set up a user interface to give similar output to the console:
   - Note: When displaying your accounts use an enhanced for loop 
+  
+### Sample Output
+
+- There is flexibility here, feel free to design your user interface to have the functionality your desire 
+
 ```
 Here are your accounts at our bank:
 Checking 500.0
@@ -40,13 +45,41 @@ Press 2 to withdrawal
 Press 3 to check balance
 Press 4 to close an account
 Press -1 to exit
-
 1
 You want to deposit.
 Here are your accounts
 (1111) Checking 500.0
 (2222) Savings 100.0
 Select the account by (acct num) to perform this transaction.
+1111
+You have selected 1111
+Enter the amount to deposit:
+2000
+Your updated balance is now 2500.0
+
+What would you like to do?
+Press 1 to deposit
+Press 2 to withdrawal
+Press 3 to check balance
+Press 4 to close an account
+Press -1 to exit
+4
+You would like to close an account.
+Here are your accounts
+(1111) Checking 2500.0
+(2222) Savings 100.0
+Enter the account number of the account you would like to close:
+2222
+You are closing account # 2222
+Here are your remaining accounts
+(1111) Checking 2500.0
+
+What would you like to do?
+Press 1 to deposit
+Press 2 to withdrawal
+Press 3 to check balance
+Press 4 to close an account
+Press -1 to exit
 ```
 
 
