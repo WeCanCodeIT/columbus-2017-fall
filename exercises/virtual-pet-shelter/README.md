@@ -96,10 +96,11 @@ In addition to the requirements from [last week's project](../virtual-pet):
 - include instance variables representing:
 	- [ ] name
 	- [ ] description
-- include a constructor that accepts a name and description
-- include a constructor that, in addition to name and description, accepts default values for the pet's attributes (hunger, boredom, etc)
+- include a constructor that accepts a name and description only
+- include a constructor that, in addition to name and description, accepts starting values for the pet's attributes (hunger, boredom, etc)
 
 Do **not** include a default (zero arguments) constructor.
+You will find that it is OK to have more than one constructor. This will be called an **overloaded** constructor
 
 ## Stretch Tasks
 
