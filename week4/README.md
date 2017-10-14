@@ -16,6 +16,7 @@
 ### References
 - [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
 - [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
+- [TDD vs Behavior Driven Development](https://www.youtube.com/watch?v=4QFYTQy47yA)
 
 
 
@@ -40,6 +41,9 @@
 
 ## Wednesday, Oct 18
 
+
+## Thursday, Oct 19
+
 ### Topics
 
 - Equality and Sets
@@ -58,40 +62,6 @@
 	- *Head Start Java*, Chapter 4, pp 79-82
 - *Head Start Java*, Chapter 8: interfaces and polymorphism
 
-## Thursday, Oct 19
-
-### Topics
-
-- Intro to Agile Development	
-	- [Clean Coders](https://cleancoders.com)
-	- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
-	- [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
-	- [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
-
-- Intro to Unit Testing
-	- Test Driven Design (TDD) 
-	- [TDD vs Behavior Driven Development](https://www.youtube.com/watch?v=4QFYTQy47yA)
-	- JUnit 4
-- Katas
-
-### Class Preparation
-
-- [Gradle Build Scripts](https://github.com/WeCanCodeIT/gradle-scripts)
-- [Agile Dev and TDD Slides](https://wecancodeit.github.io/java-slides/tools/testing/)
-
-
-### References
-
-- [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
-- Katas
-	- [CodeKata](http://codekata.com/)
-	- [codekatas.org](http://www.codekatas.org/) (videos)
-	- [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/)
-	- [CodeWars](https://www.codewars.com/)
-	- [CodeFights](https://codefights.com/) (no fighting involved!)
-	- [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas) :stuck_out_tongue_winking_eye:
-- [JUnit Testing in Eclipse](https://www.youtube.com/watch?v=tkzJsP7NP54)
-- [One more time with Feeling](https://www.youtube.com/watch?v=2Ekty7t621k)
 	
 ## Friday, Oct 20
 
