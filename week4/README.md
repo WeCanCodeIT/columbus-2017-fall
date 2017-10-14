@@ -16,7 +16,6 @@
 
 ### References
 
-- [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
 - [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
 - [TDD vs Behavior Driven Development](https://www.youtube.com/watch?v=4QFYTQy47yA)
 
