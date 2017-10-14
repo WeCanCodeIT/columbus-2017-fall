@@ -10,10 +10,12 @@
 
 	
 ### Class Preparation
+
 - Begin Development of [High St. Hospital](../exercises/hospital-project.md)
 - Recommended Reading: Head First Java pages 165-183
 
 ### References
+
 - [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
 - [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
 - [TDD vs Behavior Driven Development](https://www.youtube.com/watch?v=4QFYTQy47yA)
@@ -66,7 +68,8 @@
 - the `instanceof` operator
 - Encapsulation
 
-### Resources
+### References
+
 - Equality and Sets:
 	- Slides: [Equality and Sets](https://wecancodeit.github.io/java-slides/objects/equality-and-sets/)
 	- *Head Start Java*, pp.209, 557-562
