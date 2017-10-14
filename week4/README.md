@@ -4,7 +4,7 @@
 
 ### Topics
 
-- Students will use the concept of Inheritance to develop relationships and hierarchies between classes
+- Students will use the concept of Inheritance to develope relationships and hierarchies between classes
 - Students will test drive objects made through Inheritance
 - Students will be able to define A PIE
 
