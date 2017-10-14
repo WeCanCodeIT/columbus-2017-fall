@@ -6,14 +6,15 @@
 
 - Students will use the concept of Inheritance to develop relationships and hierarchies between classes
 - Students will test drive objects made through Inheritance
+- Students will be able to define A PIE
 
 	
 ### Class Preparation
-- Complete the Inheritance Demo Project along with me
 - Begin Development of [High St. Hospital](../exercises/hospital-project.md)
 - Recommended Reading: Head First Java pages 165-183
 
 ### References
+- [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
 - [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
 
 
