@@ -41,6 +41,19 @@
 
 ## Wednesday, Oct 18
 
+### Topics
+
+- Students will be able to define A PIE
+
+	
+### Class Preparation
+
+
+### References
+
+- [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
+
+
 
 ## Thursday, Oct 19
 
