@@ -89,5 +89,5 @@
 
 Weekly Graded Exercise: [Virtual Pets AMOK!](../exercises/virtual-pets-amok)
 
-Due Mon, Oct 23, 9:30 AM: [Submit](https://goo.gl/forms/fQGRHFImY0GV8vGu1)
+Due Mon, Oct 23, 9:30 AM: [Submit]
 
