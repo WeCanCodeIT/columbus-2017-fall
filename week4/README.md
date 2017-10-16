@@ -6,7 +6,7 @@
 
 - Students will use the concept of Inheritance to develope relationships and hierarchies between classes
 - Students will test drive objects made through Inheritance
-- Students will be able to define A PIE
+- Students will be able to define A PIE by the end of the week
 
 	
 ### Class Preparation
