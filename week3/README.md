@@ -12,7 +12,7 @@
 ### Class Preparation
 
 - Complete the [FizzBuzz](./fizz-buzz.md) kata
-- Intro to ArrayLists 
+- Intro to ArrayLists
 - Complete the practice problems on Slide 17
 - [Let's Bake a Cake](./arrayList-exercises.md) Extra practice that could be done outside of class
 - Recommended Reading: Head First Java pages 131-139
@@ -90,7 +90,7 @@
 ## Friday, Oct 13
 
 ### Index Card Feedback
- 
+
  - Anonymous
  - Questions/Comments/Concerns/Shout-Outs for the good of the order???
  - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
@@ -98,4 +98,4 @@
 
 Weekly Graded Exercise: [Virtual Pet Shelter](../exercises/virtual-pet-shelter)
 
-Due Mon, Oct 15, 9:30 AM: [Submission Link]()
+Due Mon, Oct 15, 9:30 AM: [Submission Link](https://docs.google.com/forms/d/1By4LcBOW1tS8pLASksVQ1KyStrXGlI2hakEViQ5Z7tw/edit)
