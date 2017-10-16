@@ -12,7 +12,7 @@ High St. Hospital is an organizational mess.  They have unkempt files of employe
 **High St. Hospital has the following generic model at its facility:**
 -	`HospitalEmployee`
       - initializes `patientHealth = 10` 
-      -  `getPay()` abstract method with no specifications
+      -  `calculatePay()` abstract method with no specifications
       - appropriate getter methods and toString() 
       
 **High St. Hospital has the following classifications at its facility**
