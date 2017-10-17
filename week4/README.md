@@ -27,6 +27,7 @@
 
 - Students will understand what Polymorphism is
 - Students will enhance their software through the implementation of Polymorphic methods
+- Students will avoid the deadly diamond of death by implementing an interface
 
 ### Class Preparation
 
