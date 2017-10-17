@@ -8,23 +8,19 @@
 ###For example
 
 ```bash
-import java.util.ArrayList;
-import java.util.Collections;
-
-public class ArrayListSort {
-
-	public static void main(String[] args) {
-
-		ArrayList<String> words = new ArrayList<String>();
+ArrayList<String> words = new ArrayList<String>();
 		words.add("hello");
 		words.add("hola");
 		words.add("world");
 		words.add("mundo");
 
-		
-		
 		System.out.println(words);
-	}
-
-}
 ```
+
+- How is this list printed?
+
+##Using the Collections Class
+- there is a `sort()` method in the Collections class
+- It accepts a `List` param and since `ArrayList` **implements**  the `List` interface...well then
+- try it...it will sort an `ArrayList` of `Strings`
+- what happens if we change the type on our list to be an object?
