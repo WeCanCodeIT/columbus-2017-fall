@@ -83,5 +83,6 @@ Jackie has increased patient health to 15
 ```
 
 ### Part 4
+- Stretch task: Tina is an `EmergencyDispatcher`. She is a trained medical professional and a first responder. She also has great people skills and can answer calls and manage what ambulance gets sent to a situation. She sometimes joins the crew and respondes to calls on the fly. Add her as an employee and give her the proper functionality. This job pays 45,000.
 - Stretch task: Through user input, type search for an employee by name and access their info/what they are doing
 - Stretch task: add an employee, fire an employee
