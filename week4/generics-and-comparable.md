@@ -1,11 +1,11 @@
-##Sorting a collection can be a necessary task
+## Sorting a collection can be a necessary task
 - putting things in aplhabetical order
 - sort items by amount
 
-##ArrayList does not have a sort method
+## ArrayList does not have a sort method
 - but they are fast (first in, first out) and this concept is easy to grasp
 
-###For example
+### For example
 
 ```bash
 ArrayList<String> words = new ArrayList<String>();
@@ -19,7 +19,7 @@ ArrayList<String> words = new ArrayList<String>();
 
 - How is this list printed?
 
-##Using the Collections Class
+## Using the Collections Class
 - there is a `sort()` method in the Collections class
 - It accepts a `List` param and since `ArrayList` **implements**  the `List` interface...well then
 - try it...it will sort an `ArrayList` of `Strings`
