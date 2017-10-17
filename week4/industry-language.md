@@ -7,6 +7,12 @@
 - **Child, Derived, Subclass**: The class that inherits these properties
 - **Superclass, Base, Parent**: The class whose properties are inherited
 - **Is-A Relationship**: The way we think of/define inheritance in Java
+- **instanceof**: Tests the is-a relationship with a boolean result
+- **extends**: Creates a subclass of a superclass
+- **super**: similar to the this keyword it serves 2 main functions
+            - invokes the superclass constructor from the subclass
+            - used to differentiate methods of superclass from methods of the subclass if they have the same names
+- **Abstract**: may or may not have an abstract method...has to be abstract if there is a method with no implementation. You cannot create an instance of an abstract class..if you inherit an abstract class you must code the abstract methods (called **implementation**)
 - **Polymorphism**: Having many forms
 - **Encapsulation**: The process of hiding information about an object from other objects
 - **Method Override**: Method inherited by a child class that has been altered
