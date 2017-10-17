@@ -55,9 +55,29 @@ ArrayList<String> words = new ArrayList<String>();
 	- `public class Word implements Comparable<Word>`
 - And now we can build out our `compareTo(T o)` like this...
 ```bash
-	- `@Override
+	@Override
 	public int compareTo(Word word) {
 		return this.word.compareTo(word.getWord());
 	}
 ```
+- Woah no errors! But outpu needs fixed...what is happening, how do we do this?
+- Ahh yes, you have had plenty of experience with this haven't you.
 
+###  Ahh lets change our list of words to be names
+- What if I want to sort by first name?
+	- There is a custom `Comparator` for that
+
+```bash
+class CompareFirst implements Comparator<Name>{
+		public int compare(Name one, Name another) {
+			return one.getFirstName().compareTo(another.getFirstName());
+		}
+	}
+```
+And in the App class
+
+```bash
+CompareFirst firstName = new CompareFirst();
+	Collections.sort(names, firstName);
+	
+	System.out.println(names);
