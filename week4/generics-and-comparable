@@ -6,6 +6,7 @@
 - but they are fast (first in, first out) and this concept is easy to grasp
 
 ###For example
+
 ```bash
 import java.util.ArrayList;
 import java.util.Collections;
