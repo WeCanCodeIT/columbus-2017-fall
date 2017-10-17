@@ -6,10 +6,12 @@
 
 - Gradle Intro: Taking our first bite from the elephant
 - Dependency Injection, Inversion of Control, and the Spring Framework
+- Create a Hello World website using Spring
 
 ### Class Preparation
 
-- [Spring Boot Quick Start Unit 1](https://javabrains.io/courses/spring_bootquickstart/)
+- [Spring Initializr](http://start.spring.io/)
+- [Create Hello World](https://spring.io/guides/gs/serving-web-content/)
 
 
 ### References
@@ -17,7 +19,7 @@
 - [Spring Framework Slides](https://wecancodeit.github.io/java-slides/spring/spring-boot/)
 - [Spring Boot Quick Start](https://javabrains.io/courses/spring_bootquickstart/)
 - Spring Boot Cookbook by Alex Antonov
-- [Spring Initializr](http://start.spring.io/)
+
 
 
 
@@ -32,7 +34,7 @@
 
 - [Spring Boot Quick Start Unit 2](https://javabrains.io/courses/spring_bootquickstart/)
 - More practice together using Gradle, Git Bash and the People class
-- [Create Hello World](https://spring.io/guides/gs/serving-web-content/)
+
 
 ### References
 
