@@ -47,10 +47,12 @@
 ### Topics
 
 - Students will be able to define A PIE
+- Students will be able to implement the Comparable Interface
 
 	
 ### Class Preparation
 
+- Sorting items in an ArrayList using compareTo
 
 ### References
 
