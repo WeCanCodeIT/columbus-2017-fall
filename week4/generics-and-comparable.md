@@ -26,11 +26,11 @@ ArrayList<String> words = new ArrayList<String>();
 - try it...it will sort an `ArrayList` of `Strings`
 - what happens if we change the type on our list to be an object?
 ```bash
-ArrayList<String> words = new ArrayList<String>();
-		words.add("hello");
-		words.add("hola");
-		words.add("world");
-		words.add("mundo");
+ArrayList<Word> words = new ArrayList<Word>();
+		words.add(new Word("hello"));
+		words.add(new Word("hola"));
+		words.add(new Word("world"));
+		words.add(new Word("mundo"));
 
 		
 		Collections.sort(words);
