@@ -16,7 +16,6 @@
 
 ### References
 
-- [Oracle Java Documentation on Interfaces](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)
 - [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
 - [TDD vs Behavior Driven Development](https://www.youtube.com/watch?v=4QFYTQy47yA)
 
@@ -37,6 +36,7 @@
 
 ### References
 
+- [Oracle Java Documentation on Interfaces](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)
 - [Polymorphism Tutorial](https://www.tutorialspoint.com/java/java_polymorphism.htm)
 
 
