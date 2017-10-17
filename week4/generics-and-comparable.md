@@ -61,7 +61,7 @@ ArrayList<Word> words = new ArrayList<Word>();
 		return this.word.compareTo(word.getWord());
 	}
 ```
-- Woah no errors! But outpu needs fixed...what is happening, how do we do this?
+- Woah no errors! But output needs fixed...what is happening, how do we do this?
 - Ahh yes, you have had plenty of experience with this haven't you.
 
 ###  Ahh lets change our list of words to be names
