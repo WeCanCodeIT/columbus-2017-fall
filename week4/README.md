@@ -34,6 +34,7 @@
 - Complete the Polymorphism enhancement in the demo project along with me
 - Continue Development of [High St. Hospital](../exercises/hospital-project.md)
 - Recommended Reading: Head First Java pages 183-196
+- Want more on Statics??? Read Head First Java Chapter 10
 
 ### References
 
@@ -53,6 +54,7 @@
 ### Class Preparation
 
 - Sorting items in an ArrayList using compareTo
+- Recommended Reading: Head First Java Chapter 16: Collections with Generics
 
 ### References
 
