@@ -41,7 +41,7 @@ ArrayList<Word> words = new ArrayList<Word>();
 ### `public static <T extends Comparable<? super T>> void sort List<T> List)`
 - When you see < > this mean generics, a feature of Java 5
 - Generics means more type safety
-	- This keeps things in order so issues happen during run time and not compile time
+	- This assures more issues happen during compile time and not run time
 	- Before generics, an `ArrayList` could contain a collection of any object
 		- Soccerballs, fish, cars and guitars could all be housed in the same collection
 		- With generics you type-safe collections...so only one particular object will belong in a collection
