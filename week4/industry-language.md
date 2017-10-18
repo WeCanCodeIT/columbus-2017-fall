@@ -13,6 +13,8 @@
             - invokes the superclass constructor from the subclass
             - used to differentiate methods of superclass from methods of the subclass if they have the same names
 - **Abstract**: may or may not have an abstract method...has to be abstract if there is a method with no implementation. You cannot create an instance of an abstract class..if you inherit an abstract class you must code the abstract methods (called **implementation**)
+- **Interface**: contains method signatures with no implementation and/or fields of specific duties, if an interface is implemented all methods must be implemented in the class 
+- **Implements**: Key word to give access to an interface by a class
 - **Polymorphism**: Having many forms
 - **Encapsulation**: The process of hiding information about an object from other objects
 - **Method Override**: Method inherited by a child class that has been altered
