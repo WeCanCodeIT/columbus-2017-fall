@@ -20,12 +20,16 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
   - Regular Expressions*
 - Git and GitHub
 
+**Career Services:** Intro to Career Services & Interview Bucket List
+
 ### Week 2 
 - Arrays
 - Loops
 - Intro to OOP
 - Building Classes - Methods and Attributes
 - Unit Testing/TDD (Junit)*
+
+**Career Services:** [Elevator Pitch](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/ElevatorPitchChecklist.md)
 
 ### Week 3 
 - Collections Overview (*Iterables/Iterators)
@@ -34,37 +38,56 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 - Inheritance & Polymorphism
 - Encapsulation
 
+**Career Services:** [Resume Workshop](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/StarterResume.md)
+
 ### Week 4 
 - Dependency Injection/Spring
 - Test Doubles (Mockito)*
 - Exceptions
 - Build Automation with Gradle*
 
+**Career Services:** Resume Workshop Continued
+Note: Prepare for Headshots Next Week
+
 ### Week 5 
 - Spring Boot
 - HTML
 - MVC
 
+**Career Services:** Inbound Marketing Yourself with LinkedIn
+
 ### Week 6 
 - CSS
 - Bootstrap
+
+**Career Services:** LinkedIn Publishing
+
+*Start scheduling one-on-one check-ins 
 
 ### Week 7
 - Relational Databases and Design
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
+**Career Services:** Informational & Behavioral Interview Skills
+
 ### Week 8 
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
 
+**Career Services:** Intro to Tech Interviews
+
 ### Week 9 
 - Flex Week
+
+**Career Services:** Tech Interviews Continued
 
 ### Week 10-12
 - Final Project
 - Agile/Scrum
+
+**Career Services:** Individual Mock Interviews
 
 '*' Denotes potential topics
 
