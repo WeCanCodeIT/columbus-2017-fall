@@ -56,7 +56,7 @@
 
 ### References
 
-- [Generics and Comparables](./generics-and-comparables.md)
+- [Generics and Comparables](/generics-and-comparables.md)
 - [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
 
 
