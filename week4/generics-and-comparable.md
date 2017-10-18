@@ -1,6 +1,6 @@
 ## Sorting a collection can be a necessary task
 - Recommended Reading: Head First Java 529-554
-- putting things in aplhabetical order
+- putting things in order
 - sort items by amount
 
 ## ArrayList does not have a sort method
