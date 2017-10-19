@@ -15,3 +15,4 @@
   **Hint** For testing purposes you can initialize an ArrayList with values like this:
   
  ### `List<ClassName> foo = new ArrayList<>(asList(foo1, foo2, foo3, etc));`
+ import asList: `import static java.util.Arrays.asList;`
