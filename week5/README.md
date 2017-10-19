@@ -11,7 +11,7 @@
 ### Class Preparation
 
 - [Spring Initializr](http://start.spring.io/)
-- [Create Hello World](https://spring.io/guides/gs/serving-web-content/)
+- [Create Hello World](https://spring.io/guides/gs/serving-web-content/) using the video [Getting Started Guide: Serving Web Content](https://www.youtube.com/watch?v=aLJ9MeQQry8&feature=youtu.be)
 
 
 ### References
