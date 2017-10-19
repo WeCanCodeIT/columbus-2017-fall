@@ -98,7 +98,7 @@
  - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
 
 
-Weekly Graded Exercise: [Virtual Pets AMOK!](../exercises/virtual-pets-amok)
+Weekly Graded Exercise: [Virtual Pet AMOK!](../exercises/virtual-pets-amok)
 
 Due Mon, Oct 23, 9:30 AM: [Submit]
 
