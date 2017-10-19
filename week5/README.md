@@ -32,6 +32,7 @@
 
 ### Class Preparation
 
+- Another getting started guide [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 - Java Courses Project
 
 
