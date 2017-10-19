@@ -74,6 +74,10 @@
 - the `instanceof` operator
 - Encapsulation
 
+### Class Preparation
+
+- [Sort Employees](./comparing-employees.md)
+
 ### References
 
 - Equality and Sets:
