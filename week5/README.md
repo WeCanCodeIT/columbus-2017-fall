@@ -32,13 +32,12 @@
 
 ### Class Preparation
 
-- [Spring Boot Quick Start Unit 2](https://javabrains.io/courses/spring_bootquickstart/)
-- More practice together using Gradle, Git Bash and the People class
+- Java Courses Project
 
 
 ### References
 
-- [Spring Getting Started Guide: Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+
 - [Accessing the local server](./accessing-the-local-server.md)
 
 ## Wednesday, Oct 25
