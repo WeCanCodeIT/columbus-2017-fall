@@ -2,7 +2,7 @@
 
 ### Objectives
 - Students will be introduced to the Spring Framework by creating a sample MVC application
-- Stidents will `Model` a `CourseTopic` and setup a `CourseController` to handle GET requests to display many and one courses in a `View`
+- Students will `Model` a `CourseTopic` and setup a `CourseController` to handle GET requests to display many and one courses in a `View`
 
 ### Annotations used in this tutorial
 - **`@Repository`**: Indicates that an annotated class is a "Repository", originally defined by Domain-Driven Design (Evans, 2003) as "a mechanism for encapsulating storage, retrieval, and search behavior which emulates a collection of objects".
@@ -21,20 +21,20 @@ Not an annotation but important to define:
 - Access through `Bash` and do a `gradle eclipse`
 - `import` through your Eclipse package explorer
 
-### Classes to build
-- `CourseTopic`: The Model Class
+### Classes to build (will be demonstrated in the video tutorial)
+- **`CourseTopic`**: The Model Class
   - contains object properties for `id`, `name`, and `description`
   - contains appropriate constructor, getters and setters
-- `CourseRepository`: The Maintenance Class for the map
+- **`CourseRepository`**: The Maintenance Class for the map
  - contains the ability to access the entire map or one item in a map
-- `CourseController`: The Controller class to handle HTTP requests
+- **`CourseController`**: The Controller class to handle HTTP requests
 - An Application class that will already be build out using the Spring Initializr
 
 ### Resources to build
 
 The following html resources are needed to `View` the application during run time. We will begin to go into deeper detail about these files on Wednesday and Thursday once we get into Front End Design with Intro to HTML and Thymeleaf. For now, copy these into your project so that you are able to see this application in action.
 
-In **templates** create **`courses.html`** and paste the following code snippet
+In **templates package** create **`courses.html`** and paste the following code snippet
 ```bash
 <!DOCTYPE HTML>
 
@@ -60,7 +60,7 @@ In **templates** create **`courses.html`** and paste the following code snippet
 </html>
 ```
 
-In the templates package, create **`course.html`** and paste the following code snippet
+In the **templates package**, create **`course.html`** and paste the following code snippet
 ```bash
 <!DOCTYPE HTML>
 
