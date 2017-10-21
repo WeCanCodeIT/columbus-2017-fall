@@ -26,7 +26,7 @@ Not an annotation but important to define:
   - contains object properties for `id`, `name`, and `description`
   - contains appropriate constructor, getters and setters
 - **`CourseRepository`**: The Maintenance Class for the map
- - contains the ability to access the entire map or one item in a map
+ 	- contains the ability to access the entire map or one item in a map
 - **`CourseController`**: The Controller class to handle HTTP requests
 - An Application class that will already be build out using the Spring Initializr
 
