@@ -28,7 +28,7 @@ Not an annotation but important to define:
 - **`CourseRepository`**: The Maintenance Class for the map
  	- contains the ability to access the entire map or one item in a map
 - **`CourseController`**: The Controller class to handle HTTP requests
-- An Application class that will already be build out using the Spring Initializr
+- An Application class that will already be built out using the Spring Initializr
 
 ### Resources to build
 
