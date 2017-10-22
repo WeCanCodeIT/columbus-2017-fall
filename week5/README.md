@@ -12,6 +12,7 @@
 
 - [Spring Initializr](http://start.spring.io/)
 - [Create Hello World](https://spring.io/guides/gs/serving-web-content/) using the video [Getting Started Guide: Serving Web Content](https://www.youtube.com/watch?v=aLJ9MeQQry8&feature=youtu.be)
+- Another getting started guide [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 
 
 ### References
@@ -28,16 +29,14 @@
 ### Topics
 
 - Students will get more practice with mapping requests in the controller to access all and one in a list
-- Spring MVC Hello World
 
 ### Class Preparation
 
-- Another getting started guide [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-- Java Courses Project
+- [Courses](https://www.youtube.com/watch?v=YcgtStRstgw)
+
 
 
 ### References
-
 
 - [Accessing the local server](./accessing-the-local-server.md)
 
