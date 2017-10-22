@@ -66,7 +66,9 @@
 
 ### References
 
-
+- [Unsplash](https://unsplash.com/)
+- [Font Awesome](http://fontawesome.io/examples/)
+- [Logo Makr](https://logomakr.com/)
 
 
 ## Friday, Nov 3
