@@ -40,6 +40,12 @@
 
 - [Accessing the local server](./accessing-the-local-server.md)
 
+### Spring A-La Carte Projects
+
+- [Handling Form Submissions](https://spring.io/guides/gs/handling-form-submission/)
+- [Validating Form Input](https://spring.io/guides/gs/validating-form-input/)
+
+
 ## Wednesday, Oct 25
 
 ### Topics
