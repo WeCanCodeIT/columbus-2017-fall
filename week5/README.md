@@ -32,7 +32,7 @@
 
 ### Class Preparation
 
-- [Courses](https://www.youtube.com/watch?v=YcgtStRstgw)
+- Use this [Spring MVC Guide](./) and the training video on [Courses](https://www.youtube.com/watch?v=YcgtStRstgw)
 
 
 
