@@ -81,9 +81,7 @@
 ### References
 
 - [Iteration in Thymeleaf](http://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#iteration)
-- [Unsplash](https://unsplash.com/)
-- [Font Awesome](http://fontawesome.io/examples/)
-- [Logo Makr](https://logomakr.com/)
+
 
 
 
