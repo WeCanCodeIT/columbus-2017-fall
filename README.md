@@ -55,6 +55,7 @@ Note: Prepare for Headshots Next Week
 - MVC
 
 **Career Services:** Inbound Marketing Yourself with LinkedIn
+Resumes Due by 9:30 AM Day of In Class Session
 
 ### Week 6 
 - CSS
