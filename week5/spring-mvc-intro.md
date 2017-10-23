@@ -17,6 +17,8 @@ Not an annotation but important to define:
 ### Project Set-up (will be demonstrated in the video tutorial)
 - Use the Spring Initializr to create the java-courses project
   - We will add the devtools dependency. This will allow us to make changes during run time without having to restart our server.
+  - Add the Web dependency
+  - Add the Thymeleaf dependency
 - Unzip to your default-package or code folder 
 - Access through `Bash` and do a `gradle eclipse`
 - `import` through your Eclipse package explorer
