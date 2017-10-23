@@ -39,6 +39,7 @@
 ### References
 
 - [Accessing the local server](./accessing-the-local-server.md)
+- [Dependency Injection](https://wecancodeit.github.io/java-slides/objects/dependency-injection/)
 
 ### Spring A-La Carte Projects
 
