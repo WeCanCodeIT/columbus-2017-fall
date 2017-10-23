@@ -86,3 +86,7 @@ In the **templates package**, create **`course.html`** and paste the following c
 </html>
 ```
 
+
+# Stretch Tasks
+- Add a 4th param (instructor) to the course and show this information in the front end of your application
+
