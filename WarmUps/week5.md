@@ -3,9 +3,9 @@
 
 ### Monday Oct 23
 
-We are going to work with the Spring Cooker Problem (clone from slack link)
+We are going to work with the Spring Cooker Problem clone this url: https://github.com/AlanKostrick/spring-cookers.git
 
-Purpose of this activity:
+**Purpose of this activity:**
 - observe how Objects/Classes are coupled
 - practice building out additions to the Controller
 
