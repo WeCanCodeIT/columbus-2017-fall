@@ -58,7 +58,7 @@
 
 ### Class Preparation
 
-- My Practice Site Repository 
+- Practice
 
 ### References
 
