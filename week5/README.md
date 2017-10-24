@@ -40,6 +40,7 @@
 
 - [Accessing the local server](./accessing-the-local-server.md)
 - [Dependency Injection](https://wecancodeit.github.io/java-slides/objects/dependency-injection/)
+- [List of HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
 ### Spring A-La Carte Projects
 
