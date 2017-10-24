@@ -12,7 +12,8 @@
 
 - [JPA Notes](./JPA-notes.md)
 - [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
-- [Spring Boot Quick Start Unit 4](https://javabrains.io/courses/spring_bootquickstart/)
+- [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+- A Topic with Courses
 
 ### References
 
@@ -30,7 +31,8 @@
 
 ### Class Preparation
 
-- [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+-States and Cities
+
 
 ### References
 
