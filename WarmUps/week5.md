@@ -1,7 +1,7 @@
 ## Week 5
 
 
-### Monday Oct 23
+### Tues Oct 24
 
 We are going to work with the Spring Cooker Problem clone this url: https://github.com/AlanKostrick/spring-cookers.git
 
