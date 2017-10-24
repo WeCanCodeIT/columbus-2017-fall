@@ -47,7 +47,6 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 - Build Automation with Gradle*
 
 **Career Services:** Resume Workshop Continued
-Note: Prepare for Headshots Next Week
 
 ### Week 5 
 - Spring Boot
@@ -55,7 +54,10 @@ Note: Prepare for Headshots Next Week
 - MVC
 
 **Career Services:** Inbound Marketing Yourself with LinkedIn
-Resumes Due by 9:30 AM Day of In Class Session
+
+**Resumes Due (Printed) by 9:30 AM Day of In Class Session**
+
+**Note:** Prepare for Headshots Next Week on Friday
 
 ### Week 6 
 - CSS
@@ -63,7 +65,7 @@ Resumes Due by 9:30 AM Day of In Class Session
 
 **Career Services:** LinkedIn Publishing
 
-*Start scheduling one-on-one check-ins 
+*Start [scheduling](https://app.hubspot.com/meetings/lauren47) one-on-one check-ins 
 
 ### Week 7
 - Relational Databases and Design
@@ -94,6 +96,8 @@ Resumes Due by 9:30 AM Day of In Class Session
 
 # Important Dates
 
+# Career Services One-on-One Scheduling
+Use the following link to schedule a one-on-one meeting for career assistance: [Schedule Meeting](https://app.hubspot.com/meetings/lauren47)
 
 # Attendance Policy
 
