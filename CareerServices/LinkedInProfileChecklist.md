@@ -1,5 +1,5 @@
 ## LinkedIn Profile Checklist
-LinkedIn is one of the most popular online social platforms and is the #1 choice when it comes to using a social platform to build your professional brand and make professional connections for your career. There are several main features of LinkedIn, including:
+LinkedIn is one of the most popular online social platforms and is the #1 choice when it comes to using a social platform to build your professional brand and make professional connections for your career with over 259M professionals and over 3M companies. There are several main features of LinkedIn, including:
 - News Feed
 - Profile
 - Network
@@ -28,11 +28,6 @@ Tools:
 - Use other developers at your Bucket List companies as examples. What keywords are they using? What do their headlines say?
 (Remeber, not all LinkedIn profiles of other developers are necessarily good examples)
 
-## LinkedIn Profile Resources
-- [Profile Checklist by LinkedIn](https://university.linkedin.com/content/dam/university/global/en_US/site/pdf/LinkedIn%20Profile%20Checklist%20-%20College%20Students.pdf)
-- [5 Ways To Optimize Your LinkedIn Profile So Recruiters Can Find You](https://www.workitdaily.com/optimize-linkedin-profile-recruiters/)
-- [How to Identify Exactly the Right Keywords for Your LinkedIn Profile](https://www.job-hunt.org/linkedin-job-search/indeed-jobtrends-research.shtml)
-
 ### Step 3: Present a Professional Profile Photo
 - Headshots will be taken NEXT Friday during class
 - Come prepared, dress for the job you want
@@ -43,6 +38,8 @@ Tools:
 
 ### Step 5: Offer your value statement through the Summary section
 - [ ] Your summary section is another key location for keywords to improve your SEO on LinkedIn. Unlike your resume, your LinkedIn summary is allowed to take a more conversational tone and include more of your personality.
+- Use other devlopers at your Bucket List companies as examples
+- [WCCI Graduate Example](https://www.linkedin.com/in/kierrawestmoreland/)
 
 ### Step 6: Add Your Work Experience
 - [ ] Make your work experience keyword-rich
@@ -52,9 +49,16 @@ Tools:
 - [ ] Add skills that are relevant to your career as a developer
 - [ ] Use other developers at your Bucket List companies as examples
 
+## LinkedIn Profile Resources
+- [Profile Checklist by LinkedIn](https://university.linkedin.com/content/dam/university/global/en_US/site/pdf/LinkedIn%20Profile%20Checklist%20-%20College%20Students.pdf)
+- [5 Ways To Optimize Your LinkedIn Profile So Recruiters Can Find You](https://www.workitdaily.com/optimize-linkedin-profile-recruiters/)
+- [How to Identify Exactly the Right Keywords for Your LinkedIn Profile](https://www.job-hunt.org/linkedin-job-search/indeed-jobtrends-research.shtml)
+
 ## Homework: Due Next Class Session
 - [ ] Complete all of the above steps (except for the headshot)
 - [ ] Connect with all We Can Code IT Staff and your cohort
 - [ ] Begin endorsing relevant skills for others in your cohort
+- [ ] Add LinkedIn to your email signature:
+  - [Connect with me on LinkedIn](https://www.linkedin.com/in/laurenmholloway)
 - [ ] **Start to write a list of professional connections from your past who may be willing to write a recommendation for you and brig the list to class along with your Interview Bucket List**
 
