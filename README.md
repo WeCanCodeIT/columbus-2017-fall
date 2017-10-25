@@ -53,7 +53,7 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 - HTML
 - MVC
 
-**Career Services:** Inbound Marketing Yourself with LinkedIn
+**Career Services:** [Inbound Marketing Yourself with LinkedIn](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/LinkedInProfileChecklist.md)
 
 **Resumes Due (Printed) by 9:30 AM Day of In Class Session**
 
