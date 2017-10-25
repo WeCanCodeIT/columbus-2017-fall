@@ -39,7 +39,8 @@ Tools:
 ### Step 5: Offer your value statement through the Summary section
 - [ ] Your summary section is another key location for keywords to improve your SEO on LinkedIn. Unlike your resume, your LinkedIn summary is allowed to take a more conversational tone and include more of your personality.
 - Use other devlopers at your Bucket List companies as examples
-- [WCCI Graduate Example](https://www.linkedin.com/in/kierrawestmoreland/)
+- [WCCI Graduate Example #1](https://www.linkedin.com/in/kierrawestmoreland/)
+- [WCCI Graduate Example #2](https://www.linkedin.com/in/summersaleh/)
 
 ### Step 6: Add Your Work Experience
 - [ ] Make your work experience keyword-rich
