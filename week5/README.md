@@ -58,7 +58,7 @@
 
 ### Class Preparation
 
-- Practice
+- [HTML The Structure of the Internet](https://wecancodeit.github.io/java-slides/frontend/html/#/)
 
 ### References
 
