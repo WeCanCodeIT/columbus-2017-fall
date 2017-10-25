@@ -71,7 +71,7 @@
 
 ### Topics
 
-- Students will begin putting it all together (back end to very basic front end (for now))
+- Students will begin putting it all together (back end to front end)
 - Students will develop an understading of Iterations in Thymeleaf
 
 ### Class Preparation
