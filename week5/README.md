@@ -77,8 +77,8 @@
 ### Class Preparation
 
 - [Thymeleaf Slides](https://wecancodeit.github.io/java-slides/web/thymeleaf/)
-- [Thymeleaf Exercise](./thymeleaf-notes.md)
-- Continue with practice site or create a new Repository
+- [Thymeleaf Sample](./thymeleaf-notes.md)
+
 
 ### References
 
