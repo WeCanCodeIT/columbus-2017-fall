@@ -27,10 +27,6 @@
 
 ```
 
-### Exercises
-
-- Add a third parameter to the constructor in the person class, an integer called age, update the html to display the persons name, soc sec # and age
-- Use if logic to greet a person once their name is clicked on. If we click on Alan then he will get greeted with Hi Alan.
 
 
   
