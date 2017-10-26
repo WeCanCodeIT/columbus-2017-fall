@@ -59,6 +59,8 @@
 ### Class Preparation
 
 - [HTML The Structure of the Internet](https://wecancodeit.github.io/java-slides/frontend/html/#/)
+- [Thymeleaf Slides](https://wecancodeit.github.io/java-slides/web/thymeleaf/)
+- [Thymeleaf Sample](./thymeleaf-notes.md)
 
 ### References
 
@@ -76,8 +78,8 @@
 
 ### Class Preparation
 
-- [Thymeleaf Slides](https://wecancodeit.github.io/java-slides/web/thymeleaf/)
-- [Thymeleaf Sample](./thymeleaf-notes.md)
+- [CSS Styling](https://wecancodeit.github.io/java-slides/frontend/css-styling/#/)
+
 
 
 ### References
