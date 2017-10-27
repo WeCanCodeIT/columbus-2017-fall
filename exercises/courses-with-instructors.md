@@ -60,4 +60,5 @@ It means determining how objects and their relationships are persisted in a rela
 
 ## Stretch Tasks
 - Be able to find all courses that contain the word Java
+- Use CSS to add styling to your application
 
