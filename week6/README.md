@@ -5,23 +5,22 @@
 ### Topics
 
 - Students will review HTML and CSS design structures
+- Students will be introduced to CSS Grid Layout in order to begin making more elegant designs
 
 ### Class Preparation
 
-- [HTML structure](../exercises/html-structure/)
-- [Never Go Out](../exercises/never-go-out/)
+- Grid Layout
 
 ### References
 
-- [w3schools interactive HTML tutorial](https://www.w3schools.com/html/default.asp)
-- [w3schools interactive CSS tutorial](https://www.w3schools.com/css/default.asp)
+- [CSS Grid Layout MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 
 ## Tuesday, Oct 31
 
 ### Topics
 
-- CSS Flexbox
+- Students will be introduced to Flexbox
 
 ### Class Preparation
 
@@ -38,13 +37,12 @@
 
 ### Topics
 
-- Students will be able to use Bootstrap to control website layout
-- Students will be introduced to the Grid System Layout
+- Students will be introduced to Bootstrap Templates and Frameworks because they do exist
+- Students will understand that the best way to understand web design is to program it YOURSELF
 
 ### Class Preparation
 
-- [Start Me Up](../exercises/start-me-up/)
-- [Life Is Strange](../exercises/bootstrap-life-is-strange/)
+
 
 ### References
 
