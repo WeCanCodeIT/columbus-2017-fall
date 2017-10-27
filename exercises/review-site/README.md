@@ -20,7 +20,7 @@ Create a Spring Boot + MVC app that displays a list of reviews, allowing us to c
 	- whatever other things you'd like to include. Some ideas:
 		- date
 		- description/synopsis
-		- tags (this should probably be a `Collection`)
+		- ** Stretch Task**: tags (this should probably be a `Collection`)
 	- [ ] *accessor* (`get*` methods) that return information about review attributes. These will allow your Thymeleaf templates to display information about reviews.
 - [ ] Create a `ReviewRepository` class
 	- [ ] This class should be a `@Component` so that it can be injected into `ReviewsController`.
