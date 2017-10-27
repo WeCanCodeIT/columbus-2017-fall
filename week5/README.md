@@ -98,7 +98,7 @@
  - Questions/Comments/Concerns/Shout-Outs for the good of the order???
  - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
 
-Weekly Graded Exercise: [Reviews Site](../exercises/reviews-site)
+Weekly Graded Exercise: [Reviews Site](../exercises/review-site)
 
 
 Due Mon, Oct 30, 9:30 AM: [TBD]()
