@@ -52,7 +52,7 @@ It means determining how objects and their relationships are persisted in a rela
 
 ## Create the CourseController Class
 - You will need to be able to call methods of the repository interfaces...what should we declare?
-- @RequestMapping for all instructors and one instructor....and all courses and one course
+- `@RequestMapping` for all instructors and one instructor....and all courses and one course
 
 ## Build out your Thymeleaf templates
 - Be able to view a list of courses and navigate into information on each course...including name of course, description and instructor
