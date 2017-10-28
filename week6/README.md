@@ -39,10 +39,11 @@
 
 - Students will be introduced to Bootstrap Templates and Frameworks because they do exist
 - Students will understand that the best way to understand web design is to program it YOURSELF
+- Students will be introduced to HTML Forms 
 
 ### Class Preparation
 
-
+- Manipulate data in the Courses project using HTML Forms
 
 ### References
 
@@ -56,6 +57,7 @@
 
 ### Topics
 
+- Introduction to JPA
 - Students will continue to focus on great front end styling
 
 ### Class Preparation
@@ -75,7 +77,6 @@
  
  - Anonymous
  - Questions/Comments/Concerns/Shout-Outs for the good of the order???
- - I will post index card feedback on the cohort Slack so everyone can see what the group's thoughts are (totally anonymous)
  
 Weekly Graded Exercise: [Professional Portfolio](../exercises/professional-portfolio)
 
