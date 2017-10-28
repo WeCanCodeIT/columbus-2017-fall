@@ -38,7 +38,7 @@
 ### Topics
 
 - Students will be introduced to Bootstrap Templates and Frameworks because they do exist
-- Students will understand that the best way to understand web design is to program it YOURSELF
+- Students will be reminded that the best way to understand web design is to program it YOURSELF
 - Students will be introduced to HTML Forms 
 
 ### Class Preparation
