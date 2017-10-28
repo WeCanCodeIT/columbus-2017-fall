@@ -101,4 +101,4 @@
 Weekly Graded Exercise: [Reviews Site](../exercises/review-site)
 
 
-Due Mon, Oct 30, 9:30 AM: [TBD]()
+Due Mon, Oct 30, 9:30 AM
