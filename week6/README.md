@@ -51,6 +51,7 @@
 	- [Bootstrap: Getting Started](http://getbootstrap.com/getting-started/)
 	- [Bootstrap: Grid system](http://getbootstrap.com/css/#grid)
 - [w3schools Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
+- [w3schools HTML Forms Tutorial(https://www.w3schools.com/html/html_forms.asp)
 
 
 ## Thursday, Nov 2
