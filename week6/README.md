@@ -52,6 +52,7 @@
 	- [Bootstrap: Grid system](http://getbootstrap.com/css/#grid)
 - [w3schools Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
 - [w3schools HTML Forms Tutorial](https://www.w3schools.com/html/html_forms.asp)
+- [MDN HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 
 
 ## Thursday, Nov 2
