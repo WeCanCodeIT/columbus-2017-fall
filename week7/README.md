@@ -10,13 +10,13 @@
 
 ### Class Preparation
 
-- [JPA Notes](./JPA-notes.md)
 - [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
 - [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 - [Courses and Instructors](../exercises/courses-with-instructors.md)
 
 ### References
 
+- [JPA Notes](./JPA-notes.md)
 - [Java Persistence (on wikibooks)](https://en.wikibooks.org/wiki/Java_Persistence)
 
 	*Note that a pdf version is available on that page, which may make it easier to search for things in the ebook.*
