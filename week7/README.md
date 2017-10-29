@@ -31,7 +31,7 @@
 
 ### Class Preparation
 
--[States and Cities](../exercises/cities-and-states.md) Pair Programming Activity
+- [States and Cities](../exercises/cities-and-states.md) Pair Programming Activity
 
 
 ### References
