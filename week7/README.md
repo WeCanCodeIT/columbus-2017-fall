@@ -49,6 +49,7 @@
 
 ### Class Preparation
 
+-[States and Cities](../exercises/states-and-cities.md) Pair Programming Activity
 
 ### References
 
