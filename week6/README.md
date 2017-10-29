@@ -9,7 +9,7 @@
 
 ### Class Preparation
 
-- Grid Layout
+- [CSS Grid Layout](https://wecancodeit.github.io/java-slides/frontend/css-grid/#/)
 
 ### References
 
