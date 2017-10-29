@@ -13,7 +13,7 @@
 - [JPA Notes](./JPA-notes.md)
 - [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
 - [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-- A Topic with Courses
+- [Courses and Instructors](../exercises/courses-with-instructors.md)
 
 ### References
 
@@ -31,7 +31,7 @@
 
 ### Class Preparation
 
--States and Cities
+-[States and Cities](../exercises/cities-and-states.md) Pair Programming Activity
 
 
 ### References
@@ -45,11 +45,11 @@
 ### Topics 
 
 - Database Entity Relationships
-- Intro to HTML Forms 
+ 
 
 ### Class Preparation
 
--[States and Cities](../exercises/states-and-cities.md) Pair Programming Activity
+
 
 ### References
 
