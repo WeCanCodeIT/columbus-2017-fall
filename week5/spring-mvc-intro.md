@@ -53,7 +53,7 @@ In **templates package** create **`courses.html`** and paste the following code 
 	
 	<div th:each="course: ${courses}">
 		<h2>
-			<a th:href="@{/course(id=${course.getId()})}" th:text="${course.getName()}"></a>
+			<a th:href="@{/course(id=${course.id})}" th:text="${course.name}"></a>
 		</h2>
 	</div>
 
@@ -79,8 +79,8 @@ In the **templates package**, create **`course.html`** and paste the following c
 	</header>
 
 	<div th:each="course: ${courses}">
-		<h2 th:text="${course.getName()}"></h2>
-		<h2 th:text="${course.getDescription()}"></h2>
+		<h2 th:text="${course.name}"></h2>
+		<h2 th:text="${course.description}"></h2>
 		<a href="http://localhost:8080/courses">Back to home</a>
 	</div>
 
