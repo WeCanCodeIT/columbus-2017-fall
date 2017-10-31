@@ -10,9 +10,11 @@
 
 ### Class Preparation
 
+- Let's show off some professional portfolios!
+- [w3schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
 - [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
 - Lets Clone [jpa-sample](https://github.com/AlanKostrick/jpa-sample) that goes along with the [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-- [Courses and Instructors](../exercises/courses-with-instructors.md)
+
 
 ### References
 
@@ -31,6 +33,7 @@
 
 ### Class Preparation
 
+- [Courses and Instructors](../exercises/courses-with-instructors.md)
 - [States and Cities](../exercises/cities-and-states.md) Pair Programming Activity
 
 
@@ -49,6 +52,7 @@
 
 ### Class Preparation
 
+- Continue with - [States and Cities](../exercises/cities-and-states.md) Pair Programming Activity
 
 
 ### References
@@ -60,11 +64,11 @@
 ### Topics 
 
 - Students will review concepts and build upon activities with JPA
-- Students will be introduced to SQL
+- Students will be exposed to multiple database connections
 
 ### Class Preparation
 
-- [w3schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
+
 
 ### References 
 
