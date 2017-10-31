@@ -14,7 +14,6 @@ It means determining how objects and their relationships are persisted in a rela
 
 ## Project Setup
 - Using the [Spring Initializr](https://start.spring.io/) build out a new Gradle Project
-  - name the package `com`
   - use kebab case to name the Artifact `courses-with-instructors`
   - bring in the following dependencies
       - Thymeleaf
