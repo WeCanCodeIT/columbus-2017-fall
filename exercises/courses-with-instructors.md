@@ -27,14 +27,14 @@ It means determining how objects and their relationships are persisted in a rela
 
 ## Create the Instructor class
 - Our class will use `@Entity` 
-- This class will allow for an instance of `instructor` to be built out
-- Our `instructor` will have an `id`, `firstName`, and `lastName`
+- This class will allow for an instance of `Instructor` to be built out
+- Our `Instructor` will have an `id`, `firstName`, and `lastName`
 - Attach `@Id` and `@GeneratedValue` to the proper instance variable
 - We need to create a `@OneToMany` relationship mapped by `instructor` onto a collection (Set) of `courseTopics` (Why a Set?)
 - Let's create a no args constructor, a more defined constructor and some accessor methods so that we can have some display in our Thymeleaf templates
 
 ## Create the CourseTopic class
-- In similar fashion create this class to hold an instance of `courseTopic`
+- In similar fashion create this class to hold an instance of `CourseTopic`
 - What should we use for instance data?
 - What is the relationship between `CourseTopic` and `Instructor`?
 
