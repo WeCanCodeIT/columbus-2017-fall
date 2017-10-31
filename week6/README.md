@@ -24,6 +24,7 @@
 
 ### Class Preparation
 
+- [Flexbox Slides](https://wecancodeit.github.io/java-slides/frontend/css-flexbox/#/)
 - [Flexbox Zombies](http://flexboxzombies.com)
 
 ### References
