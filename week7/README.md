@@ -11,7 +11,7 @@
 ### Class Preparation
 
 - [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
-- [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+- Lets Clone [jpa-sample](https://github.com/AlanKostrick/jpa-sample) that goes along with the [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 - [Courses and Instructors](../exercises/courses-with-instructors.md)
 
 ### References
