@@ -13,7 +13,7 @@
 - Let's show off some professional portfolios!
 - [w3schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
 - [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
-- Lets Clone [jpa-sample](https://github.com/AlanKostrick/jpa-sample) that goes along with the [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+- Lets Clone [jpa-sample](https://github.com/AlanKostrick/jpa-sample) that goes along with the [Spring Getting Started Guide: Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/) and will reference these [Notes](./JPA-getting-started-guide.md)
 
 
 ### References
