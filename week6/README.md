@@ -39,12 +39,11 @@
 ### Topics
 
 - Students will be introduced to Bootstrap Templates and Frameworks because they do exist
-- Students will be reminded that the best way to understand web design is to program it YOURSELF
-- Students will be introduced to HTML Forms 
+- Students will be reminded that the best way to understand web design is to program it YOURSELF 
 
 ### Class Preparation
 
-- Manipulate data in the Courses project using HTML Forms
+- Project
 
 ### References
 
@@ -60,12 +59,12 @@
 
 ### Topics
 
-- Introduction to JPA
-- Students will continue to focus on great front end styling
+- Students will be introduced to HTML forms, and begin to link some eclipse methods to a front end user interface
 
 ### Class Preparation
 
-- Access your front end files from your Review site, create a better look for these pages
+- Clone [form-submission](https://github.com/AlanKostrick/form-submission)
+- Manipulate data in the Courses project using HTML Forms
 
 ### References
 
