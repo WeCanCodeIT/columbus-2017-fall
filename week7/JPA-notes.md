@@ -1,69 +1,36 @@
-## Spring Data JPA
-
-### There are standard methods in a typical resource in a REST API in Spring MVC
-
-- Get all resources
-- Get an individual resource 
-- Create or add new resource
-- Update/change a resource
-- Delete a resource
-
-### What is JPA
-
-- Java Persistence API
-  - Allows for **Object-Relational Mapping (ORM)**
-- Most databases that you are accessing are SQL
-- **SQL** is a Relational Database
-- A **Relational Database** contains tables and keys 
-- ORM lets you map entity classes to SQL tables
-
-### The Entity Class
-
-- The class that needs mapped to the database
-- Think of the member variables (instance data) as the columns
-- Think of the objects (class instances) as the rows 
-
-Example:
-
- ```
-  @Entity
-  public class Topic {
+### Getting Started
+## Accessing Data with JPA
+  - Purpose: [This guide](https://spring.io/guides/gs/accessing-data-jpa/) will demonstrate how to use Spring and JPA to save objects to a database and fetch them. 
   
-  @Id
-  private String id;
-  private String name;
-  private String description;
+## Customer Class
+- `Customer` objects are stored as a JPA Entity
+  - Contains 3 attributes
+    - id
+    - firstName
+    - lastName
+   - Default Constructor
+    - exists for the sake of JPA
+    - but don't all classes already contain a default constructor? Why do I need to specify this?
+      - all classes do...until you implement a constructor of your own with arguments
+      - so make sure to specify the default no args constructor
+      
+     - can be protected or public
+     - JPA & Hibernate will use reflection to create an instance of an object at runtime...being dynamic, this constructor will be needed
+-`@Entity`: maps class to a table called `Customer`
+  - attributes of `id`, `firstName` and `lastName` can be thought of as the columbs
+  - each created object can be thought of as the rows in the table
 
-```
-- with the **@Entity** annotation JPA knows to create a table called Topic with 3 columns: id, name and description
-- **@Id** tells the database where the primary key is
-- The annotaions affect what is directly underneath, therefore attaching @Id to the String id member
+## Creating Queries
+- Popular queries include:
+  - saving
+  - deleting
+  - finding
 
-### The Process
-
-- Step 1: Entity Mapping
-- Step 2: Find the class to connect to the database and run commands to access, save and retrieve data
-  - No matter what your entity is, the structor will remain very similar (Standard operations)
-
-### The CrudRepository
-
-- Contains the logic for an entity class
-- CrudRepository Generic Type
-- CrudRepository<What is the Entity Class?, What is the id this Entity class has?>
-  - **public interface TopicRepository extends CrudRepository<Topic,String>**
-- You will now have access to all methods that come out of the box with CrudRepository
-  - These methods will update
-    - Get all resources
-    - Get an individual resource 
-    - Create or add new resource
-    - Update/change a resource
-     - Delete a resource 
-
-### One to Many
-
-- **@OneToMany** 
-- Topics can contain multiple courses, for example,  but each course will belong to one topic 
-- A course is then tied to a particular topic 
+## Let's observe our application in action
+- We can see in our `Application` class a  `CommandLineRunner` what is this doing?
+- We can see calls to `findOne`and `findAll` as well as `save` but we haven't coded these methods...where are they coming from?
+- Where is `findByLastName` coming from?
 
 
-  
+
+
