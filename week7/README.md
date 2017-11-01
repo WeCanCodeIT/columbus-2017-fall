@@ -23,7 +23,7 @@
 
 	*Note that a pdf version is available on that page, which may make it easier to search for things in the ebook.*
 
-
+- [JDBC Database Access](https://docs.oracle.com/javase/tutorial/jdbc/index.html)
 
 ## Tuesday, Nov 7
 
