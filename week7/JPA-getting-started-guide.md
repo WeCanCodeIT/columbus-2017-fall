@@ -35,5 +35,9 @@
 - Wired together by the Spring framework, Hibernate is used to persist Java objects into Relational Databases
 - It is not easy to get object oriented code...remember == and .equals()???...identity and equality???? yeahhhhh to mesh well with Relational Databases...and Relational Databases are going to be very popular in the enterprise world ...[READ MORE...](https://www.packtpub.com/books/content/introduction-hibernate-and-spring-part-1)
 
-
+## Connecting to an H2 Database
+`jdbc`: protocol
+`h2`: database (vendor)
+`mem`: H2-specific, means use a temporary in-memory database
+`testdb`: arbitrary database identifier/name, the default used by Spring Boot
 
