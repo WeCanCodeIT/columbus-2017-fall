@@ -52,7 +52,7 @@
 
 ### Class Preparation
 
-- Continue with - [States and Cities](../exercises/cities-and-states.md) Pair Programming Activity
+- Continue with [States and Cities](../exercises/cities-and-states.md) Pair Programming Activity
 
 
 ### References
