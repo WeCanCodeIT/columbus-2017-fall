@@ -27,7 +27,7 @@
   - finding
 
 ## Let's observe our application in action
-- We can see in our `Application` class a  `CommandLineRunner` what is this doing?
+- We can see in our `CustomerPopulator` class a  `CommandLineRunner` what is this doing?
 - We can see calls to `findOne`and `findAll` as well as `save` but we haven't coded these methods...where are they coming from?
 - Where is `findByLastName` coming from?
 
