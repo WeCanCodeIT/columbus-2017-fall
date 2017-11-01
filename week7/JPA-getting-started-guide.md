@@ -45,4 +45,4 @@
 So far, we’ve been using a temporary embedded in-memory database that disappears once our app shuts down. We can still run H2 as embedded (as opposed to installing a standalone server) but use a persistent datastore. To do so, we need to specify a JDBC URL.
 
 ## Persistent database
-[COnfiguring H2 to use a Persistent Database](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
+[Configuring H2 to use a Persistent Database](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
