@@ -1,6 +1,6 @@
 ### Getting Started
 ## Accessing Data with JPA
-  - Purpose: [This guide](https://spring.io/guides/gs/accessing-data-jpa/) will demonstrate how to use Spring and JPA to save objects to a database and fetch them. 
+  - Purpose: [This guide](https://wecancodeit.github.io/java-resources/spring/getting-started-guides/accessing-data-with-jpa/) will demonstrate how to use Spring and JPA to save objects to a database and fetch them. 
   
 ## Customer Class
 - `Customer` objects are stored as a JPA Entity
