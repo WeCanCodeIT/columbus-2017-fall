@@ -16,7 +16,7 @@
       
      - can be protected or public
      - JPA & Hibernate will use reflection to create an instance of an object at runtime...being dynamic, this constructor will be needed
--`@Entity`: maps class to a table called `Customer`
+- `@Entity`: maps class to a table called `Customer`
   - attributes of `id`, `firstName` and `lastName` can be thought of as the columns
   - each created object can be thought of as the rows in the table
 
