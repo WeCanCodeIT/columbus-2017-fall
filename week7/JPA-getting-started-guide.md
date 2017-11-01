@@ -31,6 +31,9 @@
 - We can see calls to `findOne`and `findAll` as well as `save` but we haven't coded these methods...where are they coming from?
 - Where is `findByLastName` coming from?
 
+## What is Hibernate?
+- Wired together by the Spring framework, Hibernate is used to persist Java objects into Relational Databases
+- It is not easy to get object oriented code...remember == and .equals???...identity and equality???? yeahhhhh to mesh well with Relational Databases...and Relational Databases are going to be very popular in the enterprise world ...[READ MORE...](https://www.packtpub.com/books/content/introduction-hibernate-and-spring-part-1)
 
 
 
