@@ -63,7 +63,7 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 - CSS
 - Bootstrap
 
-**Career Services:** LinkedIn Publishing
+**Career Services:** [Informational Interviews](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/informational-interviews.md)
 
 *Start [scheduling](https://app.hubspot.com/meetings/lauren47) one-on-one check-ins 
 
@@ -72,7 +72,7 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
-**Career Services:** Informational & Behavioral Interview Skills
+**Career Services:** Behavioral Interview Skills
 
 ### Week 8 
 - JavaScript/jQuery
