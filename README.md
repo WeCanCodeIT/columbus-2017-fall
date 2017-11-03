@@ -95,6 +95,11 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 '*' Denotes potential topics
 
 # Important Dates
+- Friday, November 10th from 11 AM to 2 PM: Fahrenheit IT @ We Can Code IT to Conduct Interviews
+- Tuesday, November 14th from 12 PM to 1 PM: Experis Showcase (Lunch will be provided)
+- Wednesday, November 15th from 3 PM to 5 PM: Offsite Visit to Abercrombie Campus
+- Thursday, November 16th from 12 PM to 1 PM: Nationwide Showcase (Lunch will be provided)
+
 
 # Career Services One-on-One Scheduling
 Use the following link to schedule a one-on-one meeting for career assistance: [Schedule Meeting](https://app.hubspot.com/meetings/lauren47)
