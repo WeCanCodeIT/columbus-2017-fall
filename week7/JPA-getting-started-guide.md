@@ -33,6 +33,8 @@
 - We can see in our `CustomerPopulator` class a  `CommandLineRunner` what is this doing?
 - We can see calls to `findOne`and `findAll` as well as `save` but we haven't coded these methods...where are they coming from?
 - Where is `findByLastName` coming from?
+- Add the ability to `findByFirstName` and test this Query
+- Change `findByLastName` to `lookForLastName` and observe what happens....[Here's Why](https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html)
 
 ## What is Hibernate?
 - Wired together by the Spring framework, Hibernate is used to persist Java objects into Relational Databases
