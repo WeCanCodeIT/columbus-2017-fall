@@ -56,3 +56,7 @@ So far, we’ve been using a temporary embedded in-memory database that disappea
 
 ## Persistent database
 [Configuring H2 to use a Persistent Database](https://wecancodeit.github.io/java-resources/data-access/h2/persistent-storage/)
+
+## Extra Practice
+- Use this same project to create another persistent database. Practice adding a few items, deleting items and ordering items. Use the SQL commands from W3 Schools for guidance. 
+- Create a java class called `CustomerOrder` that creates an entity to handle customer orders. It can become a table to handle order number, customer and item. Build a database (in memory or persistent) your choice. Create a simple MVC application to show the orders.
