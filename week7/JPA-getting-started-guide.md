@@ -42,7 +42,7 @@
 - We can see calls to `findOne`and `findAll` as well as `save` but we haven't coded these methods...where are they coming from?
 - Where is `findByLastName` coming from?
 - Add the ability to `findByFirstName` and test this Query
-- Change `findByLastName` to `lookForLastName` and observe what happens....[Here's Why](https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html)
+- Change `findByLastName` to `lookForLastName` and observe what happens....[Here's Why: Working with Spring Data Repositories](https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html)
 - Change queries to `readByLastName` or `getByLastName` and notice what happens
 
 ## What is Hibernate?
