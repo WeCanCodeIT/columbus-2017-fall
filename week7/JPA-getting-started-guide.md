@@ -1,6 +1,12 @@
 ### Getting Started
 ## Accessing Data with JPA
   - Purpose: [This guide](https://wecancodeit.github.io/java-resources/spring/getting-started-guides/accessing-data-with-jpa/) will demonstrate how to use Spring and JPA to save objects to a database and fetch them. 
+  - By the end of this guide, students will be able to 
+    - Create an in memory database using Command Line Runner in a Populator class
+    - Create an in memory database using H2
+    - Create a persistent database using H2
+    - Write SQL commands to develop and manipulate a database
+    - Write queries using the CRUD repository and add own implementations to a Repository class
   
 ## Customer Class
 - `Customer` objects are stored as a JPA Entity
