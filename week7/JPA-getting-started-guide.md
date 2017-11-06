@@ -21,10 +21,13 @@
   - each created object can be thought of as the rows in the table
 
 ## Creating Queries
+- Spring Data JPA focuses on using JPA to store data in a relational database
+- One of its most compelling features is its ability to create repository implementations from the CRUD repository
 - Popular queries include:
   - saving
   - deleting
   - finding
+- The [CRUD Repository](https://docs.spring.io/autorepo/docs/spring-data-commons/1.5.1.RELEASE/api/org/springframework/data/repository/CrudRepository.html)
 
 ## Let's observe our application in action
 - We can see in our `CustomerPopulator` class a  `CommandLineRunner` what is this doing?
