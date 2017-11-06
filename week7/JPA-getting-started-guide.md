@@ -25,6 +25,8 @@
 - `@Entity`: maps class to a table called `Customer`
   - attributes of `id`, `firstName` and `lastName` can be thought of as the columns
   - each created object can be thought of as the rows in the table
+  
+  - Object Relational Mapping: **[ORM]**(http://hibernate.org/orm/what-is-an-orm/)
 
 ## Creating Queries
 - Spring Data JPA focuses on using JPA to store data in a relational database
