@@ -47,6 +47,10 @@
 `mem`: H2-specific, means use a temporary in-memory database
 `testdb`: arbitrary database identifier/name, the default used by Spring Boot
 
+- Add a record through the H2 Database, refresh the MVC application to see the results
+- Remove the added record from the H2 Database, refresh the MVC application to see the results
+- Remove all last names of Bauer, using the H2 Database, refresh the MVC application to see the results
+
 ## In memory database
 So far, we’ve been using a temporary embedded in-memory database that disappears once our app shuts down. We can still run H2 as embedded (as opposed to installing a standalone server) but use a persistent datastore. To do so, we need to specify a JDBC URL.
 
