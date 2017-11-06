@@ -18,7 +18,6 @@
 ### References
 
 - [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
-- [JPA Notes](./JPA-notes.md)
 - [Java Persistence (on wikibooks)](https://en.wikibooks.org/wiki/Java_Persistence)
 
 	*Note that a pdf version is available on that page, which may make it easier to search for things in the ebook.*
