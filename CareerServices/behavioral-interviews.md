@@ -12,9 +12,9 @@ Behavioral interviews are centered around questions, such as "Tell me about a ti
 - Be specific about the facts of the situation.
 - Keep to the main points.
 - Focus on what YOU did, not your team.
+- The situation and result should be succinct, and put the emphasis on the action you took.
 
 ### Sample Interview Questions
-- The situation and result should be succinct, and put the emphasis on the action you took.
 1. Give an example of a time when you used logic to solve a problem.
 2. Give an example of a goal you reached and tell me how you achieved it.
 3. Give an example of a goal you didn't meet and how you handled it.
