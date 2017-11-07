@@ -33,7 +33,7 @@ It means determining how objects and their relationships are persisted in a rela
 - We need to create a `@OneToMany` relationship mapped by `instructor` onto a collection (Set) of `courseTopics` (Why a Set?)
 - Let's create a no args constructor, a more defined constructor and some accessor methods so that we can have some display in our Thymeleaf templates
 
-- [Entity MappingsResource](https://www.thoughts-on-java.org/entity-mappings-introduction-jpa-fetchtypes/)
+- [Entity Mappings Resource](https://www.thoughts-on-java.org/entity-mappings-introduction-jpa-fetchtypes/)
 
 ## Create the CourseTopic class
 - In similar fashion create this class to hold an instance of `CourseTopic`
