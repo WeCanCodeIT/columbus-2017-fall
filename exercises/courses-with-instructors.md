@@ -46,8 +46,8 @@ It means determining how objects and their relationships are persisted in a rela
 - This will use `@Component`
 - Bring in `@Resource` for an `instructorRepo` and a `courseRepo`
 - Override the run method to 
-  - Create and save 3 instructors
-  - Create and save 4 courses
+  - Create and save 3 instructors: Brian Forsythe, Don Hamilton and Alan Kostrick
+  - Create and save 4 courses: Spring with instructor Brian, HTML and Javascript with instructor Donny and Java with instructor Alan
 
 ## Create the CourseController Class
 - You will need to be able to call methods of the repository interfaces...what should we declare?
