@@ -58,6 +58,5 @@ It means determining how objects and their relationships are persisted in a rela
 - Also be able to view a list of instructors and be able to navigate to information on each instructor...including the courses they are teaching
 
 ## Stretch Tasks
-- Be able to find all courses that contain the word Java
-- Use CSS to add styling to your application
+- Try to run some other queries on your database, declare these queries in the proper Repository
 
