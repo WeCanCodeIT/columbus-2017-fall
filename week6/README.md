@@ -32,6 +32,7 @@
 - Mozilla Developer Network:
 	- [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 	- [Using flexbox to lay out web applications](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_flexbox_to_lay_out_web_applications)
+	- [Flexbox and Grids, Your Layouts Best Friends](https://aerolab.co/blog/flexbox-grids/)
 
 
 ## Wednesday, Nov 1
@@ -39,7 +40,7 @@
 ### Topics
 
 - Students will be introduced to Bootstrap Templates and Frameworks because they do exist
-- Students will be reminded that the best way to understand web design is to program it YOURSELF 
+- Students will be reminded that the best way to understand web design is to program it YOURSELF
 
 ### Class Preparation
 
@@ -77,10 +78,10 @@
 ## Friday, Nov 3
 
 ### Index Card Feedback
- 
+
  - Anonymous
  - Questions/Comments/Concerns/Shout-Outs for the good of the order???
- 
+
 Weekly Graded Exercise: [Professional Portfolio](../exercises/professional-portfolio)
 
 Due Mon, June 26, 9:30 AM: [Submission Link](https://goo.gl/forms/0I9EJpSWTnX1mbcA2)
