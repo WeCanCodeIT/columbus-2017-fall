@@ -7,3 +7,5 @@
 - **RDBMS: Relational Database Management System**: a database management system based on the relational model
 - **JDBC: Java Database Connectivity**: an API (Application Programming Interface) for Java that specifies how a client may access a database
 - **H2**: A RDBMS written in Java and can support both in memory(temporary during run time and persistent databases
+- **JPA**: Java Persistence API: A Java specification for accessing, persisting and managing data between Java objects and classes and Relational Databases
+
