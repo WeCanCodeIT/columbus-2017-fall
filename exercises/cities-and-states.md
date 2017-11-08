@@ -49,3 +49,16 @@ Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` i
 - One of our tables has a `@ManyToMany` relationship
 - One of our tables has both a `@ManyToOne` and a `@ManyToMany` relationship
 
+## Build out the necessary files
+- An Entity class for each table
+- A Repository for each table
+- A Controller that handles requests to `genres.html`, `authors.html` and `books.html`
+- A Populator to build the database 
+
+### Hints
+- Your `Book` constructor must handle the multiple authors last in the params... it will look like this:
+  - `public Book (Foo foo, Bar bar, FooBar ... fooBar){
+      this.foo = foo;
+      this.bar = bar;
+      this.fooBar = new HashSet(Arrays.asList(fooBar));
+      }
