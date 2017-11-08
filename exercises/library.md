@@ -64,5 +64,7 @@ Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` i
       this.fooBar = new HashSet(Arrays.asList(fooBar));
       }
    ```
-   
+ - Use concatenation in Thymeleaf to display attributes in the same way you would in Java...with the + sign...only difference is you will use 'single quotes' to enclose Strings or empty space
+   ```bash
+   <p th:text="${'Name: ' + item.firstName + ' ' + item.lastName}"</p>
    
