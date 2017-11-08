@@ -72,7 +72,7 @@ Welcome to this Full Time Java Full Stack Coding Bootcamp running from Sept. 25 
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
-**Career Services:** Behavioral Interview Skills
+**Career Services:** [Behavioral Interviews](https://github.com/WeCanCodeIT/wcci-columbus-2017-fall/blob/master/CareerServices/behavioral-interviews.md)
 
 ### Week 8 
 - JavaScript/jQuery
