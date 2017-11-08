@@ -57,8 +57,12 @@ Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` i
 
 ### Hints
 - Your `Book` constructor must handle the multiple authors last in the params... it will look like this:
-  - `public Book (Foo foo, Bar bar, FooBar ... fooBar){
+  ```bash
+  public Book (Foo foo, Bar bar, FooBar ... fooBar){
       this.foo = foo;
       this.bar = bar;
       this.fooBar = new HashSet(Arrays.asList(fooBar));
       }
+   ```
+   
+   
