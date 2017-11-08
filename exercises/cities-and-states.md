@@ -35,6 +35,14 @@ Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` i
 |Kathy|Sierra|
 |Bert|Bates|
 |Elisabeth|Freeman|
-|Cliffort|Stoll|
+|Clifford|Stoll|
+
+### The `Book` Table
+|genre|title|authors|
+|----|--------|---|
+|Non Fiction|Head First Design Patterns|Kathy Sierra, Bert Bates|
+|Non Fiction|Head First Java|Kathy Sierra, Elisabeth Freeman|
+|Fiction|The Cukoo's Egg|Clifford Stoll|
+
 
 
