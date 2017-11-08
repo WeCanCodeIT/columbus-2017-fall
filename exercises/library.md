@@ -56,6 +56,8 @@ Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` i
 - A Populator to build the database 
 
 ### Hints
+- The `@OneToMany` relationship will need to be `mappedBy`
+- One of the `@ManyToMany` annotations will need to be `mappedBy` this will be the non-owning side, the object that could possbily have multiples tied to a single book 
 - Your `Book` constructor must handle the multiple authors last in the params... it will look like this:
   ```bash
   public Book (Foo foo, Bar bar, FooBar ... fooBar){
