@@ -44,5 +44,8 @@ Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` i
 |Non Fiction|Head First Java|Kathy Sierra, Elisabeth Freeman|
 |Fiction|The Cukoo's Egg|Clifford Stoll|
 
-
+### Determine your relationships
+- One of our tables has a `@OneToMany` relationship
+- One of our tables has a `@ManyToMany` relationship
+- One of our tables has both a `@ManyToOne` and a `@ManyToMany` relationship
 
