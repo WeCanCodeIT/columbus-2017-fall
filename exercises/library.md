@@ -70,4 +70,6 @@ Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` i
    ```bash
    <p th:text="${'Name: ' + item.firstName + ' ' + item.lastName}"></p>
    ```
-   
+ - Your Thymeleaf template for `Genre` will simply display the 2 genres
+ - Your Thymeleaf template for `Author` will simply display the names of our authors
+ - Your Thymeleaf template for `Book` will display genre, title and author **displaying the author is very challenging** don't get hung up on this part, Donny can show you the line of code needed to display our authors
