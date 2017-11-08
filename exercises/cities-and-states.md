@@ -29,4 +29,12 @@ Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` i
 |Fiction|
 |Non Fiction|
 
+### The `Author` Table
+|firstName|lastName|
+|----|--------|
+|Kathy|Sierra|
+|Bert|Bates|
+|Elisabeth|Freeman|
+|Cliffort|Stoll|
+
 
