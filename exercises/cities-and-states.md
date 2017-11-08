@@ -24,7 +24,7 @@
 Libraries categorize books by `Genre`. A `Book` can only belong to one `Genre` in our Library. Some of our authors are busy and they have written multiple books. An `Author` can also share duties, so multiple authors can write a single book. 
 
 ### The `Genre` Table
-|genre|
-|Fiction|
-|Non Fiction| 
+|String genre|
+|Fiction     |
+|Non Fiction | 
 
