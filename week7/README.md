@@ -50,7 +50,7 @@
 
 ### Class Preparation
 
-- [States and Cities](../exercises/cities-and-states.md) Pair Programming Activity
+- [Library](../exercises/library.md) Pair Programming Activity
 
 
 ### References
