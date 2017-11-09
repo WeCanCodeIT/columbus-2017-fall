@@ -9,4 +9,5 @@ html semantically marked |10
 css style according to convention| 10
 utilize css grid layout according to conventional practice| 10
 utilize flexbox according to convantional practice|10
-Style/formatting/code quality |10
+style/formatting/code quality |10
+**total points**|**100**
