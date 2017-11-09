@@ -2,7 +2,7 @@
 
 ## Overview
 
-Return to your reviews site from the [previous exercise](../reviews-site) (or create another).
+Return to your reviews site from the previous exercise (or create another).
 
 
 ## Creating a new repository from an existing one
