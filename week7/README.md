@@ -75,4 +75,4 @@
 
 Weekly Graded Exercise: [Full Stack Reviews Site](../exercises/reviews-site-full-stack/)
 
-Due Mon, Nov 13th, 9:30 AM: [Submission Link](#) (link TBD)
+Due Mon, Nov 13th, 9:30 AM: 
