@@ -5,7 +5,7 @@
 ### Topics
 
 - Students will be able to identify the differences between Java and Javascript
-- Students will be able to write Javascrip in a text editor
+- Students will be able to write Javascript in a text editor
 
 ### Class Preparation
 
