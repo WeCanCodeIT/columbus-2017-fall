@@ -25,16 +25,18 @@
 
 ### Topics
 
-- Students will be able to develope a better understanding of the capabilities of Javascript
+- Introduction to JQuery
 
 ### Class Preparation
 
-- Online editors / collaboration tools:
-	- [CodePen](https://codepen.io)
-	- [JS Bin](https://jsbin.com)
-	- [Glitch](https://glitch.com/)
+
 
 ### References
+
+- [Try jQuery (jQuery Tutorial)](http://try.jquery.com/)
+- [jQuery Learning Center](http://learn.jquery.com/)
+- [jQuery](https://jquery.com/)
+- [jQuery API documentation](http://api.jquery.com/)
 
 
 ## Wednesday, Nov 15
