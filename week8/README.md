@@ -9,13 +9,13 @@
 
 ### Class Preparation
 
+- [Java vs JavaScript slides](https://wecancodeit.github.io/java-slides/web/java-vs-javascript/)
 - [Intro to JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript/#/)
 
 
 ### References
 
-
-- [Java vs JavaScript slides](https://wecancodeit.github.io/java-slides/web/java-vs-javascript/)
+- [JavaScript Documentation](http://devdocs.io/javascript/)
 - [Master the JavaScript Interview: What's the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 - [A first splash into JavaScript @ MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
 - [Javascript30: 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
