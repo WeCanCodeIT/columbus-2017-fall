@@ -28,7 +28,7 @@
 - Introduction to JQuery
 
 ### Class Preparation
-
+- [J Query Slide Deck](https://wecancodeit.github.io/java-slides/frontend/jquery/#/)
 
 
 ### References
