@@ -4,6 +4,8 @@
 
 - Dynamically remove tags in your web application using buttons and text fields 
 
+**Notes on Tags** Give the user the option to add a tag to a particular review, and if that tag does not exist, it can be created and applied. 
+
 - Update information in your reviews/templates to include the tags in the information you have provided to the user interface
 
 - Create a template to show all reviews that belong to a particular tag
