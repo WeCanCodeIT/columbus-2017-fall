@@ -62,7 +62,7 @@
 ### Class Preparation
 
 - Cracking the Coding Interview [Whiteboarding](https://www.youtube.com/watch?v=_rNNvRDMBWc)
-- [Intro to ES6 slide deck]((https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
+- [Intro to ES6 slide deck](https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
 
 ### References
 
