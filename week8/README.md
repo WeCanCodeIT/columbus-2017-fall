@@ -56,17 +56,17 @@
 
 ### Topics
 
-- Introduction to JQuery
+- Introduction to Whiteboarding
+- Introduction to JavaScript ES6 
 
 ### Class Preparation
 
-- [Try jQuery (jQuery Tutorial)](http://try.jquery.com/)
-- [jQuery Learning Center](http://learn.jquery.com/)
+- Cracking the Coding Interview [Whiteboarding](https://www.youtube.com/watch?v=_rNNvRDMBWc)
+- Intro to ES6 slide deck
 
 ### References
 
-- [jQuery](https://jquery.com/)
-- [jQuery API documentation](http://api.jquery.com/)
+
 
 ## Friday, Nov 17
 
