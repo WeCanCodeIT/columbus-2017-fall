@@ -18,6 +18,6 @@
 
 - Create a confirm box on any tag or comment you would like to remove
 
-Stretch task:
+**Stretch task**:
 - Create a drop down menu
 - Use ES6 syntax
