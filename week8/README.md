@@ -70,4 +70,6 @@
 
 ## Friday, Nov 17
 
+Weekly Graded Exercise: [Full Stack Reviews Site Iteration 3](../exercises/reviews-iteration-3/)
 
+Due Mon, Nov 20th, 9:30 AM: 
