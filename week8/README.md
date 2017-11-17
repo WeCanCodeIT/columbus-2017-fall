@@ -66,9 +66,13 @@
 
 ### References
 
-
+- [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
+- [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax/#/)
 
 ## Friday, Nov 17
+
+- [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
+- [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax/#/)
 
 Weekly Graded Exercise: [Full Stack Reviews Site Iteration 3](../exercises/reviews-iteration-3/)
 
