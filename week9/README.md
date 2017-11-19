@@ -12,4 +12,4 @@
 - Demo Week 8 Projects
 - Capstone Project Pitch Day
 
-### Resources
+### References
