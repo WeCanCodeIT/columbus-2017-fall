@@ -12,7 +12,7 @@
 
 - Choose some words/titles in your page that you feel would be necessary to enhance with a mouse over to change the size of text
 
-- Add a copyright with date in the footer and when the user clicks or hovers over this text change it to say "created by Your Name"
+- Add a copyright with date in the footer and when the user either clicks or hovers (your choice of one of those tasks) over this text change it to say "created by Your Name"
 
 - Dynamically add comments to reviews
 
