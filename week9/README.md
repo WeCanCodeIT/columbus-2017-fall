@@ -13,3 +13,4 @@
 - Capstone Project Pitch Day
 
 ### References
+- [Agile Software Development](https://wecancodeit.github.io/java-slides/agile/intro/#/)
