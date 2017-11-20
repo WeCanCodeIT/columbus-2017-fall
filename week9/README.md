@@ -13,4 +13,17 @@
 - Capstone Project Pitch Day
 
 ### References
-- [Agile Software Development](https://wecancodeit.github.io/java-slides/agile/intro/#/)
+
+## Tuesday, Nov 21
+
+### Topics
+
+- Students will get introduced to Agile development
+- Students will get introduced to Trello Boards for project management
+
+### Class Preparation
+
+- - [Agile Software Development](https://wecancodeit.github.io/java-slides/agile/intro/#/)
+
+### References
+
