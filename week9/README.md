@@ -29,8 +29,7 @@
 
 
 ### References
-- [Clean Coders](https://cleancoders.com)
+
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
 - [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
-- [Uncle Bob's blog post about the three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
