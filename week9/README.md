@@ -24,7 +24,7 @@
 ### Class Preparation
 
 - [Agile Software Development](https://wecancodeit.github.io/java-slides/agile/intro/#/)
--  [SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development)
+- [SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development))
 - [Collaboration on GitHub](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)
 
 
