@@ -33,3 +33,8 @@
 - [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 - [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
 - [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
+
+## Capstone Resources
+
+-https://wecancodeit.github.io/java-resources/git/feature-branches/
+
