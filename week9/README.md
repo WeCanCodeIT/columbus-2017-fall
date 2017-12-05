@@ -36,5 +36,6 @@
 
 ## Capstone Resources
 
--https://wecancodeit.github.io/java-resources/git/feature-branches/
+- https://wecancodeit.github.io/java-resources/git/feature-branches/
+- https://www.youtube.com/watch?v=D8vT7G0WATM
 
