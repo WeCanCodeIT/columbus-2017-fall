@@ -24,7 +24,7 @@ This page has been developed to highlight all slide decks and projects that you 
 ### Exercises
 - [While Loop practice problems](./week2/while-loop-practice.md)
 - [For Loop practice problems](./week2/for-loop-practice.md)
-- [ATM](../exercises/atm.md)
+- [ATM](./exercises/atm.md)
 
 
 ## Week 3
