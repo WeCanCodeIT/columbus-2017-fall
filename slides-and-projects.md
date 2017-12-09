@@ -14,19 +14,30 @@ This page has been developed to highlight all slide decks and projects that you 
 - [Practice Problems and String Challenges](./week1/strings.md)
 
 
-##Week 2
+## Week 2
+### Slides
+- [Loops, Part 1 slides](https://wecancodeit.github.io/java-slides/fundamentals/loops-01/)
+- [For Loops slides](https://wecancodeit.github.io/java-slides/fundamentals/for-loops/)
+- [Branching Statements](https://wecancodeit.github.io/java-slides/fundamentals/branching-statements/)
+- [Arrays slides](https://wecancodeit.github.io/java-slides/fundamentals/arrays/)
 
-##Week 3
+### Exercises
+- [While Loop practice problems](./week2/while-loop-practice.md)
+- [For Loop practice problems](./week2/for-loop-practice.md)
+- [ATM](../exercises/atm.md)
 
-##Week 4
 
-##Week 5
+## Week 3
 
-##Week 6
+## Week 4
 
-##Week 7
+## Week 5
 
-##Week 8 
+## Week 6
 
-##Week 9
+## Week 7
+
+## Week 8 
+
+## Week 9
 
