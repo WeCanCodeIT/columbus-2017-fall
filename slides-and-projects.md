@@ -57,6 +57,15 @@ This page has been developed to highlight all slide decks and projects that you 
 
 
 ## Week 5
+### Slides
+- [Spring Framework Slides](https://wecancodeit.github.io/java-slides/spring/spring-boot/)
+- [Dependency Injection](https://wecancodeit.github.io/java-slides/objects/dependency-injection/)
+- [HTML The Structure of the Internet](https://wecancodeit.github.io/java-slides/frontend/html/#/)
+- [Thymeleaf Slides](https://wecancodeit.github.io/java-slides/web/thymeleaf/)
+- [CSS Styling](https://wecancodeit.github.io/java-slides/frontend/css-styling/#/)
+
+### Exercises
+- Use this [Spring MVC Guide](./week5/spring-mvc-intro.md) and the training video on [Courses](https://www.youtube.com/watch?v=YcgtStRstgw)
 
 ## Week 6
 
