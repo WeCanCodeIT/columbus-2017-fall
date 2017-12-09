@@ -28,6 +28,21 @@ This page has been developed to highlight all slide decks and projects that you 
 
 
 ## Week 3
+### Slides
+- [TDD](https://wecancodeit.github.io/java-slides/testing/tdd-intro/#/)
+- [Gradle Scripts](https://github.com/WeCanCodeIT/gradle-scripts)
+- [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
+- [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
+- [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
+
+### Exercises
+- Complete the [FizzBuzz](./week3/fizz-buzz.md) kata
+- [Let's Bake a Cake](./week3/arrayList-exercises.md) 
+- [Cookie Order](./exercises/cookie-orders.md)
+- [Create a Shopping Cart](./exercises/shopping-cart.md)
+- [Map Exercises](./week3/map-exercises.md)
+- [Bank Project](./exercises/bank-teller.md)
+
 
 ## Week 4
 
