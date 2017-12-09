@@ -1,4 +1,4 @@
-This page has been developed to highlight all slide decks and projects that you have been assigned during the course
+This page has been developed to highlight many of the slide decks and projects that you have been assigned during the course
 
 ## Week 1
 ### Slides
