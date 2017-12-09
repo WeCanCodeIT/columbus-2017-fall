@@ -68,10 +68,44 @@ This page has been developed to highlight all slide decks and projects that you 
 - Use this [Spring MVC Guide](./week5/spring-mvc-intro.md) and the training video on [Courses](https://www.youtube.com/watch?v=YcgtStRstgw)
 
 ## Week 6
+### Slides
+- [CSS Grid Layout](https://wecancodeit.github.io/java-slides/frontend/css-grid/#/)
+- [Flexbox Slides](https://wecancodeit.github.io/java-slides/frontend/css-flexbox/#/)
+
+
+### Exercises
+- Clone [form-submission](https://github.com/AlanKostrick/form-submission)
+- Manipulate data in the Courses project using HTML Forms
 
 ## Week 7
+### Slides
+- [JPA Slides](https://wecancodeit.github.io/java-slides/data/jpa/)
+
+## Exercises
+- [Accessing Data with JPA](https://wecancodeit.github.io/java-resources/spring/getting-started-guides/accessing-data-with-jpa/) and we will reference these [Notes](./week7/JPA-getting-started-guide.md) along the way
+- [Courses and Instructors](./exercises/courses-with-instructors.md)
+- [Library](./exercises/library.md) Pair Programming Activity
+
 
 ## Week 8 
+### Slides
+- [Java vs JavaScript slides](https://wecancodeit.github.io/java-slides/web/java-vs-javascript/)
+- [Intro to JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript/#/)
+- [J Query Slide Deck](https://wecancodeit.github.io/java-slides/frontend/jquery/#/)
+- [Intro to ES6 slide deck](https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
+
+
+### Exercises
+- [Jasmine Introduction](https://jasmine.github.io/2.0/introduction.html)
+- [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
+- [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax/#/)
 
 ## Week 9
+### Slides
+- [Agile Software Development](https://wecancodeit.github.io/java-slides/agile/intro/#/)
+
+
+### Exercises
+- https://wecancodeit.github.io/java-resources/git/feature-branches/
+- [Scrum](https://www.youtube.com/watch?v=D8vT7G0WATM)
 
