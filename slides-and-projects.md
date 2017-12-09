@@ -93,12 +93,13 @@ This page has been developed to highlight all slide decks and projects that you 
 - [Intro to JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript/#/)
 - [J Query Slide Deck](https://wecancodeit.github.io/java-slides/frontend/jquery/#/)
 - [Intro to ES6 slide deck](https://wecancodeit.github.io/java-slides/frontend/es2015/#/)
+- [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
+- [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax/#/)
 
 
 ### Exercises
 - [Jasmine Introduction](https://jasmine.github.io/2.0/introduction.html)
-- [Jasmine Testing for JavaScript](https://wecancodeit.github.io/java-slides/frontend/javascript-testing/#/)
-- [AJAX](https://wecancodeit.github.io/java-slides/frontend/ajax/#/)
+
 
 ## Week 9
 ### Slides
