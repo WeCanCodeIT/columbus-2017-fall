@@ -45,6 +45,16 @@ This page has been developed to highlight all slide decks and projects that you 
 
 
 ## Week 4
+### Slides
+- [APIE](https://wecancodeit.github.io/java-slides/objects/a-pie/)
+- [Equality and Sets](https://wecancodeit.github.io/java-slides/objects/equality-and-sets/)
+- [Encapsulation](https://wecancodeit.github.io/java-slides/objects/encapsulation/)
+
+### Exercises
+- [High St. Hospital](./exercises/hospital-project.md)
+- [Generics and Comparables](./week4/generics-and-comparable.md)
+- [Sort Employees](./week4/comparing-employees.md)
+
 
 ## Week 5
 
