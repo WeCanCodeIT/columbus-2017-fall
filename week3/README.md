@@ -14,7 +14,7 @@
 - Complete the [FizzBuzz](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/fizz-buzz) kata
 - Intro to ArrayLists
 - Complete the practice problems on Slide 17
-- [Let's Bake a Cake](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/array-lists) Extra practice that could be done outside of class
+- [Let's Bake a Cake](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/array-lists/) Extra practice that could be done outside of class
 - Recommended Reading: Head First Java pages 131-139
 
 ### References
