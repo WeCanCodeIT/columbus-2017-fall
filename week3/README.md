@@ -11,10 +11,10 @@
 
 ### Class Preparation
 
-- Complete the [FizzBuzz](./fizz-buzz.md) kata
+- Complete the [FizzBuzz](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/fizz-buzz) kata
 - Intro to ArrayLists
 - Complete the practice problems on Slide 17
-- [Let's Bake a Cake](./arrayList-exercises.md) Extra practice that could be done outside of class
+- [Let's Bake a Cake](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/array-lists) Extra practice that could be done outside of class
 - Recommended Reading: Head First Java pages 131-139
 
 ### References
@@ -42,8 +42,8 @@
 
 ### Class Preparation
 
-- [Cookie Order](../exercises/cookie-orders.md)
-- [Create a Shopping Cart](../exercises/shopping-cart.md)
+- [Cookie Order](https://wecancodeit.github.io/java-exercises/cookie-orders)
+- [Create a Shopping Cart](https://wecancodeit.github.io/java-exercises/shopping-cart)
 - Recommended Reading: Head First Java 132-138, 156, 208, 211-212, 288-289
 
 
@@ -61,7 +61,7 @@
 
 
 ### Class Preparation
-- [Map Exercises](./map-exercises.md)
+- [Map Exercises](https://wecancodeit.github.io/java-exercises/fundamentals-practice-problems/maps)
 - Recommended Reading: Head First Java 533, 557,558, 567
 
 ### References
@@ -79,7 +79,7 @@
 
 ### Class Preparation
 
-- [Bank Project](../exercises/bank-teller.md)
+- [Bank Project](https://wecancodeit.github.io/java-exercises/bank-teller)
 
 ### References
 
