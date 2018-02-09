@@ -14,7 +14,7 @@
 Not an annotation but important to define:
 - **`Model model`**: Java-5-specific interface that defines a holder for model attributes. Primarily designed for adding attributes to the model. Allows for accessing the overall model as a java.util.Map.
 
-### Project Set-up (will be demonstrated in the video tutorial)
+### Project Set-up 
 - Use the Spring Initializr to create the java-courses project
   - We will add the devtools dependency. This will allow us to make changes during run time without having to restart our server.
   - Add the Web dependency
@@ -24,12 +24,18 @@ Not an annotation but important to define:
 - `import` through your Eclipse package explorer
 
 ### Classes to build (will be demonstrated in the video tutorial)
-- **`CourseTopic`**: The Model Class
-  - contains object properties for `id`, `name`, and `description`
-  - contains appropriate constructor, getters and setters
-- **`CourseRepository`**: The Maintenance Class for the map
- 	- contains the ability to access the entire map or one item in a map
+- **`Course`**: 
+  - contains `String` object properties for `id`, `name`, and `description`
+  - contains appropriate constructor, and getters 
+- **`CourseRepository`**: 
+	- Creates 3 courses and puts them into the map we can use:
+		- `spring`, `Spring Framework`, `Spring Frameword Description`
+		- `java`, `Core Java`, `Core Java Description`
+		- `javascript`, `Intro to Javascript`, `Javascript Description`
+ 	- contains the ability to access the entire map's collection of courses or one course in the map
 - **`CourseController`**: The Controller class to handle HTTP requests
+	- Give user the ability to see all courses offered in the application
+	- Give user the ability to navigate into one of the courses for the details of the course
 - An Application class that will already be built out using the Spring Initializr
 
 ### Resources to build
