@@ -1,7 +1,7 @@
 
 Below are some logic problems that may get your brain thinking in the right direction for a Whiteboarding activity. Remember, it is not
 all about solving a probelm accurately, first try, but in how you think and talk through a problem. Whiteboarding may be one of the most
-difficult aspects of an interview and is one that is argued as to its fairness in the industry, but it exists nonetheless...remember, these companies have reachout out to you for an interview most likely as a junior developer that will be trained within the company. Show
+difficult aspects of an interview and is one that is argued as to its fairness in the industry, but it exists nonetheless...remember, these companies have reached out to you for an interview most likely as a junior developer that will be trained within the company. Show
 them you can think and problem solve and strike up good dialogue during this part of the interview and the interviewer would be smart to 
 hire you because you are AWESOME!
 
